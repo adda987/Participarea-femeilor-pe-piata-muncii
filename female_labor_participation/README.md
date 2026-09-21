@@ -174,7 +174,3 @@ Andreea-Daniela Sfetcu
 ## Observații
 
 Acest proiect este un instrument de cercetare academică și de explorare bazată pe date. El are rolul de a sintetiza, explica și vizualiza modele economice relevante, fără a substitui analiza critică și interpretarea contextuală.
-
----
-
-Pentru un profil GitHub mai scurt și orientat către prezentarea generală a proiectului, vezi și fișierul principal din rădăcina repo-ului: `README.md`.
