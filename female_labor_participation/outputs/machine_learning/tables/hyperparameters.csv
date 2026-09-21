@@ -1,0 +1,65 @@
+Task,Model,Parametru,Valoare
+Regresie,Dummy Mean,Fără tuning,Specificație implicită controlată
+Regresie,Linear Regression,Fără tuning,Specificație implicită controlată
+Regresie,Ridge,alpha,10
+Regresie,LASSO,alpha,0.1
+Regresie,SVR,kernel,rbf
+Regresie,SVR,gamma,scale
+Regresie,SVR,epsilon,0.5
+Regresie,SVR,degree,3
+Regresie,SVR,C,100
+Regresie,Random Forest,n_estimators,600
+Regresie,Random Forest,min_samples_split,2
+Regresie,Random Forest,min_samples_leaf,2
+Regresie,Random Forest,max_features,0.5
+Regresie,Random Forest,max_depth,12
+Regresie,Gradient Boosting,subsample,0.6
+Regresie,Gradient Boosting,n_estimators,100
+Regresie,Gradient Boosting,min_samples_leaf,2
+Regresie,Gradient Boosting,max_depth,4
+Regresie,Gradient Boosting,loss,squared_error
+Regresie,Gradient Boosting,learning_rate,0.1
+Regresie,XGBoost,subsample,0.6
+Regresie,XGBoost,reg_lambda,1
+Regresie,XGBoost,reg_alpha,0.01
+Regresie,XGBoost,n_estimators,400
+Regresie,XGBoost,min_child_weight,5
+Regresie,XGBoost,max_depth,4
+Regresie,XGBoost,learning_rate,0.1
+Regresie,XGBoost,colsample_bytree,0.6
+Regresie,Extra Trees,n_estimators,800
+Regresie,Extra Trees,min_samples_split,10
+Regresie,Extra Trees,min_samples_leaf,1
+Regresie,Extra Trees,max_features,1.0
+Regresie,Extra Trees,max_depth,12
+Clasificare,Dummy Classifier,Fără tuning,Specificație implicită controlată
+Clasificare,Logistic Regression,C,0.1
+Clasificare,SVC,kernel,rbf
+Clasificare,SVC,gamma,0.1
+Clasificare,SVC,degree,2
+Clasificare,SVC,C,10
+Clasificare,Random Forest,n_estimators,800
+Clasificare,Random Forest,min_samples_split,5
+Clasificare,Random Forest,min_samples_leaf,1
+Clasificare,Random Forest,max_features,0.5
+Clasificare,Random Forest,max_depth,12
+Clasificare,Random Forest,class_weight,balanced
+Clasificare,Gradient Boosting,subsample,1.0
+Clasificare,Gradient Boosting,n_estimators,200
+Clasificare,Gradient Boosting,min_samples_leaf,4
+Clasificare,Gradient Boosting,max_depth,4
+Clasificare,Gradient Boosting,learning_rate,0.2
+Clasificare,XGBoost,subsample,0.8
+Clasificare,XGBoost,reg_lambda,10
+Clasificare,XGBoost,reg_alpha,0.01
+Clasificare,XGBoost,n_estimators,200
+Clasificare,XGBoost,min_child_weight,1
+Clasificare,XGBoost,max_depth,4
+Clasificare,XGBoost,learning_rate,0.05
+Clasificare,XGBoost,colsample_bytree,0.8
+Clasificare,Extra Trees,n_estimators,800
+Clasificare,Extra Trees,min_samples_split,5
+Clasificare,Extra Trees,min_samples_leaf,1
+Clasificare,Extra Trees,max_features,0.5
+Clasificare,Extra Trees,max_depth,12
+Clasificare,Extra Trees,class_weight,balanced

@@ -1,0 +1,2 @@
+"Categorie","Test","Ipoteza nulă","Statistică","df","p-value","Decizie","Interpretare"
+"Selecția modelului","Hausman: FE vs RE","Estimatorul RE este consistent; diferențele dintre FE și RE nu sunt sistematice.",409.343218810345,"df 13",2.37474715882241e-79,"Respingem H0","Respingem ipoteza nulă la pragul de 5%. Modelul FE este preferat modelului RE."

@@ -1,0 +1,2 @@
+"Secțiune","Text"
+"Concluzii ale analizei panel","Panelul este echilibrat, cu 46 economii și 1058 observații country-year. Testele de selecție favorizează specificația Two-Way Fixed Effects. Efectele temporale comune sunt susținute de testele aplicate. Diagnosticul indică heteroscedasticitate. Există dovezi privind autocorelarea serială. Nu apar dovezi clare privind dependența transversală. Inferența robustă utilizată pentru interpretarea finală este: Driscoll–Kraay. Rezultatele descriu asocieri statistice în date panel și nu demonstrează automat relații cauzale."

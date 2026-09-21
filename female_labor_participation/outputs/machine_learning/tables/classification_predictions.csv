@@ -1,0 +1,1422 @@
+Model,Year,country,ISO3,Real cod,Predicție cod,Real,Predicție,Corect
+Dummy Classifier,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Austria,AUT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Belgium,BEL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Bulgaria,BGR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Belarus,BLR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Switzerland,CHE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Cyprus,CYP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Czechia,CZE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Germany,DEU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Denmark,DNK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Spain,ESP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Estonia,EST,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Finland,FIN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,France,FRA,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,United Kingdom,GBR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Croatia,HRV,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Hungary,HUN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Ireland,IRL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Iceland,ISL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Lithuania,LTU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Luxembourg,LUX,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Latvia,LVA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Malta,MLT,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Netherlands,NLD,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Norway,NOR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Poland,POL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Portugal,PRT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Russian Federation,RUS,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Slovak Republic,SVK,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2019,Slovenia,SVN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Sweden,SWE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2019,Ukraine,UKR,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Austria,AUT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Belgium,BEL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Bulgaria,BGR,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Belarus,BLR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Switzerland,CHE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Cyprus,CYP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Czechia,CZE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Germany,DEU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Denmark,DNK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Spain,ESP,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Estonia,EST,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Finland,FIN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,France,FRA,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,United Kingdom,GBR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Croatia,HRV,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Hungary,HUN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Ireland,IRL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Iceland,ISL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Lithuania,LTU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Luxembourg,LUX,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Latvia,LVA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Malta,MLT,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Netherlands,NLD,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Norway,NOR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Poland,POL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Portugal,PRT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Russian Federation,RUS,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Slovak Republic,SVK,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2020,Slovenia,SVN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Sweden,SWE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2020,Ukraine,UKR,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Austria,AUT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Belgium,BEL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Bulgaria,BGR,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Belarus,BLR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Switzerland,CHE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Cyprus,CYP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Czechia,CZE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Germany,DEU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Denmark,DNK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Spain,ESP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Estonia,EST,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Finland,FIN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,France,FRA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,United Kingdom,GBR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Croatia,HRV,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Hungary,HUN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Ireland,IRL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Iceland,ISL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Lithuania,LTU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Luxembourg,LUX,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Latvia,LVA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Malta,MLT,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Netherlands,NLD,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Norway,NOR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Poland,POL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Portugal,PRT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Russian Federation,RUS,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2021,Slovak Republic,SVK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Slovenia,SVN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Sweden,SWE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2021,Ukraine,UKR,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Austria,AUT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Belgium,BEL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Bulgaria,BGR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2022,Belarus,BLR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Switzerland,CHE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Cyprus,CYP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Czechia,CZE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Germany,DEU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Denmark,DNK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Spain,ESP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Estonia,EST,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Finland,FIN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,France,FRA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,United Kingdom,GBR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Croatia,HRV,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Hungary,HUN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Ireland,IRL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Iceland,ISL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2022,Lithuania,LTU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Luxembourg,LUX,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Latvia,LVA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2022,Malta,MLT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Netherlands,NLD,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Norway,NOR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Poland,POL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Portugal,PRT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2022,Russian Federation,RUS,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2022,Slovak Republic,SVK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Slovenia,SVN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Sweden,SWE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2022,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Austria,AUT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Belgium,BEL,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2023,Bulgaria,BGR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2023,Belarus,BLR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Switzerland,CHE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Cyprus,CYP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Czechia,CZE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Germany,DEU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Denmark,DNK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Spain,ESP,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Estonia,EST,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Finland,FIN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,France,FRA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,United Kingdom,GBR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2023,Croatia,HRV,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2023,Hungary,HUN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Ireland,IRL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Iceland,ISL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2023,Lithuania,LTU,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Luxembourg,LUX,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Latvia,LVA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2023,Malta,MLT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2023,Netherlands,NLD,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Norway,NOR,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Poland,POL,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Portugal,PRT,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Dummy Classifier,2023,Russian Federation,RUS,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Dummy Classifier,2023,Slovak Republic,SVK,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Slovenia,SVN,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Sweden,SWE,2,0,Participare ridicată,Participare scăzută,False
+Dummy Classifier,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2019,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,France,FRA,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2019,Croatia,HRV,1,1,Participare medie,Participare medie,True
+Logistic Regression,2019,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Logistic Regression,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Luxembourg,LUX,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+Logistic Regression,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2019,Malta,MLT,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2019,Montenegro,MNE,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Poland,POL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2019,Russian Federation,RUS,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2019,Serbia,SRB,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Logistic Regression,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2019,Ukraine,UKR,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Spain,ESP,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,France,FRA,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Greece,GRC,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2020,Ireland,IRL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Luxembourg,LUX,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2020,Malta,MLT,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Poland,POL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2020,Russian Federation,RUS,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2020,Serbia,SRB,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Slovak Republic,SVK,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2020,Ukraine,UKR,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Greece,GRC,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2021,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Luxembourg,LUX,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2021,Malta,MLT,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Montenegro,MNE,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Poland,POL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2021,Russian Federation,RUS,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2021,Serbia,SRB,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Logistic Regression,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2021,Ukraine,UKR,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Logistic Regression,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Greece,GRC,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Luxembourg,LUX,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2022,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Poland,POL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Serbia,SRB,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2022,Slovak Republic,SVK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2022,Turkiye,TUR,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+Logistic Regression,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Logistic Regression,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Greece,GRC,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2023,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Luxembourg,LUX,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Logistic Regression,2023,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Montenegro,MNE,1,1,Participare medie,Participare medie,True
+Logistic Regression,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Poland,POL,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Logistic Regression,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Serbia,SRB,1,2,Participare medie,Participare ridicată,False
+Logistic Regression,2023,Slovak Republic,SVK,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Logistic Regression,2023,Turkiye,TUR,0,2,Participare scăzută,Participare ridicată,False
+SVC,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+SVC,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+SVC,2019,Bulgaria,BGR,2,1,Participare ridicată,Participare medie,False
+SVC,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,France,FRA,1,1,Participare medie,Participare medie,True
+SVC,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Croatia,HRV,1,1,Participare medie,Participare medie,True
+SVC,2019,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+SVC,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+SVC,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+SVC,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Malta,MLT,1,1,Participare medie,Participare medie,True
+SVC,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Poland,POL,1,1,Participare medie,Participare medie,True
+SVC,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Serbia,SRB,1,1,Participare medie,Participare medie,True
+SVC,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+SVC,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+SVC,2019,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+SVC,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+SVC,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Belgium,BEL,1,1,Participare medie,Participare medie,True
+SVC,2020,Bulgaria,BGR,1,1,Participare medie,Participare medie,True
+SVC,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+SVC,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Spain,ESP,1,1,Participare medie,Participare medie,True
+SVC,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,France,FRA,1,2,Participare medie,Participare ridicată,False
+SVC,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Greece,GRC,0,1,Participare scăzută,Participare medie,False
+SVC,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+SVC,2020,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+SVC,2020,Ireland,IRL,1,1,Participare medie,Participare medie,True
+SVC,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+SVC,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+SVC,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+SVC,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+SVC,2020,Malta,MLT,1,0,Participare medie,Participare scăzută,False
+SVC,2020,Montenegro,MNE,0,2,Participare scăzută,Participare ridicată,False
+SVC,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Poland,POL,1,2,Participare medie,Participare ridicată,False
+SVC,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+SVC,2020,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Serbia,SRB,1,1,Participare medie,Participare medie,True
+SVC,2020,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+SVC,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+SVC,2020,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+SVC,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+SVC,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+SVC,2021,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+SVC,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+SVC,2021,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+SVC,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+SVC,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+SVC,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Malta,MLT,1,1,Participare medie,Participare medie,True
+SVC,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Poland,POL,1,1,Participare medie,Participare medie,True
+SVC,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Serbia,SRB,1,1,Participare medie,Participare medie,True
+SVC,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+SVC,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+SVC,2021,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+SVC,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+SVC,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Belgium,BEL,1,1,Participare medie,Participare medie,True
+SVC,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+SVC,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+SVC,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+SVC,2022,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+SVC,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+SVC,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+SVC,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Moldova,MDA,2,0,Participare ridicată,Participare scăzută,False
+SVC,2022,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+SVC,2022,Malta,MLT,2,1,Participare ridicată,Participare medie,False
+SVC,2022,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+SVC,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Poland,POL,1,1,Participare medie,Participare medie,True
+SVC,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+SVC,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Serbia,SRB,1,1,Participare medie,Participare medie,True
+SVC,2022,Slovak Republic,SVK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2022,Turkiye,TUR,0,1,Participare scăzută,Participare medie,False
+SVC,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+SVC,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Belgium,BEL,1,1,Participare medie,Participare medie,True
+SVC,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+SVC,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+SVC,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+SVC,2023,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+SVC,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+SVC,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Moldova,MDA,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+SVC,2023,Malta,MLT,2,1,Participare ridicată,Participare medie,False
+SVC,2023,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+SVC,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Poland,POL,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+SVC,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Serbia,SRB,1,1,Participare medie,Participare medie,True
+SVC,2023,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+SVC,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+SVC,2023,Sweden,SWE,2,1,Participare ridicată,Participare medie,False
+SVC,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Random Forest,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,France,FRA,1,1,Participare medie,Participare medie,True
+Random Forest,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Random Forest,2019,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Random Forest,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Malta,MLT,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Poland,POL,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Random Forest,2019,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Random Forest,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2019,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+Random Forest,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Spain,ESP,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,France,FRA,1,1,Participare medie,Participare medie,True
+Random Forest,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Random Forest,2020,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Random Forest,2020,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Italy,ITA,0,1,Participare scăzută,Participare medie,False
+Random Forest,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2020,Malta,MLT,1,0,Participare medie,Participare scăzută,False
+Random Forest,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Poland,POL,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Random Forest,2020,Russian Federation,RUS,2,1,Participare ridicată,Participare medie,False
+Random Forest,2020,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Random Forest,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2020,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Random Forest,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Random Forest,2021,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+Random Forest,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,France,FRA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Random Forest,2021,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Random Forest,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2021,Malta,MLT,1,1,Participare medie,Participare medie,True
+Random Forest,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Poland,POL,1,1,Participare medie,Participare medie,True
+Random Forest,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Random Forest,2021,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Random Forest,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2021,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Random Forest,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Random Forest,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,France,FRA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Greece,GRC,1,2,Participare medie,Participare ridicată,False
+Random Forest,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Random Forest,2022,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Random Forest,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Random Forest,2022,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+Random Forest,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Poland,POL,1,1,Participare medie,Participare medie,True
+Random Forest,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Random Forest,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2022,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Random Forest,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2022,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+Random Forest,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Random Forest,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Random Forest,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,France,FRA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Random Forest,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Random Forest,2023,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Random Forest,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Random Forest,2023,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+Random Forest,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Poland,POL,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Random Forest,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Random Forest,2023,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Random Forest,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Random Forest,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Bulgaria,BGR,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,France,FRA,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2019,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Malta,MLT,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Poland,POL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2019,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Bulgaria,BGR,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Czechia,CZE,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Spain,ESP,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,France,FRA,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Greece,GRC,0,2,Participare scăzută,Participare ridicată,False
+Gradient Boosting,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2020,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Gradient Boosting,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2020,Malta,MLT,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Poland,POL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2020,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2020,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2021,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,France,FRA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2021,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Malta,MLT,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Poland,POL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Gradient Boosting,2021,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2021,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,France,FRA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2022,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Gradient Boosting,2022,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Poland,POL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Gradient Boosting,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2022,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2022,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+Gradient Boosting,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Gradient Boosting,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Gradient Boosting,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,France,FRA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Gradient Boosting,2023,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Italy,ITA,0,1,Participare scăzută,Participare medie,False
+Gradient Boosting,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Gradient Boosting,2023,Malta,MLT,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Poland,POL,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Gradient Boosting,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Gradient Boosting,2023,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Gradient Boosting,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Gradient Boosting,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+XGBoost,2019,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,France,FRA,1,1,Participare medie,Participare medie,True
+XGBoost,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+XGBoost,2019,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+XGBoost,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Malta,MLT,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Poland,POL,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Serbia,SRB,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+XGBoost,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2019,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+XGBoost,2020,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+XGBoost,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Spain,ESP,1,2,Participare medie,Participare ridicată,False
+XGBoost,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,France,FRA,1,1,Participare medie,Participare medie,True
+XGBoost,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+XGBoost,2020,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+XGBoost,2020,Ireland,IRL,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Italy,ITA,0,1,Participare scăzută,Participare medie,False
+XGBoost,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2020,Malta,MLT,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Poland,POL,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+XGBoost,2020,Russian Federation,RUS,2,1,Participare ridicată,Participare medie,False
+XGBoost,2020,Serbia,SRB,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+XGBoost,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2020,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+XGBoost,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+XGBoost,2021,Bulgaria,BGR,1,2,Participare medie,Participare ridicată,False
+XGBoost,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,France,FRA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Greece,GRC,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+XGBoost,2021,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Luxembourg,LUX,2,0,Participare ridicată,Participare scăzută,False
+XGBoost,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2021,Malta,MLT,1,2,Participare medie,Participare ridicată,False
+XGBoost,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Poland,POL,1,1,Participare medie,Participare medie,True
+XGBoost,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+XGBoost,2021,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Serbia,SRB,1,1,Participare medie,Participare medie,True
+XGBoost,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+XGBoost,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2021,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+XGBoost,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+XGBoost,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,France,FRA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Greece,GRC,1,2,Participare medie,Participare ridicată,False
+XGBoost,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+XGBoost,2022,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Ireland,IRL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Luxembourg,LUX,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2022,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2022,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Montenegro,MNE,1,2,Participare medie,Participare ridicată,False
+XGBoost,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Poland,POL,1,1,Participare medie,Participare medie,True
+XGBoost,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+XGBoost,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2022,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+XGBoost,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2022,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+XGBoost,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+XGBoost,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+XGBoost,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,France,FRA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Greece,GRC,1,2,Participare medie,Participare ridicată,False
+XGBoost,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+XGBoost,2023,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+XGBoost,2023,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+XGBoost,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Poland,POL,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+XGBoost,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+XGBoost,2023,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+XGBoost,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+XGBoost,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2019,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Belgium,BEL,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Bulgaria,BGR,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2019,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2019,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,France,FRA,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Croatia,HRV,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2019,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Malta,MLT,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Poland,POL,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Extra Trees,2019,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2019,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2019,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2020,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2020,Bulgaria,BGR,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Spain,ESP,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,France,FRA,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2020,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2020,Ireland,IRL,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Luxembourg,LUX,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2020,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Malta,MLT,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Poland,POL,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Romania,ROU,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Serbia,SRB,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Slovak Republic,SVK,1,1,Participare medie,Participare medie,True
+Extra Trees,2020,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2020,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2020,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Extra Trees,2021,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2021,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2021,Bulgaria,BGR,1,1,Participare medie,Participare medie,True
+Extra Trees,2021,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,France,FRA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Greece,GRC,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2021,Hungary,HUN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Italy,ITA,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Malta,MLT,1,1,Participare medie,Participare medie,True
+Extra Trees,2021,Montenegro,MNE,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Poland,POL,1,1,Participare medie,Participare medie,True
+Extra Trees,2021,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Extra Trees,2021,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2021,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2021,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2021,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2021,Ukraine,UKR,1,1,Participare medie,Participare medie,True
+Extra Trees,2022,Albania,ALB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2022,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2022,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2022,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Spain,ESP,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,France,FRA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2022,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2022,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Extra Trees,2022,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,North Macedonia,MKD,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2022,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2022,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Poland,POL,1,1,Participare medie,Participare medie,True
+Extra Trees,2022,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Extra Trees,2022,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2022,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2022,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2022,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2023,Albania,ALB,2,0,Participare ridicată,Participare scăzută,False
+Extra Trees,2023,Austria,AUT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Belgium,BEL,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2023,Bulgaria,BGR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Bosnia and Herzegovina,BIH,0,0,Participare scăzută,Participare scăzută,True
+Extra Trees,2023,Belarus,BLR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Switzerland,CHE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Cyprus,CYP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Czechia,CZE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Germany,DEU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Denmark,DNK,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Spain,ESP,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Estonia,EST,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Finland,FIN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,France,FRA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,United Kingdom,GBR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Greece,GRC,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2023,Croatia,HRV,1,2,Participare medie,Participare ridicată,False
+Extra Trees,2023,Hungary,HUN,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,Ireland,IRL,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,Iceland,ISL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Italy,ITA,0,2,Participare scăzută,Participare ridicată,False
+Extra Trees,2023,Lithuania,LTU,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Luxembourg,LUX,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,Latvia,LVA,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Moldova,MDA,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,North Macedonia,MKD,0,2,Participare scăzută,Participare ridicată,False
+Extra Trees,2023,Malta,MLT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Montenegro,MNE,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2023,Netherlands,NLD,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Norway,NOR,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Poland,POL,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Portugal,PRT,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Romania,ROU,0,1,Participare scăzută,Participare medie,False
+Extra Trees,2023,Russian Federation,RUS,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Serbia,SRB,1,0,Participare medie,Participare scăzută,False
+Extra Trees,2023,Slovak Republic,SVK,2,1,Participare ridicată,Participare medie,False
+Extra Trees,2023,Slovenia,SVN,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Sweden,SWE,2,2,Participare ridicată,Participare ridicată,True
+Extra Trees,2023,Turkiye,TUR,0,0,Participare scăzută,Participare scăzută,True

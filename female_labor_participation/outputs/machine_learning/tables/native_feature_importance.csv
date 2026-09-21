@@ -1,0 +1,105 @@
+Model,Task,Feature raw,Feature,Importanță
+Random Forest,regression,log_gdp_pc,Log PIB/locuitor PPP,0.040907433014496175
+Random Forest,regression,gdp_growth,Creștere PIB,0.00531164213803622
+Random Forest,regression,inflation,Inflație,0.009792554789914655
+Random Forest,regression,female_unemployment,Șomaj feminin,0.060365358302478724
+Random Forest,regression,fertility,Fertilitate,0.08656246244164596
+Random Forest,regression,urbanization,Urbanizare,0.09373418393622358
+Random Forest,regression,female_services,Femei în servicii,0.09611653054427591
+Random Forest,regression,child_dependency,Dependența copiilor,0.04938819451524651
+Random Forest,regression,female_vulnerable,Ocupare vulnerabilă,0.14983844106860184
+Random Forest,regression,internet,Utilizare internet,0.1609367418301592
+Random Forest,regression,women_parliament,Femei în parlament,0.07214978945538236
+Random Forest,regression,female_tertiary,Educație terțiară feminină,0.06112099063281602
+Random Forest,regression,control_corruption,Controlul corupției,0.11377567733072286
+Gradient Boosting,regression,log_gdp_pc,Log PIB/locuitor PPP,0.04373016956105527
+Gradient Boosting,regression,gdp_growth,Creștere PIB,0.00376884093313224
+Gradient Boosting,regression,inflation,Inflație,0.006310063896494652
+Gradient Boosting,regression,female_unemployment,Șomaj feminin,0.06867417398769061
+Gradient Boosting,regression,fertility,Fertilitate,0.11786719264098573
+Gradient Boosting,regression,urbanization,Urbanizare,0.10636589538429914
+Gradient Boosting,regression,female_services,Femei în servicii,0.04435382946870105
+Gradient Boosting,regression,child_dependency,Dependența copiilor,0.026483282656542546
+Gradient Boosting,regression,female_vulnerable,Ocupare vulnerabilă,0.23177308340642785
+Gradient Boosting,regression,internet,Utilizare internet,0.15081853674411402
+Gradient Boosting,regression,women_parliament,Femei în parlament,0.05160571580971042
+Gradient Boosting,regression,female_tertiary,Educație terțiară feminină,0.05124931152508469
+Gradient Boosting,regression,control_corruption,Controlul corupției,0.09699990398576182
+XGBoost,regression,log_gdp_pc,Log PIB/locuitor PPP,0.035855889320373535
+XGBoost,regression,gdp_growth,Creștere PIB,0.008492064662277699
+XGBoost,regression,inflation,Inflație,0.010467728599905968
+XGBoost,regression,female_unemployment,Șomaj feminin,0.06941629201173782
+XGBoost,regression,fertility,Fertilitate,0.0918874442577362
+XGBoost,regression,urbanization,Urbanizare,0.09170296043157578
+XGBoost,regression,female_services,Femei în servicii,0.06046680361032486
+XGBoost,regression,child_dependency,Dependența copiilor,0.034138649702072144
+XGBoost,regression,female_vulnerable,Ocupare vulnerabilă,0.19897998869419098
+XGBoost,regression,internet,Utilizare internet,0.20899438858032227
+XGBoost,regression,women_parliament,Femei în parlament,0.06669790297746658
+XGBoost,regression,female_tertiary,Educație terțiară feminină,0.06744669377803802
+XGBoost,regression,control_corruption,Controlul corupției,0.05545319616794586
+Extra Trees,regression,log_gdp_pc,Log PIB/locuitor PPP,0.060105291638982136
+Extra Trees,regression,gdp_growth,Creștere PIB,0.002776217938127068
+Extra Trees,regression,inflation,Inflație,0.006039950653711051
+Extra Trees,regression,female_unemployment,Șomaj feminin,0.06343771797861873
+Extra Trees,regression,fertility,Fertilitate,0.06571806359250007
+Extra Trees,regression,urbanization,Urbanizare,0.09939443982514674
+Extra Trees,regression,female_services,Femei în servicii,0.08744488524682334
+Extra Trees,regression,child_dependency,Dependența copiilor,0.06697020593234514
+Extra Trees,regression,female_vulnerable,Ocupare vulnerabilă,0.12452428996911798
+Extra Trees,regression,internet,Utilizare internet,0.13987073223789329
+Extra Trees,regression,women_parliament,Femei în parlament,0.0902998162664673
+Extra Trees,regression,female_tertiary,Educație terțiară feminină,0.05971514938210398
+Extra Trees,regression,control_corruption,Controlul corupției,0.13370323933816317
+Random Forest,classification,log_gdp_pc,Log PIB/locuitor PPP,0.053230602410384874
+Random Forest,classification,gdp_growth,Creștere PIB,0.01704617748632758
+Random Forest,classification,inflation,Inflație,0.017366663537954134
+Random Forest,classification,female_unemployment,Șomaj feminin,0.09618072429293704
+Random Forest,classification,fertility,Fertilitate,0.03091977679754337
+Random Forest,classification,urbanization,Urbanizare,0.0915417782567198
+Random Forest,classification,female_services,Femei în servicii,0.09443922892905932
+Random Forest,classification,child_dependency,Dependența copiilor,0.02923129444999922
+Random Forest,classification,female_vulnerable,Ocupare vulnerabilă,0.1640513337477481
+Random Forest,classification,internet,Utilizare internet,0.13290538943325253
+Random Forest,classification,women_parliament,Femei în parlament,0.1050209955282959
+Random Forest,classification,female_tertiary,Educație terțiară feminină,0.06929112099046214
+Random Forest,classification,control_corruption,Controlul corupției,0.09877491413931574
+Gradient Boosting,classification,log_gdp_pc,Log PIB/locuitor PPP,0.044962440859449546
+Gradient Boosting,classification,gdp_growth,Creștere PIB,0.0078492279386946
+Gradient Boosting,classification,inflation,Inflație,0.008767037230104847
+Gradient Boosting,classification,female_unemployment,Șomaj feminin,0.08515758970777462
+Gradient Boosting,classification,fertility,Fertilitate,0.024030505732587602
+Gradient Boosting,classification,urbanization,Urbanizare,0.10256275927385806
+Gradient Boosting,classification,female_services,Femei în servicii,0.0477575367164889
+Gradient Boosting,classification,child_dependency,Dependența copiilor,0.027742347456047065
+Gradient Boosting,classification,female_vulnerable,Ocupare vulnerabilă,0.23352134972629796
+Gradient Boosting,classification,internet,Utilizare internet,0.15572738081138543
+Gradient Boosting,classification,women_parliament,Femei în parlament,0.08976570620089758
+Gradient Boosting,classification,female_tertiary,Educație terțiară feminină,0.10058337978315553
+Gradient Boosting,classification,control_corruption,Controlul corupției,0.07157273856325827
+XGBoost,classification,log_gdp_pc,Log PIB/locuitor PPP,0.04935500770807266
+XGBoost,classification,gdp_growth,Creștere PIB,0.026717016473412514
+XGBoost,classification,inflation,Inflație,0.02916518598794937
+XGBoost,classification,female_unemployment,Șomaj feminin,0.10092395544052124
+XGBoost,classification,fertility,Fertilitate,0.03364770486950874
+XGBoost,classification,urbanization,Urbanizare,0.07634413242340088
+XGBoost,classification,female_services,Femei în servicii,0.08812437206506729
+XGBoost,classification,child_dependency,Dependența copiilor,0.030891232192516327
+XGBoost,classification,female_vulnerable,Ocupare vulnerabilă,0.13736273348331451
+XGBoost,classification,internet,Utilizare internet,0.14370694756507874
+XGBoost,classification,women_parliament,Femei în parlament,0.12298707664012909
+XGBoost,classification,female_tertiary,Educație terțiară feminină,0.08832821249961853
+XGBoost,classification,control_corruption,Controlul corupției,0.07244640588760376
+Extra Trees,classification,log_gdp_pc,Log PIB/locuitor PPP,0.06857201775533997
+Extra Trees,classification,gdp_growth,Creștere PIB,0.013927675277617643
+Extra Trees,classification,inflation,Inflație,0.01550905141328787
+Extra Trees,classification,female_unemployment,Șomaj feminin,0.09589049903566584
+Extra Trees,classification,fertility,Fertilitate,0.03885397175360442
+Extra Trees,classification,urbanization,Urbanizare,0.09593425630361883
+Extra Trees,classification,female_services,Femei în servicii,0.09908264702484437
+Extra Trees,classification,child_dependency,Dependența copiilor,0.04462528891259998
+Extra Trees,classification,female_vulnerable,Ocupare vulnerabilă,0.12480000880661891
+Extra Trees,classification,internet,Utilizare internet,0.10603173054280159
+Extra Trees,classification,women_parliament,Femei în parlament,0.11695602047689992
+Extra Trees,classification,female_tertiary,Educație terțiară feminină,0.06238193335497731
+Extra Trees,classification,control_corruption,Controlul corupției,0.11743489934212331

@@ -1,0 +1,4 @@
+"Model","RMSE rolling-origin","Observație"
+"Naive",0.623197303683823,"Validare h=1 prin origine mobilă."
+"ETS",0.460469145473562,"Validare h=1 prin origine mobilă."
+"ARIMA selectat",0.403443141206931,"Validare h=1 prin origine mobilă."

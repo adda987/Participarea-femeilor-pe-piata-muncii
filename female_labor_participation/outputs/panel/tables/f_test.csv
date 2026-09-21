@@ -1,0 +1,2 @@
+"Categorie","Test","Ipoteza nulă","Statistică","df","p-value","Decizie","Interpretare"
+"Selecția modelului","F test: FE vs Pooled","Efectele individuale nu sunt necesare; modelul pooled este adecvat.",119.050500760057,"df1 40; df2 766",1.7206821262005e-298,"Respingem H0","Respingem ipoteza nulă la pragul de 5%. Există dovezi privind heterogenitatea individuală, ceea ce favorizează modelul cu efecte fixe față de pooled OLS."

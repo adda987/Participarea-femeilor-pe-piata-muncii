@@ -1,0 +1,51 @@
+Model,Task,Parametru,Valoare,Scor
+SVR,regression,C,0.1,7.836972735323324
+SVR,regression,C,1,5.704249407794826
+SVR,regression,C,10,3.519084630358186
+SVR,regression,C,50,2.866252863161965
+SVR,regression,C,100,2.7614032685918093
+Random Forest,regression,max_depth,3,5.28797741272708
+Random Forest,regression,max_depth,5,4.235405845386771
+Random Forest,regression,max_depth,8,3.509526134119163
+Random Forest,regression,max_depth,12,3.355523901604897
+Random Forest,regression,max_depth,None,3.3712994995246137
+Gradient Boosting,regression,learning_rate,0.01,5.895366624834292
+Gradient Boosting,regression,learning_rate,0.03,3.8168577666207746
+Gradient Boosting,regression,learning_rate,0.05,3.5581159850834463
+Gradient Boosting,regression,learning_rate,0.1,3.4097131051253373
+Gradient Boosting,regression,learning_rate,0.2,3.3461402805515577
+XGBoost,regression,learning_rate,0.01,3.972695445576497
+XGBoost,regression,learning_rate,0.03,3.429868693788112
+XGBoost,regression,learning_rate,0.05,3.213598976213301
+XGBoost,regression,learning_rate,0.1,3.0525789066621734
+XGBoost,regression,learning_rate,0.2,3.3452862915135166
+Extra Trees,regression,max_depth,3,5.670010376799698
+Extra Trees,regression,max_depth,5,4.364495934383437
+Extra Trees,regression,max_depth,8,3.3224048251735323
+Extra Trees,regression,max_depth,12,2.958504431003615
+Extra Trees,regression,max_depth,None,2.897639584698787
+SVC,classification,C,0.1,0.6618961015379637
+SVC,classification,C,1,0.8289530256073397
+SVC,classification,C,10,0.9315768450751158
+SVC,classification,C,50,0.9091149388298511
+SVC,classification,C,100,0.9083816135030922
+Random Forest,classification,max_depth,3,0.7165132093962895
+Random Forest,classification,max_depth,5,0.8493724923241149
+Random Forest,classification,max_depth,8,0.8861873320131313
+Random Forest,classification,max_depth,12,0.903753097842789
+Random Forest,classification,max_depth,None,0.9084455731234997
+Gradient Boosting,classification,learning_rate,0.01,0.8263725217305017
+Gradient Boosting,classification,learning_rate,0.03,0.8337450475404005
+Gradient Boosting,classification,learning_rate,0.05,0.8469915743955553
+Gradient Boosting,classification,learning_rate,0.1,0.87140794323592
+Gradient Boosting,classification,learning_rate,0.2,0.8847044768038735
+XGBoost,classification,learning_rate,0.01,0.7582189430614853
+XGBoost,classification,learning_rate,0.03,0.8400158109561763
+XGBoost,classification,learning_rate,0.05,0.8777420318584978
+XGBoost,classification,learning_rate,0.1,0.8873255237417181
+XGBoost,classification,learning_rate,0.2,0.878116865974163
+Extra Trees,classification,max_depth,3,0.7273134648121795
+Extra Trees,classification,max_depth,5,0.830135445473132
+Extra Trees,classification,max_depth,8,0.9124644183727533
+Extra Trees,classification,max_depth,12,0.9439394595214465
+Extra Trees,classification,max_depth,None,0.9359010789848736

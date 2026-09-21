@@ -1,0 +1,7 @@
+"Etapă","Test","Specificație","H0","Statistică","Valoare critică 5%","Decizie","Concluzie","Susține staționaritatea"
+"Diferența I","ADF","Intercept, lag 0","Seria are rădăcină unitară și este nestaționară.",-3.6222331087391,-3,"Respingem H0","Respingem H0 la pragul de 5%. Testul oferă dovezi împotriva rădăcinii unitare.",TRUE
+"Diferența I","ADF","Intercept și trend, lag 0","Seria are rădăcină unitară și este nestaționară.",-4.19681608606228,-3.6,"Respingem H0","Respingem H0 la pragul de 5%. Testul oferă dovezi împotriva rădăcinii unitare.",TRUE
+"Diferența I","PP","Intercept","Seria are rădăcină unitară.",-3.56177060552664,-3.01143786848073,"Respingem H0","Respingem H0 la pragul de 5%. Testul oferă dovezi împotriva rădăcinii unitare.",TRUE
+"Diferența I","PP","Intercept și trend","Seria are rădăcină unitară.",-4.1849772095608,-3.6453641723356,"Respingem H0","Respingem H0 la pragul de 5%. Testul oferă dovezi împotriva rădăcinii unitare.",TRUE
+"Diferența I","KPSS","Staționaritate în nivel","Seria este staționară.",0.351527793026512,0.463,"Nu respingem H0","Nu respingem H0 la pragul de 5%. Testul nu oferă dovezi suficiente împotriva staționarității specificate.",TRUE
+"Diferența I","KPSS","Staționaritate în jurul trendului","Seria este staționară în jurul trendului.",0.0675176936778768,0.146,"Nu respingem H0","Nu respingem H0 la pragul de 5%. Testul nu oferă dovezi suficiente împotriva staționarității specificate.",TRUE

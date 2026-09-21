@@ -1,0 +1,8 @@
+Indicator,Valoare,Detaliu
+Observații totale utilizabile,941,Target female_lfpr disponibil
+Train,738,2001–2018
+Test,203,2019–2023
+Număr features,13,"Fără Year, Country sau ISO3"
+Număr țări,41,Economii europene individuale
+Perioadă,2001–2023,Frecvență anuală
+Observații eliminate target lipsă,117,Target-ul nu este imputat

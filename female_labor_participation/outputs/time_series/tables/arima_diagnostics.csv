@@ -1,0 +1,8 @@
+"Indicator","Statistică","p-value","Concluzie"
+"Ljung-Box",3.26984264309084,0.774295776275798,"Nu respingem H0 la pragul de 5%. Nu există dovezi suficiente de autocorelare reziduală."
+"Jarque-Bera",24.0847476816199,5.88929747968869e-06,"Normalitatea reziduurilor este un diagnostic complementar."
+"Shapiro-Wilk",0.835120749492837,0.00147925099705371,"Normalitatea reziduurilor este un diagnostic complementar."
+"Skewness",0.904015092243212,,"Asimetria reziduurilor."
+"Kurtosis",7.67578201761855,,"Aplatizarea reziduurilor."
+"Media reziduurilor",0.00260084775191109,,"Media reziduurilor trebuie să fie apropiată de zero."
+"Concluzie zgomot alb",,,"Reziduurile sunt compatibile cu un comportament apropiat de zgomot alb, în limitele eșantionului scurt."

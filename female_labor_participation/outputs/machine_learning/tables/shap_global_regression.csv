@@ -1,0 +1,14 @@
+Feature raw,Feature,Mean |SHAP|
+internet,Utilizare internet,2.580762222437705
+control_corruption,Controlul corupției,1.88627091669245
+female_vulnerable,Ocupare vulnerabilă,1.6614455835173814
+women_parliament,Femei în parlament,1.3846514292373326
+female_tertiary,Educație terțiară feminină,0.9616140386610058
+female_unemployment,Șomaj feminin,0.8762009849287294
+female_services,Femei în servicii,0.7521941621652227
+urbanization,Urbanizare,0.5382887607823129
+log_gdp_pc,Log PIB/locuitor PPP,0.40288807623015704
+child_dependency,Dependența copiilor,0.2609240719900087
+fertility,Fertilitate,0.20666632854226918
+inflation,Inflație,0.05594939694195978
+gdp_growth,Creștere PIB,0.025232512394952673

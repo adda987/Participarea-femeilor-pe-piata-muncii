@@ -1,0 +1,7 @@
+"Componentă","Indicator","Valoare"
+"Specificație","Model","VAR bivariabil FLFP–Inflație"
+"Serii utilizate","Transformare","diferențe de ordinul I"
+"Lag ales","p","1"
+"Stabilitate","Roots","Stabil"
+"Autocorelare reziduuri","Portmanteau p-value","0.6098"
+"Normalitate reziduuri","Jarque-Bera multivariat p-value","0.0035"

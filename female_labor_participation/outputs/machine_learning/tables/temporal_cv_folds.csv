@@ -1,0 +1,4 @@
+Fold,Train,Validation,N train,N validation
+1,ani <= 2012,2013–2014,492,82
+2,ani <= 2014,2015–2016,574,82
+3,ani <= 2016,2017–2018,656,82

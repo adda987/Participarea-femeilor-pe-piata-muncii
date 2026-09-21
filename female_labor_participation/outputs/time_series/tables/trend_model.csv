@@ -1,0 +1,2 @@
+"Model","Alpha","Beta","p-value beta","R²","Direcția trendului","Interpretare prudentă"
+"Y_t = alpha + beta * t + epsilon_t",59.2180735370674,0.45747782825605,3.08577685829305e-18,0.974611946149252,"Trend crescător","Trend crescător; coeficientul anual estimat este 0.4575 puncte procentuale."

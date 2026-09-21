@@ -1,0 +1,1422 @@
+Model,Year,country,Real,Real cod,Predicție,Predicție cod,Participare scăzută,Participare medie,Participare ridicată
+Dummy Classifier,2019,Albania,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Austria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Belgium,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Bulgaria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Belarus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Switzerland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Cyprus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Czechia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Germany,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Denmark,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Spain,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Estonia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Finland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,France,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,United Kingdom,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Greece,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Croatia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Hungary,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Ireland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Iceland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Italy,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Lithuania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Luxembourg,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Latvia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Moldova,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Malta,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Netherlands,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Norway,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Poland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Portugal,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Romania,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Russian Federation,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Serbia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Slovak Republic,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Slovenia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Sweden,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2019,Ukraine,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Albania,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Austria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Belgium,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Bulgaria,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Belarus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Switzerland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Cyprus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Czechia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Germany,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Denmark,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Spain,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Estonia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Finland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,France,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,United Kingdom,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Greece,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Croatia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Hungary,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Ireland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Iceland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Italy,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Lithuania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Luxembourg,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Latvia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Moldova,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Malta,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Netherlands,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Norway,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Poland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Portugal,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Romania,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Russian Federation,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Serbia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Slovak Republic,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Slovenia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Sweden,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2020,Ukraine,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Albania,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Austria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Belgium,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Bulgaria,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Belarus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Switzerland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Cyprus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Czechia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Germany,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Denmark,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Spain,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Estonia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Finland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,France,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,United Kingdom,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Greece,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Croatia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Hungary,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Ireland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Iceland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Italy,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Lithuania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Luxembourg,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Latvia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Moldova,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Malta,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Netherlands,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Norway,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Poland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Portugal,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Romania,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Russian Federation,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Serbia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Slovak Republic,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Slovenia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Sweden,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2021,Ukraine,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Albania,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Austria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Belgium,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Bulgaria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Belarus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Switzerland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Cyprus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Czechia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Germany,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Denmark,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Spain,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Estonia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Finland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,France,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,United Kingdom,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Greece,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Croatia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Hungary,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Ireland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Iceland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Italy,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Lithuania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Luxembourg,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Latvia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Moldova,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,North Macedonia,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Malta,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Montenegro,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Netherlands,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Norway,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Poland,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Portugal,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Romania,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Russian Federation,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Serbia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Slovak Republic,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Slovenia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Sweden,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2022,Turkiye,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Albania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Austria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Belgium,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Bulgaria,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Belarus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Switzerland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Cyprus,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Czechia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Germany,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Denmark,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Spain,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Estonia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Finland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,France,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,United Kingdom,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Greece,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Croatia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Hungary,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Ireland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Iceland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Italy,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Lithuania,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Luxembourg,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Latvia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Moldova,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,North Macedonia,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Malta,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Montenegro,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Netherlands,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Norway,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Poland,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Portugal,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Romania,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Russian Federation,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Serbia,Participare medie,1,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Slovak Republic,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Slovenia,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Sweden,Participare ridicată,2,Participare scăzută,0,1.0,0.0,0.0
+Dummy Classifier,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,1.0,0.0,0.0
+Logistic Regression,2019,Albania,Participare medie,1,Participare scăzută,0,0.8124188477633458,0.08796403032810633,0.09961712190854788
+Logistic Regression,2019,Austria,Participare ridicată,2,Participare ridicată,2,0.003866439705526497,0.08030501467730755,0.915828545617166
+Logistic Regression,2019,Belgium,Participare medie,1,Participare ridicată,2,0.005852843952860777,0.05132522104297387,0.9428219350041654
+Logistic Regression,2019,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.0281530206440258,0.32580062694881534,0.6460463524071589
+Logistic Regression,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.8002002809368856,0.16599107734050678,0.03380864172260761
+Logistic Regression,2019,Belarus,Participare ridicată,2,Participare ridicată,2,0.0034725202330148724,0.06170122853874803,0.934826251228237
+Logistic Regression,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,0.013073304219949297,0.0701287510367597,0.916797944743291
+Logistic Regression,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,0.03383909229840446,0.44160060152092934,0.5245603061806662
+Logistic Regression,2019,Czechia,Participare ridicată,2,Participare ridicată,2,0.05061748279351408,0.3485361952310133,0.6008463219754727
+Logistic Regression,2019,Germany,Participare ridicată,2,Participare ridicată,2,0.013146114599582785,0.14166469046589147,0.8451891949345257
+Logistic Regression,2019,Denmark,Participare ridicată,2,Participare ridicată,2,0.0033490696744078634,0.04576932555425388,0.9508816047713382
+Logistic Regression,2019,Spain,Participare ridicată,2,Participare ridicată,2,0.04039121558647407,0.09215624558503671,0.8674525388284893
+Logistic Regression,2019,Estonia,Participare ridicată,2,Participare ridicată,2,0.006053451878753817,0.15630168676134065,0.8376448613599056
+Logistic Regression,2019,Finland,Participare ridicată,2,Participare ridicată,2,0.0008208178251463167,0.03264541166071924,0.9665337705141345
+Logistic Regression,2019,France,Participare medie,1,Participare ridicată,2,0.029211025475665446,0.1443349809409256,0.826453993583409
+Logistic Regression,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.010389723087046276,0.1130074771574816,0.8766027997554722
+Logistic Regression,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.40430750161940354,0.32219370259443475,0.27349879578616176
+Logistic Regression,2019,Croatia,Participare medie,1,Participare medie,1,0.03665235981390833,0.5234891797134115,0.4398584604726801
+Logistic Regression,2019,Hungary,Participare ridicată,2,Participare medie,1,0.11753314730924037,0.5855355799371094,0.2969312727536503
+Logistic Regression,2019,Ireland,Participare medie,1,Participare medie,1,0.032590362619855213,0.4925580240024012,0.4748516133777435
+Logistic Regression,2019,Iceland,Participare ridicată,2,Participare ridicată,2,0.003110325300506806,0.03700637510304935,0.9598832995964438
+Logistic Regression,2019,Italy,Participare scăzută,0,Participare ridicată,2,0.20782299233427873,0.3177738282510877,0.47440317941463367
+Logistic Regression,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,0.03435386121047324,0.3999971685387727,0.5656489702507541
+Logistic Regression,2019,Luxembourg,Participare medie,1,Participare scăzută,0,0.4566146396475454,0.23135024916005378,0.3120351111924009
+Logistic Regression,2019,Latvia,Participare ridicată,2,Participare ridicată,2,0.0038659038184356573,0.13533986500364883,0.8607942311779155
+Logistic Regression,2019,Moldova,Participare ridicată,2,Participare scăzută,0,0.4209983450011553,0.21285984940071281,0.3661418055981318
+Logistic Regression,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.5183752938612025,0.20642493208068616,0.2751997740581113
+Logistic Regression,2019,Malta,Participare medie,1,Participare ridicată,2,0.19594480577236043,0.38351487605468815,0.4205403181729515
+Logistic Regression,2019,Montenegro,Participare scăzută,0,Participare medie,1,0.36454335123800974,0.3920979913052148,0.24335865745677546
+Logistic Regression,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,0.025283954150542614,0.10616846984317355,0.8685475760062837
+Logistic Regression,2019,Norway,Participare ridicată,2,Participare ridicată,2,0.0013078008086886525,0.0401705769225774,0.9585216222687339
+Logistic Regression,2019,Poland,Participare medie,1,Participare ridicată,2,0.01890173429806321,0.23672863758757648,0.7443696281143602
+Logistic Regression,2019,Portugal,Participare ridicată,2,Participare ridicată,2,0.02193654734200835,0.20247923193886094,0.7755842207191307
+Logistic Regression,2019,Romania,Participare scăzută,0,Participare medie,1,0.094613746749153,0.5518280142551844,0.3535582389956627
+Logistic Regression,2019,Russian Federation,Participare ridicată,2,Participare medie,1,0.05572728748246748,0.49669491321067644,0.44757779930685604
+Logistic Regression,2019,Serbia,Participare medie,1,Participare ridicată,2,0.12415599416107416,0.19336171904812627,0.6824822867907996
+Logistic Regression,2019,Slovak Republic,Participare medie,1,Participare medie,1,0.061821472265141605,0.559716918141134,0.3784616095937244
+Logistic Regression,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,0.010386916559134401,0.2784859334501135,0.7111271499907521
+Logistic Regression,2019,Sweden,Participare ridicată,2,Participare ridicată,2,0.002049737869893227,0.028548701629410037,0.9694015605006968
+Logistic Regression,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.8354649916203571,0.09493373330843502,0.0696012750712078
+Logistic Regression,2019,Ukraine,Participare medie,1,Participare ridicată,2,0.10450008323281536,0.40029470868002515,0.4952052080871595
+Logistic Regression,2020,Albania,Participare medie,1,Participare scăzută,0,0.8110131460311896,0.0813741366945068,0.1076127172743036
+Logistic Regression,2020,Austria,Participare ridicată,2,Participare ridicată,2,0.0032977545287942007,0.07421229276630419,0.9224899527049018
+Logistic Regression,2020,Belgium,Participare medie,1,Participare ridicată,2,0.005531446152893811,0.04907442197516093,0.9453941318719452
+Logistic Regression,2020,Bulgaria,Participare medie,1,Participare ridicată,2,0.029101919993438058,0.30830597869349824,0.6625921013130638
+Logistic Regression,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.74156618645272,0.18925122802003852,0.06918258552724144
+Logistic Regression,2020,Belarus,Participare ridicată,2,Participare ridicată,2,0.003397184436851969,0.05891890146072467,0.9376839141024235
+Logistic Regression,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,0.011670055217417173,0.06417227478821916,0.9241576699943638
+Logistic Regression,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,0.015336993283812633,0.31478201480852125,0.6698809919076661
+Logistic Regression,2020,Czechia,Participare ridicată,2,Participare ridicată,2,0.04916214136767998,0.33010026406228665,0.6207375945700333
+Logistic Regression,2020,Germany,Participare ridicată,2,Participare ridicată,2,0.012797787506421762,0.1343149292786572,0.8528872832149209
+Logistic Regression,2020,Denmark,Participare ridicată,2,Participare ridicată,2,0.0034860068322907973,0.04560930289900758,0.9509046902687017
+Logistic Regression,2020,Spain,Participare medie,1,Participare ridicată,2,0.037747578065097626,0.08081973400379774,0.8814326879311047
+Logistic Regression,2020,Estonia,Participare ridicată,2,Participare ridicată,2,0.009852186002504357,0.19627024302343074,0.793877570974065
+Logistic Regression,2020,Finland,Participare ridicată,2,Participare ridicată,2,0.0009418785127198177,0.03297300089838724,0.9660851205888928
+Logistic Regression,2020,France,Participare medie,1,Participare ridicată,2,0.01994447252485473,0.12181994349199325,0.858235583983152
+Logistic Regression,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.005958801058475643,0.0795541435737042,0.9144870553678202
+Logistic Regression,2020,Greece,Participare scăzută,0,Participare ridicată,2,0.22728413967329494,0.3224960848190697,0.4502197755076354
+Logistic Regression,2020,Croatia,Participare medie,1,Participare ridicată,2,0.01493198695807399,0.28460538507160654,0.7004626279703194
+Logistic Regression,2020,Hungary,Participare ridicată,2,Participare medie,1,0.11099552829502732,0.5511267191576165,0.3378777525473562
+Logistic Regression,2020,Ireland,Participare medie,1,Participare ridicată,2,0.036546993662310644,0.4685662004209013,0.49488680591678796
+Logistic Regression,2020,Iceland,Participare ridicată,2,Participare ridicată,2,0.0035484949242627884,0.037267978805821195,0.959183526269916
+Logistic Regression,2020,Italy,Participare scăzută,0,Participare ridicată,2,0.10789209061972262,0.276336992613921,0.6157709167663564
+Logistic Regression,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,0.03369168085792941,0.30868320411931904,0.6576251150227514
+Logistic Regression,2020,Luxembourg,Participare medie,1,Participare scăzută,0,0.4361207818691558,0.18602481198359663,0.37785440614724747
+Logistic Regression,2020,Latvia,Participare ridicată,2,Participare ridicată,2,0.0050240242211857635,0.14169379022164705,0.8532821855571671
+Logistic Regression,2020,Moldova,Participare ridicată,2,Participare ridicată,2,0.33946327755911826,0.22489284011420793,0.43564388232667367
+Logistic Regression,2020,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.2937185434522148,0.24661110917818335,0.4596703473696018
+Logistic Regression,2020,Malta,Participare medie,1,Participare ridicată,2,0.1630178754266975,0.385366310969458,0.4516158136038445
+Logistic Regression,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,0.44301070235195783,0.3891748303770043,0.16781446727103794
+Logistic Regression,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.010810344402736944,0.07320738296962279,0.9159822726276403
+Logistic Regression,2020,Norway,Participare ridicată,2,Participare ridicată,2,0.001522689389285937,0.043734767547244244,0.9547425430634698
+Logistic Regression,2020,Poland,Participare medie,1,Participare ridicată,2,0.014029893986532519,0.20242548318793904,0.7835446228255285
+Logistic Regression,2020,Portugal,Participare ridicată,2,Participare ridicată,2,0.012713310881775205,0.14704348839334566,0.8402432007248791
+Logistic Regression,2020,Romania,Participare scăzută,0,Participare medie,1,0.08751678337033643,0.5242589239226915,0.3882242927069721
+Logistic Regression,2020,Russian Federation,Participare ridicată,2,Participare medie,1,0.14628599410934512,0.5277240038908806,0.32599000199977424
+Logistic Regression,2020,Serbia,Participare medie,1,Participare ridicată,2,0.06657747835938868,0.15740546715510748,0.7760170544855038
+Logistic Regression,2020,Slovak Republic,Participare medie,1,Participare ridicată,2,0.04974843055048046,0.45437764420792776,0.4958739252415919
+Logistic Regression,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,0.010036350736523965,0.2570712322228736,0.7328924170406024
+Logistic Regression,2020,Sweden,Participare ridicată,2,Participare ridicată,2,0.002190324039405189,0.02935066222526062,0.9684590137353342
+Logistic Regression,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.715713693953256,0.14885011809094076,0.1354361879558032
+Logistic Regression,2020,Ukraine,Participare medie,1,Participare ridicată,2,0.127444057714276,0.3918975966979605,0.48065834558776355
+Logistic Regression,2021,Albania,Participare medie,1,Participare scăzută,0,0.6761978648629866,0.08724842759892326,0.23655370753809013
+Logistic Regression,2021,Austria,Participare ridicată,2,Participare ridicată,2,0.0035794295992739597,0.06508273727670098,0.931337833124025
+Logistic Regression,2021,Belgium,Participare medie,1,Participare ridicată,2,0.005514579973030516,0.046658951644596824,0.9478264683823727
+Logistic Regression,2021,Bulgaria,Participare medie,1,Participare ridicată,2,0.03647154630054224,0.34224739271436644,0.6212810609850913
+Logistic Regression,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.760088953644271,0.17243017452769585,0.06748087182803311
+Logistic Regression,2021,Belarus,Participare ridicată,2,Participare ridicată,2,0.003177107199009575,0.053445016920441464,0.9433778758805489
+Logistic Regression,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,0.012567124071976278,0.057618656941815456,0.9298142189862083
+Logistic Regression,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,0.0187204990036051,0.42742146617669696,0.5538580348196979
+Logistic Regression,2021,Czechia,Participare ridicată,2,Participare ridicată,2,0.04109350636837154,0.29071074906129013,0.6681957445703384
+Logistic Regression,2021,Germany,Participare ridicată,2,Participare ridicată,2,0.007324107536692656,0.08891675931138167,0.9037591331519256
+Logistic Regression,2021,Denmark,Participare ridicată,2,Participare ridicată,2,0.002735105569601068,0.040123027053912456,0.9571418673764865
+Logistic Regression,2021,Spain,Participare ridicată,2,Participare ridicată,2,0.03400650607047497,0.07958573575069007,0.8864077581788349
+Logistic Regression,2021,Estonia,Participare ridicată,2,Participare ridicată,2,0.00945809725842805,0.20907762830302476,0.7814642744385472
+Logistic Regression,2021,Finland,Participare ridicată,2,Participare ridicată,2,0.0007554686540865069,0.028774379204923088,0.9704701521409904
+Logistic Regression,2021,France,Participare ridicată,2,Participare ridicată,2,0.019103391277208306,0.12130602421776247,0.8595905845050293
+Logistic Regression,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.005709531062158028,0.07800641221671123,0.9162840567211308
+Logistic Regression,2021,Greece,Participare scăzută,0,Participare ridicată,2,0.2040305717690622,0.32223807454749404,0.47373135368344366
+Logistic Regression,2021,Croatia,Participare medie,1,Participare ridicată,2,0.020881528694163598,0.2945026176995348,0.6846158536063016
+Logistic Regression,2021,Hungary,Participare ridicată,2,Participare medie,1,0.10196412262338636,0.5125889344998922,0.3854469428767215
+Logistic Regression,2021,Ireland,Participare ridicată,2,Participare ridicată,2,0.045246935648299576,0.46842440030126814,0.4863286640504324
+Logistic Regression,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.0011503007493737713,0.01444483992842075,0.9844048593222056
+Logistic Regression,2021,Italy,Participare scăzută,0,Participare ridicată,2,0.11249308462984808,0.26624737667195447,0.6212595386981975
+Logistic Regression,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,0.020180759353928962,0.23729384855664193,0.742525392089429
+Logistic Regression,2021,Luxembourg,Participare ridicată,2,Participare ridicată,2,0.3666549313692763,0.14722774427110835,0.4861173243596153
+Logistic Regression,2021,Latvia,Participare ridicată,2,Participare ridicată,2,0.004967540498728406,0.1422581168050476,0.852774342696224
+Logistic Regression,2021,Moldova,Participare ridicată,2,Participare ridicată,2,0.11737657279107694,0.10514934447396913,0.7774740827349539
+Logistic Regression,2021,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.20058762806465588,0.21781614632882038,0.5815962256065238
+Logistic Regression,2021,Malta,Participare medie,1,Participare ridicată,2,0.10372446214691239,0.37563717150441606,0.5206383663486716
+Logistic Regression,2021,Montenegro,Participare scăzută,0,Participare medie,1,0.27674108583015594,0.43443354150546337,0.28882537266438074
+Logistic Regression,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.006837611354642266,0.04451917862082673,0.9486432100245309
+Logistic Regression,2021,Norway,Participare ridicată,2,Participare ridicată,2,0.0006637244274213072,0.024119395049701464,0.9752168805228772
+Logistic Regression,2021,Poland,Participare medie,1,Participare ridicată,2,0.013010109432625361,0.20610805157260353,0.7808818389947711
+Logistic Regression,2021,Portugal,Participare ridicată,2,Participare ridicată,2,0.009813283015042916,0.12974415751556934,0.8604425594693877
+Logistic Regression,2021,Romania,Participare scăzută,0,Participare medie,1,0.08915970682092142,0.555567793132469,0.3552725000466096
+Logistic Regression,2021,Russian Federation,Participare ridicată,2,Participare medie,1,0.13273808843939006,0.4999379942724966,0.36732391728811337
+Logistic Regression,2021,Serbia,Participare medie,1,Participare ridicată,2,0.095412807348028,0.15581844881701143,0.7487687438349606
+Logistic Regression,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.05579933631552781,0.47359576562782246,0.4706048980566496
+Logistic Regression,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,0.00852425752922642,0.2532498727126915,0.738225869758082
+Logistic Regression,2021,Sweden,Participare ridicată,2,Participare ridicată,2,0.002150060969994043,0.028779400050503424,0.9690705389795027
+Logistic Regression,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.6149020760013187,0.16998671373241223,0.21511121026626895
+Logistic Regression,2021,Ukraine,Participare medie,1,Participare ridicată,2,0.15953308570529207,0.3626049430052327,0.47786197128947533
+Logistic Regression,2022,Albania,Participare medie,1,Participare scăzută,0,0.6081468404705598,0.08261655942858952,0.30923660010085074
+Logistic Regression,2022,Austria,Participare ridicată,2,Participare ridicată,2,0.0016825725520215168,0.046037599977951565,0.9522798274700268
+Logistic Regression,2022,Belgium,Participare medie,1,Participare ridicată,2,0.0033060650529604147,0.033128597511905035,0.9635653374351345
+Logistic Regression,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.018265602497156176,0.23083838270534296,0.7508960147975008
+Logistic Regression,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.6760023337456946,0.24581843123555328,0.07817923501875217
+Logistic Regression,2022,Belarus,Participare ridicată,2,Participare ridicată,2,0.002421089264871106,0.04122014543839488,0.9563587652967339
+Logistic Regression,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,0.008599635795161984,0.05118756746050479,0.9402127967443332
+Logistic Regression,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,0.01507818205677167,0.3933580389407346,0.5915637790024938
+Logistic Regression,2022,Czechia,Participare ridicată,2,Participare ridicată,2,0.020249148503949876,0.20351561751321817,0.7762352339828319
+Logistic Regression,2022,Germany,Participare ridicată,2,Participare ridicată,2,0.005151985799629276,0.07706791113427074,0.9177801030660999
+Logistic Regression,2022,Denmark,Participare ridicată,2,Participare ridicată,2,0.0011071328681709635,0.02259264002332619,0.9763002271085028
+Logistic Regression,2022,Spain,Participare ridicată,2,Participare ridicată,2,0.019630615924350385,0.06375660278521858,0.9166127812904311
+Logistic Regression,2022,Estonia,Participare ridicată,2,Participare ridicată,2,0.0046608475695528616,0.13865236203833145,0.8566867903921156
+Logistic Regression,2022,Finland,Participare ridicată,2,Participare ridicată,2,0.00041970723123545343,0.02262819233670041,0.9769521004320642
+Logistic Regression,2022,France,Participare ridicată,2,Participare ridicată,2,0.017739328226705806,0.12634605276069644,0.8559146190125978
+Logistic Regression,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.003359684979210131,0.06037639225869605,0.9362639227620938
+Logistic Regression,2022,Greece,Participare medie,1,Participare ridicată,2,0.05324442389100898,0.23216307683074908,0.7145924992782421
+Logistic Regression,2022,Croatia,Participare medie,1,Participare ridicată,2,0.012427737747391884,0.22953375832705958,0.7580385039255485
+Logistic Regression,2022,Hungary,Participare ridicată,2,Participare ridicată,2,0.06837544500165138,0.436533256997175,0.49509129800117374
+Logistic Regression,2022,Ireland,Participare ridicată,2,Participare ridicată,2,0.023475029707740513,0.3697625564452804,0.6067624138469792
+Logistic Regression,2022,Iceland,Participare ridicată,2,Participare ridicată,2,0.0006392608951557137,0.012465670495461784,0.9868950686093825
+Logistic Regression,2022,Italy,Participare scăzută,0,Participare ridicată,2,0.0590731139019792,0.20912750663519714,0.7317993794628237
+Logistic Regression,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,0.008603344190536663,0.14652610670411256,0.8448705491053506
+Logistic Regression,2022,Luxembourg,Participare ridicată,2,Participare ridicată,2,0.27434125436985807,0.1525712602035354,0.5730874854266066
+Logistic Regression,2022,Latvia,Participare ridicată,2,Participare ridicată,2,0.0023811342132927953,0.08938474635957755,0.9082341194271296
+Logistic Regression,2022,Moldova,Participare ridicată,2,Participare ridicată,2,0.03347164672944692,0.048427499455333,0.9181008538152201
+Logistic Regression,2022,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.05776348441884708,0.14907876398702039,0.7931577515941324
+Logistic Regression,2022,Malta,Participare ridicată,2,Participare ridicată,2,0.01918436821815865,0.10877054367994965,0.8720450881018917
+Logistic Regression,2022,Montenegro,Participare medie,1,Participare ridicată,2,0.10975740194989986,0.3264812943004593,0.5637613037496408
+Logistic Regression,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.012884786627874515,0.044876327136996776,0.9422388862351287
+Logistic Regression,2022,Norway,Participare ridicată,2,Participare ridicată,2,0.0003922108743240419,0.019886220238392396,0.9797215688872836
+Logistic Regression,2022,Poland,Participare medie,1,Participare ridicată,2,0.006845330092866999,0.15528949717787713,0.8378651727292559
+Logistic Regression,2022,Portugal,Participare ridicată,2,Participare ridicată,2,0.00961061868720153,0.13207548134703415,0.8583138999657643
+Logistic Regression,2022,Romania,Participare scăzută,0,Participare medie,1,0.06109108803098989,0.4844641647732656,0.4544447471957445
+Logistic Regression,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.09085220075636666,0.4411896559840649,0.4679581432595685
+Logistic Regression,2022,Serbia,Participare medie,1,Participare ridicată,2,0.06107540740261893,0.1327474061876624,0.8061771864097186
+Logistic Regression,2022,Slovak Republic,Participare ridicată,2,Participare ridicată,2,0.03474689605834576,0.4225151613457728,0.5427379425958814
+Logistic Regression,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0015695478912278503,0.07067629498717196,0.9277541571216001
+Logistic Regression,2022,Sweden,Participare ridicată,2,Participare ridicată,2,0.0014095579417642149,0.02354050084831804,0.9750499412099177
+Logistic Regression,2022,Turkiye,Participare scăzută,0,Participare ridicată,2,0.1916863928583456,0.11871595934194754,0.6895976477997069
+Logistic Regression,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.5109901929694732,0.10242952050518452,0.38658028652534215
+Logistic Regression,2023,Austria,Participare ridicată,2,Participare ridicată,2,0.0015922177530489458,0.044332278741118454,0.9540755035058326
+Logistic Regression,2023,Belgium,Participare medie,1,Participare ridicată,2,0.0037726940565722678,0.03692864687545669,0.9592986590679711
+Logistic Regression,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.02559581158754331,0.2593012545694898,0.7151029338429667
+Logistic Regression,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.5089079911141212,0.325209313274733,0.16588269561114571
+Logistic Regression,2023,Belarus,Participare ridicată,2,Participare ridicată,2,0.004114082882165092,0.05576120012224041,0.9401247169955945
+Logistic Regression,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,0.010190085359134847,0.06302595073175453,0.9267839639091106
+Logistic Regression,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,0.010028657769828062,0.36480268810927485,0.6251686541208971
+Logistic Regression,2023,Czechia,Participare ridicată,2,Participare ridicată,2,0.022994466004442743,0.21414434754382317,0.7628611864517342
+Logistic Regression,2023,Germany,Participare ridicată,2,Participare ridicată,2,0.0045387054986793275,0.07292279661623197,0.9225384978850887
+Logistic Regression,2023,Denmark,Participare ridicată,2,Participare ridicată,2,0.001736029903453295,0.027160279792621263,0.9711036903039255
+Logistic Regression,2023,Spain,Participare ridicată,2,Participare ridicată,2,0.014099000550212884,0.05556438964754262,0.9303366098022445
+Logistic Regression,2023,Estonia,Participare ridicată,2,Participare ridicată,2,0.006516352694906552,0.14413322013251836,0.8493504271725751
+Logistic Regression,2023,Finland,Participare ridicată,2,Participare ridicată,2,0.0003033837607065476,0.01954596224289815,0.9801506539963953
+Logistic Regression,2023,France,Participare ridicată,2,Participare ridicată,2,0.01768690040874226,0.11935864840051646,0.8629544511907412
+Logistic Regression,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.003449334686486796,0.06031939992316805,0.9362312653903451
+Logistic Regression,2023,Greece,Participare medie,1,Participare ridicată,2,0.03243499559386768,0.18510551846361553,0.7824594859425168
+Logistic Regression,2023,Croatia,Participare medie,1,Participare ridicată,2,0.007975954870314364,0.20914559840935373,0.7828784467203319
+Logistic Regression,2023,Hungary,Participare ridicată,2,Participare ridicată,2,0.07507131990903401,0.4171615484944752,0.5077671315964908
+Logistic Regression,2023,Ireland,Participare ridicată,2,Participare ridicată,2,0.033019986565077666,0.3726635870081297,0.5943164264267926
+Logistic Regression,2023,Iceland,Participare ridicată,2,Participare ridicată,2,0.0008503613288340117,0.01373378498560408,0.9854158536855618
+Logistic Regression,2023,Italy,Participare scăzută,0,Participare ridicată,2,0.04454291744722068,0.1907570560518169,0.7647000265009625
+Logistic Regression,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,0.012921343098341462,0.1841758518629436,0.8029028050387149
+Logistic Regression,2023,Luxembourg,Participare ridicată,2,Participare ridicată,2,0.280119400145097,0.15842301158032168,0.5614575882745813
+Logistic Regression,2023,Latvia,Participare ridicată,2,Participare ridicată,2,0.002783693427030526,0.09209120764151059,0.905125098931459
+Logistic Regression,2023,Moldova,Participare ridicată,2,Participare ridicată,2,0.05676891609997397,0.07660057677941937,0.8666305071206067
+Logistic Regression,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.02897917485739398,0.12399024912964197,0.8470305760129642
+Logistic Regression,2023,Malta,Participare ridicată,2,Participare ridicată,2,0.019747542131163993,0.112277242371725,0.867975215497111
+Logistic Regression,2023,Montenegro,Participare medie,1,Participare medie,1,0.2197418407771616,0.4444466707971053,0.3358114884257332
+Logistic Regression,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.004491351924949693,0.03182413982282734,0.963684508252223
+Logistic Regression,2023,Norway,Participare ridicată,2,Participare ridicată,2,0.00042389717679388683,0.01863870414382727,0.9809373986793789
+Logistic Regression,2023,Poland,Participare ridicată,2,Participare ridicată,2,0.0048952907359749364,0.14413886686474792,0.8509658423992771
+Logistic Regression,2023,Portugal,Participare ridicată,2,Participare ridicată,2,0.010045627208830872,0.1414837535132242,0.848470619277945
+Logistic Regression,2023,Romania,Participare scăzută,0,Participare medie,1,0.06387340126494427,0.48196710237066454,0.4541594963643912
+Logistic Regression,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.022874272441773986,0.3580817482047218,0.6190439793535043
+Logistic Regression,2023,Serbia,Participare medie,1,Participare ridicată,2,0.060242424744786575,0.1389841822518585,0.8007733930033548
+Logistic Regression,2023,Slovak Republic,Participare ridicată,2,Participare ridicată,2,0.03355465474581128,0.43415552558846093,0.5322898196657279
+Logistic Regression,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0018986649608667167,0.08395693365705911,0.9141444013820741
+Logistic Regression,2023,Sweden,Participare ridicată,2,Participare ridicată,2,0.0015631464637828282,0.023730532833544357,0.9747063207026727
+Logistic Regression,2023,Turkiye,Participare scăzută,0,Participare ridicată,2,0.3034043700726514,0.13776339187600084,0.5588322380513477
+SVC,2019,Albania,Participare medie,1,Participare scăzută,0,0.9561113659207511,0.04226277454052991,0.0016258595387189298
+SVC,2019,Austria,Participare ridicată,2,Participare ridicată,2,0.0007145427892739508,0.027820609076215985,0.9714648481345098
+SVC,2019,Belgium,Participare medie,1,Participare ridicată,2,0.0003488850984168243,0.46375182184264147,0.5358992930589416
+SVC,2019,Bulgaria,Participare ridicată,2,Participare medie,1,0.00031621068375362786,0.517303682075095,0.48238010724115127
+SVC,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9990446780423904,0.000954200600152042,1.1213574574386599e-06
+SVC,2019,Belarus,Participare ridicată,2,Participare ridicată,2,0.00025905539604837693,0.01600405435934457,0.9837368902446072
+SVC,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0005305135849157026,0.010152078835666515,0.9893174075794177
+SVC,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,0.0031192995828180086,0.008570459343576507,0.9883102410736054
+SVC,2019,Czechia,Participare ridicată,2,Participare ridicată,2,0.0017876118237589594,0.33015268192564057,0.6680597062506005
+SVC,2019,Germany,Participare ridicată,2,Participare ridicată,2,2.050445639696085e-07,2.4605629531520883e-07,0.9999995488991408
+SVC,2019,Denmark,Participare ridicată,2,Participare ridicată,2,4.1967782848383564e-05,0.0023709370782651943,0.9975870951388865
+SVC,2019,Spain,Participare ridicată,2,Participare ridicată,2,0.003341483010247591,0.20415729192328133,0.7925012250664709
+SVC,2019,Estonia,Participare ridicată,2,Participare ridicată,2,5.004098225720547e-08,6.006923951357916e-08,0.9999998898897783
+SVC,2019,Finland,Participare ridicată,2,Participare ridicată,2,4.3036087051606984e-05,0.11156923842543087,0.8883877254875177
+SVC,2019,France,Participare medie,1,Participare medie,1,0.00478302892295811,0.8853832408815784,0.10983373019546336
+SVC,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,5.6920615889512645e-05,0.010404672777484861,0.9895384066066254
+SVC,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.8140409033058756,0.13811174737446588,0.04784734931965885
+SVC,2019,Croatia,Participare medie,1,Participare medie,1,0.005884533350483234,0.7577320461261966,0.23638342052332012
+SVC,2019,Hungary,Participare ridicată,2,Participare medie,1,0.007008374716072422,0.7273676085908162,0.26562401669311136
+SVC,2019,Ireland,Participare medie,1,Participare medie,1,0.0036877542800903625,0.9001906576527489,0.09612158806716067
+SVC,2019,Iceland,Participare ridicată,2,Participare ridicată,2,0.0002969963026478526,0.021285736836907224,0.9784172668604453
+SVC,2019,Italy,Participare scăzută,0,Participare scăzută,0,0.7317711877701696,0.20162008508743723,0.06660872714239313
+SVC,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0001330278966197435,0.08633779139606818,0.9135291807073118
+SVC,2019,Luxembourg,Participare medie,1,Participare medie,1,0.01247319797099414,0.9770640293150763,0.01046277271392964
+SVC,2019,Latvia,Participare ridicată,2,Participare ridicată,2,2.3695138130697682e-05,0.005108607801686126,0.9948676970601834
+SVC,2019,Moldova,Participare ridicată,2,Participare ridicată,2,0.01815998498291718,0.24836640504394678,0.7334736099731362
+SVC,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.833733729455258,0.11378177621945007,0.05248449432529171
+SVC,2019,Malta,Participare medie,1,Participare medie,1,0.2990685641323658,0.648817960982782,0.05211347488485193
+SVC,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,0.9613568518082962,0.023967104170683626,0.0146760440210203
+SVC,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,0.011096428532321956,0.007469345347864505,0.9814342261198137
+SVC,2019,Norway,Participare ridicată,2,Participare ridicată,2,0.0006126194624739213,0.03307597746425792,0.9663114030732681
+SVC,2019,Poland,Participare medie,1,Participare medie,1,0.0031952622873036834,0.9288901672455848,0.06791457046711152
+SVC,2019,Portugal,Participare ridicată,2,Participare ridicată,2,0.0025235901623380562,0.013333535379360436,0.9841428744583015
+SVC,2019,Romania,Participare scăzută,0,Participare scăzută,0,0.8908401003520384,0.08956040275743914,0.01959949689052222
+SVC,2019,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.001387116002222276,0.04321181511315425,0.9554010688846235
+SVC,2019,Serbia,Participare medie,1,Participare medie,1,0.21843487969157258,0.7782530822681658,0.0033120380402616267
+SVC,2019,Slovak Republic,Participare medie,1,Participare medie,1,0.015128563648810702,0.9106151067219588,0.07425632962923062
+SVC,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0003561173797161269,0.01016883037832336,0.9894750522419605
+SVC,2019,Sweden,Participare ridicată,2,Participare ridicată,2,0.0003260365944318386,0.025207569358382396,0.9744663940471858
+SVC,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9370399630843576,0.049888255737241774,0.013071781178400507
+SVC,2019,Ukraine,Participare medie,1,Participare medie,1,0.04357085736633625,0.9020558146933579,0.05437332794030582
+SVC,2020,Albania,Participare medie,1,Participare scăzută,0,0.9297984970548245,0.06636835893293695,0.003833144012238529
+SVC,2020,Austria,Participare ridicată,2,Participare ridicată,2,0.003346468490254861,0.03790041292516494,0.9587531185845801
+SVC,2020,Belgium,Participare medie,1,Participare medie,1,0.0007803145632168666,0.5541309577256992,0.44508872771108343
+SVC,2020,Bulgaria,Participare medie,1,Participare medie,1,0.0003544024504935611,0.9365171475641831,0.0631284499853232
+SVC,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9958909061543291,0.004083997662650111,2.509618302071921e-05
+SVC,2020,Belarus,Participare ridicată,2,Participare ridicată,2,0.0004615258233185427,0.015456197430720187,0.9840822767459615
+SVC,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0012231487909004006,0.011501889433286405,0.9872749617758132
+SVC,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,0.008917388979697008,0.09293112234180494,0.898151488678498
+SVC,2020,Czechia,Participare ridicată,2,Participare ridicată,2,0.0039119514579476905,0.25801561569838766,0.7380724328436644
+SVC,2020,Germany,Participare ridicată,2,Participare ridicată,2,2.5526750652701334e-06,3.060978160416367e-06,0.9999943863467743
+SVC,2020,Denmark,Participare ridicată,2,Participare ridicată,2,0.00012700517944873687,0.0071683789378955,0.9927046158826557
+SVC,2020,Spain,Participare medie,1,Participare medie,1,0.014109869871847484,0.6880111771963215,0.29787895293183125
+SVC,2020,Estonia,Participare ridicată,2,Participare ridicată,2,4.202440323016221e-06,0.00279791032160939,0.9971978872380676
+SVC,2020,Finland,Participare ridicată,2,Participare ridicată,2,0.00010398865778795392,0.1495632537478516,0.8503327575943603
+SVC,2020,France,Participare medie,1,Participare ridicată,2,0.002850565424748761,0.4324639502636059,0.5646854843116454
+SVC,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.003600092085445504,0.017971116198447948,0.9784287917161065
+SVC,2020,Greece,Participare scăzută,0,Participare medie,1,0.283533431476777,0.6504818817037635,0.06598468681945918
+SVC,2020,Croatia,Participare medie,1,Participare ridicată,2,0.016364199726913754,0.08697606874579793,0.8966597315272881
+SVC,2020,Hungary,Participare ridicată,2,Participare medie,1,0.027313470708341083,0.8768057954665944,0.09588073382506444
+SVC,2020,Ireland,Participare medie,1,Participare medie,1,0.007156068925619573,0.9507853414036143,0.04205858967076609
+SVC,2020,Iceland,Participare ridicată,2,Participare ridicată,2,0.001717030270949641,0.08352981986304558,0.9147531498660044
+SVC,2020,Italy,Participare scăzută,0,Participare scăzută,0,0.2602580441704829,0.14194421657103384,0.5977977392584831
+SVC,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0004990217194793039,0.03353062643092764,0.9659703518495929
+SVC,2020,Luxembourg,Participare medie,1,Participare medie,1,0.008784337500736986,0.9661629773806314,0.025052685118631603
+SVC,2020,Latvia,Participare ridicată,2,Participare ridicată,2,3.104384015003508e-05,0.04880247690150521,0.9511664792583447
+SVC,2020,Moldova,Participare ridicată,2,Participare medie,1,0.17299757629313167,0.6241651811914922,0.20283724251537594
+SVC,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.8804784583320553,0.033450501344850996,0.08607104032309366
+SVC,2020,Malta,Participare medie,1,Participare scăzută,0,0.7599936701786203,0.21227692210036836,0.02772940772101138
+SVC,2020,Montenegro,Participare scăzută,0,Participare ridicată,2,0.14626743593668684,0.28264505282287605,0.5710875112404369
+SVC,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.016173467302149913,0.09717523811564331,0.8866512945822068
+SVC,2020,Norway,Participare ridicată,2,Participare ridicată,2,0.0005415769998513859,0.10793755555370318,0.8915208674464455
+SVC,2020,Poland,Participare medie,1,Participare ridicată,2,0.006784891589430426,0.468329266211105,0.5248858421994643
+SVC,2020,Portugal,Participare ridicată,2,Participare ridicată,2,0.014846339402561312,0.005127743977673838,0.9800259166197648
+SVC,2020,Romania,Participare scăzută,0,Participare scăzută,0,0.6992017950624763,0.2895929027181834,0.011205302219340364
+SVC,2020,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.04232275894016232,0.40047977908569804,0.5571974619741397
+SVC,2020,Serbia,Participare medie,1,Participare medie,1,0.38567794560510965,0.6111433335810086,0.00317872081388179
+SVC,2020,Slovak Republic,Participare medie,1,Participare medie,1,0.018985254981781084,0.6004590216506736,0.3805557233675459
+SVC,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,0.001507781720604164,0.08016408249125785,0.9183281357881379
+SVC,2020,Sweden,Participare ridicată,2,Participare ridicată,2,0.00016554901904667482,0.16878714911163686,0.8310473018693165
+SVC,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9034738791079863,0.07303095515528762,0.023495165736726133
+SVC,2020,Ukraine,Participare medie,1,Participare medie,1,0.17752775912014393,0.709612735789384,0.11285950509047192
+SVC,2021,Albania,Participare medie,1,Participare scăzută,0,0.6025310020339434,0.36653839878149247,0.03093059918456417
+SVC,2021,Austria,Participare ridicată,2,Participare ridicată,2,0.001351812246520723,0.01718198339626239,0.9814662043572168
+SVC,2021,Belgium,Participare medie,1,Participare ridicată,2,0.0008576111011546672,0.13729146570055853,0.8618509231982866
+SVC,2021,Bulgaria,Participare medie,1,Participare ridicată,2,0.0004896844027182721,0.0699955509382067,0.9295147646590753
+SVC,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9894461320752963,0.010509890894564188,4.3977030139458437e-05
+SVC,2021,Belarus,Participare ridicată,2,Participare ridicată,2,0.00017185961908002732,0.004114167620935236,0.995713972759985
+SVC,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,0.003155748867146797,0.026225826466350338,0.970618424666503
+SVC,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,0.03397724956060982,0.036884992190398036,0.9291377582489923
+SVC,2021,Czechia,Participare ridicată,2,Participare ridicată,2,0.0007088011957673741,0.1125377369806175,0.886753461823615
+SVC,2021,Germany,Participare ridicată,2,Participare ridicată,2,1.4838948569477182e-07,1.7812005246046266e-07,0.9999996734904619
+SVC,2021,Denmark,Participare ridicată,2,Participare ridicată,2,8.377422618402258e-07,1.0053460500094303e-06,0.9999981569116881
+SVC,2021,Spain,Participare ridicată,2,Participare ridicată,2,0.0031284833238358163,0.0037101421700159397,0.9931613745061483
+SVC,2021,Estonia,Participare ridicată,2,Participare ridicată,2,1.7849709330607674e-06,2.1450777354771098e-06,0.9999960699513314
+SVC,2021,Finland,Participare ridicată,2,Participare ridicată,2,0.00035607100104645206,0.026460415172888798,0.9731835138260647
+SVC,2021,France,Participare ridicată,2,Participare ridicată,2,0.007050903605218592,0.17415595929196223,0.8187931371028191
+SVC,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.0005667438693463309,0.029921294243572424,0.9695119618870812
+SVC,2021,Greece,Participare scăzută,0,Participare scăzută,0,0.6717831413916454,0.15575651377052419,0.1724603448378306
+SVC,2021,Croatia,Participare medie,1,Participare ridicată,2,0.012201763172899864,0.04307887352239266,0.9447193633047075
+SVC,2021,Hungary,Participare ridicată,2,Participare ridicată,2,0.006114022190730562,0.19950965817325486,0.7943763196360143
+SVC,2021,Ireland,Participare ridicată,2,Participare medie,1,0.18315780691216935,0.7417998546294088,0.0750423384584219
+SVC,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.0012724983438027926,0.08663226248905027,0.9120952391671469
+SVC,2021,Italy,Participare scăzută,0,Participare scăzută,0,0.19405829592733503,0.2709086397547789,0.5350330643178861
+SVC,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0005038526984648095,0.03282989530338988,0.9666662519981454
+SVC,2021,Luxembourg,Participare ridicată,2,Participare medie,1,0.049866526679342556,0.9050327320048422,0.045100741315815346
+SVC,2021,Latvia,Participare ridicată,2,Participare ridicată,2,1.115956716224668e-07,1.3394828030292316e-07,0.9999997544560482
+SVC,2021,Moldova,Participare ridicată,2,Participare medie,1,0.09660324676946418,0.6336920446770357,0.26970470855350015
+SVC,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.849536962672771,0.11956068654213242,0.03090235078509664
+SVC,2021,Malta,Participare medie,1,Participare medie,1,0.4356354370780003,0.5417664294722428,0.022598133449757054
+SVC,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,0.35111297056334473,0.15673872928321528,0.49214830015343997
+SVC,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.016592703129556165,0.027718938527533578,0.9556883583429102
+SVC,2021,Norway,Participare ridicată,2,Participare ridicată,2,0.0008603391875888108,0.025576357739639188,0.9735633030727718
+SVC,2021,Poland,Participare medie,1,Participare medie,1,0.0024589470260346444,0.9465113987016592,0.05102965427230629
+SVC,2021,Portugal,Participare ridicată,2,Participare ridicată,2,0.0030717370241983366,0.023921974206713076,0.9730062887690886
+SVC,2021,Romania,Participare scăzută,0,Participare scăzută,0,0.83566172748965,0.1447515551052384,0.019586717405111635
+SVC,2021,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.00041746042809630876,0.02040306822503487,0.9791794713468688
+SVC,2021,Serbia,Participare medie,1,Participare medie,1,0.0877593529072414,0.8729036449092091,0.03933700218354951
+SVC,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.021652340977871946,0.6157414682302069,0.3626061907919211
+SVC,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0029814717818526346,0.0030304854821811304,0.9939880427359661
+SVC,2021,Sweden,Participare ridicată,2,Participare ridicată,2,0.0007207510628879678,0.03314271320760702,0.966136535729505
+SVC,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.5095777994578524,0.29699297575652933,0.19342922478561833
+SVC,2021,Ukraine,Participare medie,1,Participare medie,1,0.13909479004847827,0.6271821604792353,0.2337230494722862
+SVC,2022,Albania,Participare medie,1,Participare scăzută,0,0.815888027429553,0.17112402459880466,0.01298794797164224
+SVC,2022,Austria,Participare ridicată,2,Participare ridicată,2,0.0023762251711248886,0.07359453786898733,0.9240292369598879
+SVC,2022,Belgium,Participare medie,1,Participare medie,1,0.000499123897787366,0.5580115038317642,0.44148937227044815
+SVC,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,7.045167693335093e-05,0.07065861237073985,0.9292709359523268
+SVC,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9892812212073875,0.010690290216914684,2.848857569797184e-05
+SVC,2022,Belarus,Participare ridicată,2,Participare ridicată,2,0.005261569340057642,0.005395384912429799,0.9893430457475124
+SVC,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0014432215937912915,0.12808155148729655,0.8704752269189118
+SVC,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,0.04295216677058197,0.05328968661959321,0.9037581466098247
+SVC,2022,Czechia,Participare ridicată,2,Participare ridicată,2,0.00013964310653376632,0.05672878378713947,0.9431315731063266
+SVC,2022,Germany,Participare ridicată,2,Participare ridicată,2,8.980999057968796e-05,0.0026572798747879467,0.9972529101346326
+SVC,2022,Denmark,Participare ridicată,2,Participare ridicată,2,0.00025317050021812874,0.017658822453396127,0.982088007046386
+SVC,2022,Spain,Participare ridicată,2,Participare ridicată,2,0.015004183910468661,0.022233897267454898,0.9627619188220765
+SVC,2022,Estonia,Participare ridicată,2,Participare ridicată,2,7.147833364038418e-05,0.005079461326498457,0.9948490603398615
+SVC,2022,Finland,Participare ridicată,2,Participare ridicată,2,0.00037098139308625006,0.22140471266337705,0.7782243059435365
+SVC,2022,France,Participare ridicată,2,Participare ridicată,2,0.00032579271710895727,0.37630863427814265,0.6233655730047484
+SVC,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,4.700383117351174e-05,0.05240352602243093,0.9475494701463958
+SVC,2022,Greece,Participare medie,1,Participare scăzută,0,0.5752554597626948,0.31936669777333404,0.10537784246397107
+SVC,2022,Croatia,Participare medie,1,Participare ridicată,2,0.0018713727237680469,0.021158106689548272,0.9769705205866837
+SVC,2022,Hungary,Participare ridicată,2,Participare ridicată,2,0.006552907842579309,0.29395310727838436,0.6994939848790367
+SVC,2022,Ireland,Participare ridicată,2,Participare medie,1,0.005703384280055476,0.9575924261823153,0.036704189537629155
+SVC,2022,Iceland,Participare ridicată,2,Participare ridicată,2,0.008349286284124523,0.12385554739830566,0.8677951663175698
+SVC,2022,Italy,Participare scăzută,0,Participare scăzută,0,0.19931262851891654,0.2779940845419258,0.5226932869391574
+SVC,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0012749494312948272,0.05499920512414943,0.9437258454445555
+SVC,2022,Luxembourg,Participare ridicată,2,Participare medie,1,0.014632156290072603,0.9240319831795627,0.061335860530364515
+SVC,2022,Latvia,Participare ridicată,2,Participare ridicată,2,5.298056942845861e-05,0.004146010009276643,0.995801009421295
+SVC,2022,Moldova,Participare ridicată,2,Participare scăzută,0,0.20839321507195113,0.41944996393995315,0.3721568209880956
+SVC,2022,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.3284268454652347,0.24487368257347597,0.42669947196128916
+SVC,2022,Malta,Participare ridicată,2,Participare medie,1,0.0565801744283635,0.7877794930623977,0.15564033250923864
+SVC,2022,Montenegro,Participare medie,1,Participare ridicată,2,0.20937256953501837,0.14076852959572242,0.6498589008692592
+SVC,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.047462246044768,0.11483652324044705,0.8377012307147849
+SVC,2022,Norway,Participare ridicată,2,Participare ridicată,2,0.0022705054404245566,0.10198667993693009,0.8957428146226454
+SVC,2022,Poland,Participare medie,1,Participare medie,1,0.005781590975995536,0.7927034498527348,0.20151495917126994
+SVC,2022,Portugal,Participare ridicată,2,Participare ridicată,2,0.0045959513562764094,0.03712173384991384,0.9582823147938097
+SVC,2022,Romania,Participare scăzută,0,Participare scăzută,0,0.5565371457485243,0.3685664114259106,0.07489644282556489
+SVC,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.02286585611383945,0.1579481386926352,0.8191860051935255
+SVC,2022,Serbia,Participare medie,1,Participare medie,1,0.31465250183518517,0.6729421457980124,0.012405352366802479
+SVC,2022,Slovak Republic,Participare ridicată,2,Participare ridicată,2,0.024334724755991317,0.4632766671063905,0.5123886081376181
+SVC,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0008448609141115804,0.04911076473594641,0.950044374349942
+SVC,2022,Sweden,Participare ridicată,2,Participare ridicată,2,0.0002778146751175266,0.38708130962083837,0.6126408757040439
+SVC,2022,Turkiye,Participare scăzută,0,Participare medie,1,0.23550485537358115,0.4979216867786017,0.2665734578478172
+SVC,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.8541430791512767,0.1420797599677434,0.0037771608809795054
+SVC,2023,Austria,Participare ridicată,2,Participare ridicată,2,0.002495800907787793,0.11713660082846382,0.8803675982637484
+SVC,2023,Belgium,Participare medie,1,Participare medie,1,0.00020219567005197222,0.6880690326564928,0.3117287716734553
+SVC,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.0002571543442565372,0.3091834786205922,0.690559367035151
+SVC,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9930437600844546,0.0069547577286449645,1.4821869004315752e-06
+SVC,2023,Belarus,Participare ridicată,2,Participare ridicată,2,0.0030570871180442367,0.004739873321561653,0.9922030395603942
+SVC,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0014613429362643655,0.15030112792833122,0.8482375291354044
+SVC,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,0.05356499940518755,0.02504885060429522,0.9213861499905172
+SVC,2023,Czechia,Participare ridicată,2,Participare ridicată,2,0.0001223351612322251,0.07180972453993908,0.9280679402988289
+SVC,2023,Germany,Participare ridicată,2,Participare ridicată,2,0.00019871670332059424,0.005558761184643033,0.9942425221120365
+SVC,2023,Denmark,Participare ridicată,2,Participare ridicată,2,0.00010356962636744551,0.010241994537246201,0.9896544358363865
+SVC,2023,Spain,Participare ridicată,2,Participare ridicată,2,0.030537164978094562,0.11190500701253582,0.8575578280093694
+SVC,2023,Estonia,Participare ridicată,2,Participare ridicată,2,6.491295241438158e-06,0.003252916018074582,0.9967405926866839
+SVC,2023,Finland,Participare ridicată,2,Participare ridicată,2,0.0010467824930339277,0.3289996199947749,0.6699535975121913
+SVC,2023,France,Participare ridicată,2,Participare ridicată,2,0.00020398004753229994,0.48492112984744673,0.5148748901050207
+SVC,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,2.3074608334145085e-05,0.08320620669868319,0.9167707186929825
+SVC,2023,Greece,Participare medie,1,Participare scăzută,0,0.5106505694453708,0.43115626191421447,0.058193168640414905
+SVC,2023,Croatia,Participare medie,1,Participare ridicată,2,0.0012331123999232048,0.020692254615633624,0.9780746329844432
+SVC,2023,Hungary,Participare ridicată,2,Participare ridicată,2,0.025041491073740613,0.3495716424442085,0.6253868664820512
+SVC,2023,Ireland,Participare ridicată,2,Participare ridicată,2,0.007020724516803988,0.4751028512412997,0.5178764242418963
+SVC,2023,Iceland,Participare ridicată,2,Participare ridicată,2,0.0013312758359272647,0.20364218960299033,0.7950265345610825
+SVC,2023,Italy,Participare scăzută,0,Participare scăzută,0,0.24495124008828928,0.34935310719560525,0.4056956527161052
+SVC,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0007345411403038996,0.10247662291710866,0.8967888359425877
+SVC,2023,Luxembourg,Participare ridicată,2,Participare medie,1,0.010110989645016782,0.9468039402477951,0.04308507010718803
+SVC,2023,Latvia,Participare ridicată,2,Participare ridicată,2,3.352816757976174e-05,0.005947659956494459,0.9940188118759258
+SVC,2023,Moldova,Participare ridicată,2,Participare ridicată,2,0.1215959064241993,0.3004945706361965,0.5779095229396038
+SVC,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.13207724883619762,0.14918972110967602,0.7187330300541263
+SVC,2023,Malta,Participare ridicată,2,Participare medie,1,0.060799382691400235,0.7935326851872013,0.1456679321213983
+SVC,2023,Montenegro,Participare medie,1,Participare ridicată,2,0.26837287858000647,0.14215554694944144,0.5894715744705521
+SVC,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.008634638050076,0.3223793939626362,0.6689859679872879
+SVC,2023,Norway,Participare ridicată,2,Participare ridicată,2,0.002125367153122472,0.17758385398310084,0.8202907788637768
+SVC,2023,Poland,Participare ridicată,2,Participare ridicată,2,0.0069323203435703515,0.37706899306915187,0.6159986865872777
+SVC,2023,Portugal,Participare ridicată,2,Participare ridicată,2,0.0022066919697533226,0.00825068110515852,0.9895426269250879
+SVC,2023,Romania,Participare scăzută,0,Participare medie,1,0.43851804852862175,0.5211221330619905,0.04035981840938787
+SVC,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.000939809470974773,0.0062308450757771775,0.992829345453248
+SVC,2023,Serbia,Participare medie,1,Participare medie,1,0.25548352263446356,0.7322625942479654,0.012253883117571165
+SVC,2023,Slovak Republic,Participare ridicată,2,Participare medie,1,0.010629917053841514,0.547365010232163,0.4420050727139956
+SVC,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0015196499932864278,0.04523829851536659,0.9532420514913472
+SVC,2023,Sweden,Participare ridicată,2,Participare medie,1,0.0001552916847391501,0.6141925509259389,0.38565215738932185
+SVC,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,0.18358287872574483,0.3993951621368588,0.41702195913739587
+Random Forest,2019,Albania,Participare medie,1,Participare scăzută,0,0.877690476190476,0.06499702380952382,0.057312499999999995
+Random Forest,2019,Austria,Participare ridicată,2,Participare ridicată,2,0.0028125,0.04999702380952382,0.9471904761904761
+Random Forest,2019,Belgium,Participare medie,1,Participare medie,1,0.004791666666666667,0.6525416666666666,0.3426666666666667
+Random Forest,2019,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.01331073705554987,0.3647368772983352,0.6219523856461148
+Random Forest,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9702708333333332,0.019312499999999996,0.010416666666666664
+Random Forest,2019,Belarus,Participare ridicată,2,Participare ridicată,2,0.02275297619047619,0.13692911255411253,0.8403179112554112
+Random Forest,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,0.00125,0.015416666666666667,0.9833333333333333
+Random Forest,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,0.0179375,0.08641987179487182,0.8956426282051282
+Random Forest,2019,Czechia,Participare ridicată,2,Participare ridicată,2,0.033864880952380945,0.27449454840794124,0.6916405706396779
+Random Forest,2019,Germany,Participare ridicată,2,Participare ridicată,2,0.00625,0.004916666666666666,0.9888333333333332
+Random Forest,2019,Denmark,Participare ridicată,2,Participare ridicată,2,0.0,0.0014583333333333334,0.9985416666666667
+Random Forest,2019,Spain,Participare ridicată,2,Participare medie,1,0.013220238095238096,0.5577271825396823,0.42905257936507946
+Random Forest,2019,Estonia,Participare ridicată,2,Participare ridicată,2,0.007499999999999999,0.10216907051282051,0.8903309294871795
+Random Forest,2019,Finland,Participare ridicată,2,Participare ridicată,2,0.000625,0.04935416666666665,0.9500208333333336
+Random Forest,2019,France,Participare medie,1,Participare medie,1,0.0032708333333333335,0.8652748015873017,0.1314543650793651
+Random Forest,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.0025,0.02044047619047619,0.977059523809524
+Random Forest,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.4794880952380953,0.22551686507936505,0.2949950396825397
+Random Forest,2019,Croatia,Participare medie,1,Participare ridicată,2,0.017002333102690944,0.4251770995716577,0.5578205673256513
+Random Forest,2019,Hungary,Participare ridicată,2,Participare medie,1,0.032015603981094765,0.4882948285070844,0.47968956751182096
+Random Forest,2019,Ireland,Participare medie,1,Participare medie,1,0.032669642857142855,0.7991463935290927,0.16818396361376436
+Random Forest,2019,Iceland,Participare ridicată,2,Participare ridicată,2,0.0,0.0010416666666666667,0.9989583333333334
+Random Forest,2019,Italy,Participare scăzută,0,Participare scăzută,0,0.5202663446414597,0.31983475899628183,0.15989889636225846
+Random Forest,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,0.007653640780574149,0.054158900750857934,0.9381874584685679
+Random Forest,2019,Luxembourg,Participare medie,1,Participare medie,1,0.07357837301587303,0.8921453507078506,0.03427627627627628
+Random Forest,2019,Latvia,Participare ridicată,2,Participare ridicată,2,0.005833333333333333,0.05363415750915751,0.9405325091575091
+Random Forest,2019,Moldova,Participare ridicată,2,Participare medie,1,0.07852779377880184,0.5538636203626123,0.36760858585858586
+Random Forest,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.7204682539682539,0.16291021825396826,0.11662152777777775
+Random Forest,2019,Malta,Participare medie,1,Participare medie,1,0.3727881944444443,0.4773353174603174,0.14987648809523813
+Random Forest,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,0.6484859541093404,0.1666975776366912,0.1848164682539683
+Random Forest,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,0.009125,0.020874999999999998,0.97
+Random Forest,2019,Norway,Participare ridicată,2,Participare ridicată,2,0.0035624999999999997,0.01081547619047619,0.9856220238095239
+Random Forest,2019,Poland,Participare medie,1,Participare medie,1,0.06494642857142857,0.6401688388118475,0.2948847326167242
+Random Forest,2019,Portugal,Participare ridicată,2,Participare ridicată,2,0.06328472222222221,0.23031215659340656,0.706403121184371
+Random Forest,2019,Romania,Participare scăzută,0,Participare medie,1,0.3317576116754781,0.41157165664252127,0.2566707316820008
+Random Forest,2019,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.01537797619047619,0.11011900946275946,0.8745030143467641
+Random Forest,2019,Serbia,Participare medie,1,Participare medie,1,0.41512152777777794,0.4413318452380953,0.14354662698412698
+Random Forest,2019,Slovak Republic,Participare medie,1,Participare medie,1,0.042267509829418834,0.7937804657345581,0.1639520244360227
+Random Forest,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,0.007989224137931034,0.1570300763652057,0.8349806994968635
+Random Forest,2019,Sweden,Participare ridicată,2,Participare ridicată,2,0.00125,0.003697916666666667,0.9950520833333334
+Random Forest,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.654840773809524,0.23557936507936503,0.10957986111111112
+Random Forest,2019,Ukraine,Participare medie,1,Participare medie,1,0.0862770269126356,0.8020301628208952,0.11169281026646939
+Random Forest,2020,Albania,Participare medie,1,Participare scăzută,0,0.7801810515873017,0.14600049603174606,0.07381845238095239
+Random Forest,2020,Austria,Participare ridicată,2,Participare ridicată,2,0.0010625,0.053913690476190476,0.9450238095238096
+Random Forest,2020,Belgium,Participare medie,1,Participare medie,1,0.0030416666666666665,0.5498452380952381,0.4471130952380953
+Random Forest,2020,Bulgaria,Participare medie,1,Participare ridicată,2,0.01578243475706726,0.42214080371081386,0.5620767615321188
+Random Forest,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.6794732142857143,0.2523978174603174,0.06812896825396826
+Random Forest,2020,Belarus,Participare ridicată,2,Participare ridicată,2,0.03701388888888889,0.1999112554112554,0.7630748556998558
+Random Forest,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,0.00075,0.013194444444444444,0.9860555555555556
+Random Forest,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,0.020041666666666666,0.12055380036630035,0.859404532967033
+Random Forest,2020,Czechia,Participare ridicată,2,Participare ridicată,2,0.03696666666666666,0.4414207792207794,0.521612554112554
+Random Forest,2020,Germany,Participare ridicată,2,Participare ridicată,2,0.005,0.012,0.9830000000000001
+Random Forest,2020,Denmark,Participare ridicată,2,Participare ridicată,2,0.0,0.0015625,0.9984375
+Random Forest,2020,Spain,Participare medie,1,Participare medie,1,0.021,0.5662693452380951,0.4127306547619047
+Random Forest,2020,Estonia,Participare ridicată,2,Participare ridicată,2,0.0034375,0.1423125,0.85425
+Random Forest,2020,Finland,Participare ridicată,2,Participare ridicată,2,0.0,0.0231875,0.9768125000000001
+Random Forest,2020,France,Participare medie,1,Participare medie,1,0.019892857142857143,0.7323365384615385,0.24777060439560436
+Random Forest,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.005,0.11447519841269843,0.8805248015873016
+Random Forest,2020,Greece,Participare scăzută,0,Participare scăzută,0,0.4319642857142857,0.23945734126984128,0.328578373015873
+Random Forest,2020,Croatia,Participare medie,1,Participare ridicată,2,0.030447420634920626,0.23945634920634923,0.7300962301587302
+Random Forest,2020,Hungary,Participare ridicată,2,Participare medie,1,0.06501364774311881,0.5354297587280342,0.39955659352884704
+Random Forest,2020,Ireland,Participare medie,1,Participare medie,1,0.025880952380952386,0.7681706032331032,0.2059484443859444
+Random Forest,2020,Iceland,Participare ridicată,2,Participare ridicată,2,0.008125,0.004479166666666666,0.9873958333333335
+Random Forest,2020,Italy,Participare scăzută,0,Participare medie,1,0.2643351169781254,0.45582537877612045,0.2798395042457541
+Random Forest,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,0.011096863026819921,0.09586440176203107,0.893038735211149
+Random Forest,2020,Luxembourg,Participare medie,1,Participare medie,1,0.02542750305250304,0.6691897893772893,0.3053827075702075
+Random Forest,2020,Latvia,Participare ridicată,2,Participare ridicată,2,0.013531250000000002,0.10270707417582418,0.8837616758241758
+Random Forest,2020,Moldova,Participare ridicată,2,Participare medie,1,0.11730160330261136,0.5653249298864218,0.317373466810967
+Random Forest,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.6251464722894808,0.20893537294861442,0.16591815476190475
+Random Forest,2020,Malta,Participare medie,1,Participare scăzută,0,0.39284027777777764,0.38612698412698415,0.22103273809523813
+Random Forest,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,0.5599543650793651,0.24997172619047617,0.19007390873015872
+Random Forest,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.014958333333333334,0.02529464285714285,0.9597470238095237
+Random Forest,2020,Norway,Participare ridicată,2,Participare ridicată,2,0.0022500000000000003,0.00962797619047619,0.9881220238095239
+Random Forest,2020,Poland,Participare medie,1,Participare medie,1,0.07623809523809526,0.6431301483356568,0.28063175642624805
+Random Forest,2020,Portugal,Participare ridicată,2,Participare ridicată,2,0.07092757936507936,0.256771978021978,0.6723004426129424
+Random Forest,2020,Romania,Participare scăzută,0,Participare medie,1,0.21303788175195731,0.5369576851140807,0.2500044331339621
+Random Forest,2020,Russian Federation,Participare ridicată,2,Participare medie,1,0.08024115186615187,0.47334923476590135,0.44640961336794666
+Random Forest,2020,Serbia,Participare medie,1,Participare medie,1,0.39465025082359995,0.45797574123989226,0.14737400793650793
+Random Forest,2020,Slovak Republic,Participare medie,1,Participare medie,1,0.07752994827874654,0.5809623166547149,0.3415077350665384
+Random Forest,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,0.009655890804597701,0.17221757636520568,0.8181265328301968
+Random Forest,2020,Sweden,Participare ridicată,2,Participare ridicată,2,0.0,0.05291815476190477,0.947081845238095
+Random Forest,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.5953303571428572,0.2549350198412698,0.14973462301587304
+Random Forest,2020,Ukraine,Participare medie,1,Participare medie,1,0.10876469069406113,0.6445274198417995,0.24670788946413946
+Random Forest,2021,Albania,Participare medie,1,Participare scăzută,0,0.5929875992063494,0.26423511904761904,0.14277728174603174
+Random Forest,2021,Austria,Participare ridicată,2,Participare ridicată,2,0.014718750000000001,0.16795535714285711,0.8173258928571431
+Random Forest,2021,Belgium,Participare medie,1,Participare medie,1,0.008958333333333334,0.6171250000000001,0.37391666666666656
+Random Forest,2021,Bulgaria,Participare medie,1,Participare ridicată,2,0.022015822784810127,0.3537047641679197,0.6242794130472702
+Random Forest,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.6338323412698412,0.29953918650793643,0.06662847222222223
+Random Forest,2021,Belarus,Participare ridicată,2,Participare ridicată,2,0.044488095238095236,0.25233685064935074,0.703175054112554
+Random Forest,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,0.009375,0.03144444444444445,0.9591805555555556
+Random Forest,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,0.06915773809523809,0.14158482142857143,0.7892574404761906
+Random Forest,2021,Czechia,Participare ridicată,2,Participare ridicată,2,0.03378903707052441,0.2624254518136074,0.7037855111158683
+Random Forest,2021,Germany,Participare ridicată,2,Participare ridicată,2,0.00375,0.010175595238095239,0.9860744047619048
+Random Forest,2021,Denmark,Participare ridicată,2,Participare ridicată,2,0.0,0.0016666666666666666,0.9983333333333333
+Random Forest,2021,Spain,Participare ridicată,2,Participare medie,1,0.03911904761904761,0.5270307539682539,0.4338501984126985
+Random Forest,2021,Estonia,Participare ridicată,2,Participare ridicată,2,0.015,0.08223050758765044,0.9027694924123497
+Random Forest,2021,Finland,Participare ridicată,2,Participare ridicată,2,0.0,0.0036875000000000002,0.9963124999999999
+Random Forest,2021,France,Participare ridicată,2,Participare medie,1,0.01782638888888889,0.7001517857142856,0.28202182539682535
+Random Forest,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.00375,0.07691666666666667,0.9193333333333333
+Random Forest,2021,Greece,Participare scăzută,0,Participare scăzută,0,0.4013376572003945,0.2759464337086964,0.3227159090909091
+Random Forest,2021,Croatia,Participare medie,1,Participare ridicată,2,0.03950694444444444,0.19801736111111112,0.7624756944444445
+Random Forest,2021,Hungary,Participare ridicată,2,Participare ridicată,2,0.08131939180033693,0.4242759345102361,0.49440467368942703
+Random Forest,2021,Ireland,Participare ridicată,2,Participare medie,1,0.1503318452380952,0.5250729166666668,0.32459523809523816
+Random Forest,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.013958333333333333,0.07456845238095239,0.9114732142857143
+Random Forest,2021,Italy,Participare scăzută,0,Participare ridicată,2,0.24811571832122684,0.36973696025020186,0.38214732142857133
+Random Forest,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,0.007760057471264368,0.0564521993810787,0.9357877431476568
+Random Forest,2021,Luxembourg,Participare ridicată,2,Participare medie,1,0.11847420634920632,0.5439285714285714,0.3375972222222222
+Random Forest,2021,Latvia,Participare ridicată,2,Participare ridicată,2,0.006875,0.07434249084249084,0.9187825091575093
+Random Forest,2021,Moldova,Participare ridicată,2,Participare medie,1,0.2670595238095239,0.4273060966810967,0.3056343795093797
+Random Forest,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.4736374969226045,0.25052172926787175,0.2758407738095238
+Random Forest,2021,Malta,Participare medie,1,Participare medie,1,0.21879960317460326,0.42554861111111125,0.3556517857142857
+Random Forest,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,0.4142799048291634,0.29961047215496367,0.286109623015873
+Random Forest,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.03697916666666667,0.042690476190476195,0.9203303571428569
+Random Forest,2021,Norway,Participare ridicată,2,Participare ridicată,2,0.01946527777777778,0.020537698412698414,0.9599970238095239
+Random Forest,2021,Poland,Participare medie,1,Participare medie,1,0.06231046564195298,0.6261966668206881,0.31149286753735905
+Random Forest,2021,Portugal,Participare ridicată,2,Participare ridicată,2,0.07118353174603173,0.24344906135531136,0.6853674068986568
+Random Forest,2021,Romania,Participare scăzută,0,Participare medie,1,0.15791770462804952,0.5604712801123847,0.281611015259566
+Random Forest,2021,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.09116823519948518,0.4305242576596741,0.47830750714084047
+Random Forest,2021,Serbia,Participare medie,1,Participare scăzută,0,0.4729846230158731,0.36803125000000014,0.15898412698412698
+Random Forest,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.06900613875493702,0.5881447324909972,0.3428491287540656
+Random Forest,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,0.009655890804597701,0.1804526954128247,0.8098914137825779
+Random Forest,2021,Sweden,Participare ridicată,2,Participare ridicată,2,0.002720238095238095,0.050687499999999996,0.9465922619047618
+Random Forest,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.5413888888888888,0.2583382936507936,0.2002728174603175
+Random Forest,2021,Ukraine,Participare medie,1,Participare medie,1,0.1385966150888859,0.6547892976095269,0.20661408730158734
+Random Forest,2022,Albania,Participare medie,1,Participare scăzută,0,0.576075396825397,0.26799553571428564,0.15592906746031743
+Random Forest,2022,Austria,Participare ridicată,2,Participare ridicată,2,0.012739583333333334,0.16127827380952378,0.8259821428571431
+Random Forest,2022,Belgium,Participare medie,1,Participare ridicată,2,0.002583333333333333,0.2560997023809524,0.741316964285714
+Random Forest,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.011078322784810128,0.22606988862679422,0.7628517885883958
+Random Forest,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.5961135912698413,0.319751984126984,0.08413442460317459
+Random Forest,2022,Belarus,Participare ridicată,2,Participare ridicată,2,0.054452380952380953,0.3000749458874459,0.645472673160173
+Random Forest,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0055000000000000005,0.04839781746031746,0.9461021825396826
+Random Forest,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,0.07191815476190475,0.19017857142857142,0.7379032738095239
+Random Forest,2022,Czechia,Participare ridicată,2,Participare ridicată,2,0.025061049534756435,0.2158133839306561,0.7591255665345876
+Random Forest,2022,Germany,Participare ridicată,2,Participare ridicată,2,0.005,0.011425595238095238,0.9835744047619047
+Random Forest,2022,Denmark,Participare ridicată,2,Participare ridicată,2,0.00125,0.002395833333333333,0.9963541666666665
+Random Forest,2022,Spain,Participare ridicată,2,Participare medie,1,0.04858928571428571,0.5314444444444445,0.41996626984126983
+Random Forest,2022,Estonia,Participare ridicată,2,Participare ridicată,2,0.024927083333333332,0.15965029761904762,0.815422619047619
+Random Forest,2022,Finland,Participare ridicată,2,Participare ridicată,2,0.000625,0.05417559523809522,0.945199404761905
+Random Forest,2022,France,Participare ridicată,2,Participare medie,1,0.012420138888888892,0.5958675595238097,0.3917123015873015
+Random Forest,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.003958333333333333,0.1225,0.8735416666666667
+Random Forest,2022,Greece,Participare medie,1,Participare ridicată,2,0.3193521323086196,0.2655521335643962,0.4150957341269841
+Random Forest,2022,Croatia,Participare medie,1,Participare ridicată,2,0.03788194444444444,0.18472271825396827,0.7773953373015874
+Random Forest,2022,Hungary,Participare ridicată,2,Participare ridicată,2,0.07327282730303089,0.441847128994672,0.48488004370229715
+Random Forest,2022,Ireland,Participare ridicată,2,Participare medie,1,0.17275892857142858,0.47703219696969706,0.35020887445887444
+Random Forest,2022,Iceland,Participare ridicată,2,Participare ridicată,2,0.017458333333333333,0.04679017857142858,0.9357514880952381
+Random Forest,2022,Italy,Participare scăzută,0,Participare ridicată,2,0.14888541666666666,0.37639732142857163,0.4747172619047619
+Random Forest,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,0.021385057471264367,0.19558910414298342,0.7830258383857521
+Random Forest,2022,Luxembourg,Participare ridicată,2,Participare medie,1,0.125703373015873,0.5383035714285714,0.3359930555555555
+Random Forest,2022,Latvia,Participare ridicată,2,Participare ridicată,2,0.010249999999999999,0.08644665750915753,0.9033033424908424
+Random Forest,2022,Moldova,Participare ridicată,2,Participare medie,1,0.275608630952381,0.4486587752525255,0.27573259379509396
+Random Forest,2022,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.34400952073212837,0.2945157768869193,0.36147470238095225
+Random Forest,2022,Malta,Participare ridicată,2,Participare ridicată,2,0.09181597222222222,0.41007589285714297,0.49810813492063505
+Random Forest,2022,Montenegro,Participare medie,1,Participare ridicată,2,0.2999886873987949,0.3115118086329511,0.38849950396825383
+Random Forest,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.0484375,0.0765327380952381,0.8750297619047619
+Random Forest,2022,Norway,Participare ridicată,2,Participare ridicată,2,0.01946527777777778,0.02849603174603174,0.9520386904761904
+Random Forest,2022,Poland,Participare medie,1,Participare medie,1,0.06461720032840722,0.5729035473504352,0.3624792523211577
+Random Forest,2022,Portugal,Participare ridicată,2,Participare ridicată,2,0.06101984126984125,0.2241354166666667,0.7148447420634919
+Random Forest,2022,Romania,Participare scăzută,0,Participare medie,1,0.11953300401878554,0.5695881235787914,0.31087887240242307
+Random Forest,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.10980208333333331,0.40021442138108787,0.48998349528557866
+Random Forest,2022,Serbia,Participare medie,1,Participare scăzută,0,0.4653819444444445,0.3627723214285715,0.17184573412698417
+Random Forest,2022,Slovak Republic,Participare ridicată,2,Participare medie,1,0.039180062494044994,0.6688043436683951,0.2920155938375597
+Random Forest,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,0.020517857142857143,0.21924774877899883,0.760234394078144
+Random Forest,2022,Sweden,Participare ridicată,2,Participare ridicată,2,0.00125,0.03237648809523809,0.9663735119047618
+Random Forest,2022,Turkiye,Participare scăzută,0,Participare scăzută,0,0.5382767857142857,0.2993740079365079,0.16234920634920635
+Random Forest,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.563606646825397,0.278985119047619,0.15740823412698413
+Random Forest,2023,Austria,Participare ridicată,2,Participare ridicată,2,0.01290625,0.20617261904761905,0.7809211309523811
+Random Forest,2023,Belgium,Participare medie,1,Participare medie,1,0.015572916666666667,0.5974895833333334,0.3869375
+Random Forest,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.008739037070524414,0.21902822196012753,0.7722327409693479
+Random Forest,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.5592385912698411,0.35510317460317453,0.08565823412698412
+Random Forest,2023,Belarus,Participare ridicată,2,Participare ridicată,2,0.05883630952380952,0.3279856601731602,0.6131780303030303
+Random Forest,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,0.006958333333333333,0.08161111111111112,0.9114305555555557
+Random Forest,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,0.060543154761904756,0.18790773809523803,0.7515491071428572
+Random Forest,2023,Czechia,Participare ridicată,2,Participare ridicată,2,0.03825648604269294,0.2590634547923341,0.7026800591649729
+Random Forest,2023,Germany,Participare ridicată,2,Participare ridicată,2,0.0055000000000000005,0.026342261904761903,0.9681577380952382
+Random Forest,2023,Denmark,Participare ridicată,2,Participare ridicată,2,0.00125,0.0034375,0.9953125
+Random Forest,2023,Spain,Participare ridicată,2,Participare medie,1,0.041095238095238094,0.5321081349206348,0.4267966269841271
+Random Forest,2023,Estonia,Participare ridicată,2,Participare ridicată,2,0.007604166666666666,0.14507142857142857,0.8473244047619051
+Random Forest,2023,Finland,Participare ridicată,2,Participare ridicată,2,0.0045625,0.11617559523809523,0.879261904761905
+Random Forest,2023,France,Participare ridicată,2,Participare medie,1,0.009843749999999998,0.6463345543345542,0.3438216956654456
+Random Forest,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.010883928571428572,0.4821532738095239,0.5069627976190476
+Random Forest,2023,Greece,Participare medie,1,Participare scăzută,0,0.3668883928571428,0.33226488095238094,0.30084672619047625
+Random Forest,2023,Croatia,Participare medie,1,Participare ridicată,2,0.022937499999999996,0.16547966269841272,0.8115828373015873
+Random Forest,2023,Hungary,Participare ridicată,2,Participare medie,1,0.05763029787539394,0.5224120293509298,0.41995767277367635
+Random Forest,2023,Ireland,Participare ridicată,2,Participare medie,1,0.1854002976190476,0.6027207024394526,0.21187899994149997
+Random Forest,2023,Iceland,Participare ridicată,2,Participare ridicată,2,0.014708333333333332,0.01966666666666667,0.965625
+Random Forest,2023,Italy,Participare scăzută,0,Participare ridicată,2,0.1494672619047619,0.394950892857143,0.4555818452380953
+Random Forest,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,0.021801724137931033,0.1954462470001263,0.7827520288619428
+Random Forest,2023,Luxembourg,Participare ridicată,2,Participare medie,1,0.114390873015873,0.5701369047619047,0.31547222222222215
+Random Forest,2023,Latvia,Participare ridicată,2,Participare ridicată,2,0.007958333333333335,0.09421749084249084,0.8978241758241758
+Random Forest,2023,Moldova,Participare ridicată,2,Participare medie,1,0.28142113095238097,0.4513581800144303,0.2672206890331891
+Random Forest,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.24019553263689009,0.3495693483154909,0.41023511904761883
+Random Forest,2023,Malta,Participare ridicată,2,Participare ridicată,2,0.10994097222222225,0.4021904761904762,0.4878685515873017
+Random Forest,2023,Montenegro,Participare medie,1,Participare ridicată,2,0.29331505140314806,0.34329401088118594,0.36339093771566583
+Random Forest,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.04990972222222222,0.1255724206349206,0.8245178571428571
+Random Forest,2023,Norway,Participare ridicată,2,Participare ridicată,2,0.01852777777777778,0.032141865079365076,0.9493303571428572
+Random Forest,2023,Poland,Participare ridicată,2,Participare medie,1,0.06509226190476192,0.5331569340499427,0.4017508040452955
+Random Forest,2023,Portugal,Participare ridicată,2,Participare ridicată,2,0.0389484126984127,0.1694290674603175,0.7916225198412699
+Random Forest,2023,Romania,Participare scăzută,0,Participare medie,1,0.1232636074670614,0.6243158534638489,0.2524205390690898
+Random Forest,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.022306547619047618,0.136218253968254,0.8414751984126984
+Random Forest,2023,Serbia,Participare medie,1,Participare scăzută,0,0.4338070436507937,0.34677827380952386,0.21941468253968258
+Random Forest,2023,Slovak Republic,Participare ridicată,2,Participare medie,1,0.047930062494045016,0.6558782523985539,0.296191685107401
+Random Forest,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,0.021267857142857144,0.22325126609501614,0.7554808767621267
+Random Forest,2023,Sweden,Participare ridicată,2,Participare ridicată,2,0.00125,0.03612648809523809,0.9626235119047618
+Random Forest,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,0.523922619047619,0.3128531746031746,0.16322420634920637
+Gradient Boosting,2019,Albania,Participare medie,1,Participare scăzută,0,0.9998564006043342,0.00013771486760825723,5.8845280577466e-06
+Gradient Boosting,2019,Austria,Participare ridicată,2,Participare ridicată,2,4.791954026234849e-09,1.7172306941283887e-05,0.9999828229011047
+Gradient Boosting,2019,Belgium,Participare medie,1,Participare medie,1,8.761936372077511e-06,0.9837348201108641,0.016256417952763853
+Gradient Boosting,2019,Bulgaria,Participare ridicată,2,Participare medie,1,2.376372825881607e-06,0.7110978937147017,0.2888997299124725
+Gradient Boosting,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9999994096781099,5.844808748103721e-07,5.8410152349084296e-09
+Gradient Boosting,2019,Belarus,Participare ridicată,2,Participare ridicată,2,3.752568121773169e-09,1.236605728083567e-05,0.9999876301901509
+Gradient Boosting,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,1.860411561584588e-07,5.55968792104559e-07,0.9999992579900517
+Gradient Boosting,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,1.1377355694049138e-10,1.884634905278438e-06,0.9999981152513211
+Gradient Boosting,2019,Czechia,Participare ridicată,2,Participare ridicată,2,1.947307438529047e-05,0.0005100733908338223,0.9994704535347809
+Gradient Boosting,2019,Germany,Participare ridicată,2,Participare ridicată,2,3.948497368169994e-09,2.918883064155906e-07,0.9999997041631963
+Gradient Boosting,2019,Denmark,Participare ridicată,2,Participare ridicată,2,9.299078786555106e-10,4.2210313970108817e-07,0.9999995769669525
+Gradient Boosting,2019,Spain,Participare ridicată,2,Participare medie,1,4.814285912727049e-06,0.9806619089421003,0.01933327677198716
+Gradient Boosting,2019,Estonia,Participare ridicată,2,Participare ridicată,2,1.802051944551541e-08,5.172899236973155e-06,0.9999948090802435
+Gradient Boosting,2019,Finland,Participare ridicată,2,Participare ridicată,2,5.445851745580229e-10,2.8388178175557476e-06,0.9999971606375972
+Gradient Boosting,2019,France,Participare medie,1,Participare medie,1,9.72919379873479e-06,0.9999173959086252,7.287489757616927e-05
+Gradient Boosting,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,5.100039970843351e-07,1.8294964499515848e-07,0.9999993070463579
+Gradient Boosting,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.927613827774724,0.02109826415407534,0.05128790807120066
+Gradient Boosting,2019,Croatia,Participare medie,1,Participare ridicată,2,2.5775912668589526e-07,0.04138063714759436,0.9586191050932789
+Gradient Boosting,2019,Hungary,Participare ridicată,2,Participare ridicată,2,9.056731453648447e-06,0.007957662910121559,0.9920332803584248
+Gradient Boosting,2019,Ireland,Participare medie,1,Participare medie,1,1.2179125722528103e-07,0.9999898559493394,1.0022259403320444e-05
+Gradient Boosting,2019,Iceland,Participare ridicată,2,Participare ridicată,2,6.299199379959156e-08,6.453676292727105e-07,0.999999291640377
+Gradient Boosting,2019,Italy,Participare scăzută,0,Participare scăzută,0,0.9679434562956547,0.029390016240402436,0.002666527463942761
+Gradient Boosting,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,1.6004591235222474e-08,3.839700237720556e-05,0.9999615869930315
+Gradient Boosting,2019,Luxembourg,Participare medie,1,Participare medie,1,3.1320995956441103e-07,0.9999978865526451,1.8002373953569716e-06
+Gradient Boosting,2019,Latvia,Participare ridicată,2,Participare ridicată,2,1.083071597893528e-10,2.0174176196823693e-09,0.9999999978742753
+Gradient Boosting,2019,Moldova,Participare ridicată,2,Participare medie,1,8.623053167050223e-05,0.9997037827818408,0.00020998668648874536
+Gradient Boosting,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.9998506317643642,0.00013670121736002506,1.2667018275703446e-05
+Gradient Boosting,2019,Malta,Participare medie,1,Participare medie,1,0.04396868970708467,0.9559343444317268,9.696586118862817e-05
+Gradient Boosting,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,0.9984599144446622,1.8404765193578018e-07,0.0015399015076857912
+Gradient Boosting,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,1.5722558550305677e-07,5.289369818458824e-07,0.9999993138374327
+Gradient Boosting,2019,Norway,Participare ridicată,2,Participare ridicată,2,7.494178986726595e-10,3.5565272136014e-08,0.9999999636853101
+Gradient Boosting,2019,Poland,Participare medie,1,Participare medie,1,2.2837458601141285e-06,0.9999251335256515,7.258272848829951e-05
+Gradient Boosting,2019,Portugal,Participare ridicată,2,Participare ridicată,2,1.4197764941638055e-05,0.02064684041776561,0.9793389618172926
+Gradient Boosting,2019,Romania,Participare scăzută,0,Participare scăzută,0,0.9624804749369406,0.020044407237072008,0.017475117825987433
+Gradient Boosting,2019,Russian Federation,Participare ridicată,2,Participare ridicată,2,1.741931082503339e-08,1.1121609539118063e-05,0.9999888609711499
+Gradient Boosting,2019,Serbia,Participare medie,1,Participare medie,1,0.00028010777267657667,0.9997040321480637,1.5860079259676077e-05
+Gradient Boosting,2019,Slovak Republic,Participare medie,1,Participare medie,1,2.8678331392019563e-06,0.9999786317240544,1.8500442806474145e-05
+Gradient Boosting,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,2.651174589949582e-09,5.231798631977172e-05,0.9999476793625057
+Gradient Boosting,2019,Sweden,Participare ridicată,2,Participare ridicată,2,2.4494195678025177e-09,1.09058959790487e-06,0.9999989069609826
+Gradient Boosting,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9999996498076286,1.525484929877383e-07,1.9764387848163617e-07
+Gradient Boosting,2019,Ukraine,Participare medie,1,Participare medie,1,2.5942021409910933e-08,0.999994507368174,5.466689804636501e-06
+Gradient Boosting,2020,Albania,Participare medie,1,Participare scăzută,0,0.9999661075952238,3.200143317104561e-05,1.8909716052398393e-06
+Gradient Boosting,2020,Austria,Participare ridicată,2,Participare ridicată,2,1.638714199790579e-09,7.49210733149582e-06,0.9999925062539543
+Gradient Boosting,2020,Belgium,Participare medie,1,Participare medie,1,6.65766897495076e-05,0.9584100611866444,0.04152336212360606
+Gradient Boosting,2020,Bulgaria,Participare medie,1,Participare medie,1,4.209623185099723e-07,0.9655300743164278,0.03446950472125372
+Gradient Boosting,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.99999499256879,5.005660200836128e-06,1.7710090270869984e-09
+Gradient Boosting,2020,Belarus,Participare ridicată,2,Participare ridicată,2,4.069268255032198e-09,0.00019606384310619227,0.9998039320876255
+Gradient Boosting,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,9.570512280349135e-09,2.833080647956555e-07,0.9999997071214229
+Gradient Boosting,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,1.2246162982180617e-10,3.1676580254825257e-06,0.999996832219513
+Gradient Boosting,2020,Czechia,Participare ridicată,2,Participare medie,1,3.5317319980753395e-05,0.55407491142898,0.4458897712510393
+Gradient Boosting,2020,Germany,Participare ridicată,2,Participare ridicată,2,1.0941124636088109e-08,2.3189386854092932e-07,0.9999997571650069
+Gradient Boosting,2020,Denmark,Participare ridicată,2,Participare ridicată,2,4.431766257583658e-09,1.2868094847488159e-06,0.999998708758749
+Gradient Boosting,2020,Spain,Participare medie,1,Participare medie,1,3.5712119160125463e-07,0.9995999003866725,0.0003997424921358194
+Gradient Boosting,2020,Estonia,Participare ridicată,2,Participare ridicată,2,4.228928626382657e-08,0.00010288899632574448,0.9998970687143881
+Gradient Boosting,2020,Finland,Participare ridicată,2,Participare ridicată,2,9.722483652889694e-10,1.908288865139065e-06,0.9999980907388866
+Gradient Boosting,2020,France,Participare medie,1,Participare medie,1,6.677723469314895e-05,0.995958051855009,0.0039751709102979925
+Gradient Boosting,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,2.0099223007199365e-06,8.577679589801898e-07,0.9999971323097403
+Gradient Boosting,2020,Greece,Participare scăzută,0,Participare ridicată,2,0.10287892166887933,0.001516643937423464,0.8956044343936972
+Gradient Boosting,2020,Croatia,Participare medie,1,Participare ridicată,2,3.7348565766828305e-09,0.00010156432964037986,0.9998984319355031
+Gradient Boosting,2020,Hungary,Participare ridicată,2,Participare ridicată,2,6.339579860391123e-05,0.1913565259249866,0.8085800782764094
+Gradient Boosting,2020,Ireland,Participare medie,1,Participare medie,1,2.71658683641109e-07,0.9999890668526101,1.0661488706245041e-05
+Gradient Boosting,2020,Iceland,Participare ridicată,2,Participare ridicată,2,1.214238898314244e-05,5.230871362232172e-07,0.9999873345238806
+Gradient Boosting,2020,Italy,Participare scăzută,0,Participare ridicată,2,0.0885794338908424,0.40095465599703606,0.5104659101121215
+Gradient Boosting,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,6.4764993942878356e-09,6.216377388669941e-05,0.9999378297496139
+Gradient Boosting,2020,Luxembourg,Participare medie,1,Participare medie,1,2.695638904142647e-06,0.999945272863747,5.2031497348894975e-05
+Gradient Boosting,2020,Latvia,Participare ridicată,2,Participare ridicată,2,1.303679257735575e-09,3.251890335737515e-08,0.9999999661774173
+Gradient Boosting,2020,Moldova,Participare ridicată,2,Participare medie,1,8.146313093669809e-05,0.9988907741719577,0.001027762697105553
+Gradient Boosting,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.9975970097091854,0.00014828400182339844,0.002254706288991123
+Gradient Boosting,2020,Malta,Participare medie,1,Participare medie,1,0.15003294908111076,0.8306401149067277,0.019326936012161445
+Gradient Boosting,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,0.9999894862854082,6.00590019888124e-07,9.913124571942708e-06
+Gradient Boosting,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.0012442006497182744,2.0524502276765268e-07,0.9987555941052589
+Gradient Boosting,2020,Norway,Participare ridicată,2,Participare ridicată,2,1.060173143291427e-09,2.0585611558415594e-08,0.9999999783542153
+Gradient Boosting,2020,Poland,Participare medie,1,Participare medie,1,1.6047901721280803e-06,0.9999270432384785,7.135197134949545e-05
+Gradient Boosting,2020,Portugal,Participare ridicată,2,Participare ridicată,2,1.2461935549448084e-07,2.0829744136338815e-05,0.9999790456365081
+Gradient Boosting,2020,Romania,Participare scăzută,0,Participare scăzută,0,0.6852803829721222,0.3000944933112065,0.01462512371667135
+Gradient Boosting,2020,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.00017139388238206075,0.09511986228827957,0.9047087438293383
+Gradient Boosting,2020,Serbia,Participare medie,1,Participare medie,1,0.00023907342867812408,0.9996284644982476,0.0001324620730741061
+Gradient Boosting,2020,Slovak Republic,Participare medie,1,Participare medie,1,3.768548409690122e-05,0.9138661671805096,0.0860961473353935
+Gradient Boosting,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,7.823989224007197e-10,7.614570094957201e-06,0.9999923846475061
+Gradient Boosting,2020,Sweden,Participare ridicată,2,Participare ridicată,2,3.210721162259796e-09,2.6299992429034416e-07,0.9999997337893545
+Gradient Boosting,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9999994460053414,1.8075512499257937e-07,3.7323953347938685e-07
+Gradient Boosting,2020,Ukraine,Participare medie,1,Participare medie,1,1.7413859469129427e-08,0.9999982698287017,1.7127574386987214e-06
+Gradient Boosting,2021,Albania,Participare medie,1,Participare scăzută,0,0.9983015977813141,0.0016979360869375849,4.6613174834362003e-07
+Gradient Boosting,2021,Austria,Participare ridicată,2,Participare ridicată,2,7.078446190354485e-07,0.00013052253879199734,0.9998687696165889
+Gradient Boosting,2021,Belgium,Participare medie,1,Participare medie,1,3.3516726845165865e-05,0.9833276771806231,0.01663880609253187
+Gradient Boosting,2021,Bulgaria,Participare medie,1,Participare ridicată,2,4.0731174764326214e-08,0.015277058964579239,0.9847229003042459
+Gradient Boosting,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9999975771316979,2.4055784141418536e-06,1.7289888027371686e-08
+Gradient Boosting,2021,Belarus,Participare ridicată,2,Participare ridicată,2,8.674946947121203e-09,0.0010253679095606827,0.9989746234154925
+Gradient Boosting,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,4.5267941087504886e-05,6.011339322536642e-05,0.9998946186656872
+Gradient Boosting,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,2.3629945864393104e-10,1.342897039190669e-05,0.9999865707933087
+Gradient Boosting,2021,Czechia,Participare ridicată,2,Participare ridicată,2,2.3974141241536976e-06,0.0007039666780305522,0.9992936359078453
+Gradient Boosting,2021,Germany,Participare ridicată,2,Participare ridicată,2,5.732114910215412e-09,2.999365736036158e-07,0.9999996943313116
+Gradient Boosting,2021,Denmark,Participare ridicată,2,Participare ridicată,2,1.6363339785414922e-09,3.4055166462717603e-07,0.9999996578120015
+Gradient Boosting,2021,Spain,Participare ridicată,2,Participare medie,1,0.00018964431292878433,0.9970586501005491,0.002751705586522277
+Gradient Boosting,2021,Estonia,Participare ridicată,2,Participare ridicată,2,3.405307720963623e-08,1.4111272265039853e-05,0.9999858546746578
+Gradient Boosting,2021,Finland,Participare ridicată,2,Participare ridicată,2,2.469833161181439e-09,9.619893328714537e-07,0.9999990355408339
+Gradient Boosting,2021,France,Participare ridicată,2,Participare medie,1,2.567200202160999e-05,0.9994774477792635,0.0004968802187148259
+Gradient Boosting,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,7.943063396262097e-09,3.124075971763964e-07,0.9999996796493393
+Gradient Boosting,2021,Greece,Participare scăzută,0,Participare scăzută,0,0.824292671353835,0.004659132724601313,0.17104819592156376
+Gradient Boosting,2021,Croatia,Participare medie,1,Participare ridicată,2,5.705818178796706e-10,0.00013507589679646444,0.9998649235326217
+Gradient Boosting,2021,Hungary,Participare ridicată,2,Participare ridicată,2,0.00017263223667274462,0.0025320761680482206,0.9972952915952791
+Gradient Boosting,2021,Ireland,Participare ridicată,2,Participare medie,1,0.004194270580299671,0.9756283583011893,0.020177371118510937
+Gradient Boosting,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.00018272473359511426,4.674237480230649e-06,0.9998126010289246
+Gradient Boosting,2021,Italy,Participare scăzută,0,Participare scăzută,0,0.8026927358578816,0.10570264426067078,0.09160461988144764
+Gradient Boosting,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,4.804250033080866e-09,7.88552797957412e-06,0.9999921096677705
+Gradient Boosting,2021,Luxembourg,Participare ridicată,2,Participare medie,1,0.396559543535635,0.6029557923676235,0.0004846640967413583
+Gradient Boosting,2021,Latvia,Participare ridicată,2,Participare ridicată,2,5.310357010023763e-10,5.829218244105827e-09,0.9999999936397461
+Gradient Boosting,2021,Moldova,Participare ridicată,2,Participare medie,1,2.3254825995792995e-05,0.9998898519575002,8.68932165040056e-05
+Gradient Boosting,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.6681910377310585,0.0011013162615149082,0.3307076460074266
+Gradient Boosting,2021,Malta,Participare medie,1,Participare medie,1,0.009991265258386955,0.9627766992897395,0.02723203545187361
+Gradient Boosting,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,0.9991264172219662,0.00015665536529996078,0.0007169274127337862
+Gradient Boosting,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.032651354085804885,5.622910172558851e-07,0.9673480836231778
+Gradient Boosting,2021,Norway,Participare ridicată,2,Participare ridicată,2,1.1448473037395816e-08,1.0654972229520129e-07,0.9999998820018047
+Gradient Boosting,2021,Poland,Participare medie,1,Participare medie,1,0.00011778842449416472,0.9977798489051255,0.002102362670380321
+Gradient Boosting,2021,Portugal,Participare ridicată,2,Participare ridicată,2,9.201858662315325e-07,0.0003283266192901258,0.9996707531948438
+Gradient Boosting,2021,Romania,Participare scăzută,0,Participare medie,1,0.1591345627311159,0.8226828065313321,0.01818263073755198
+Gradient Boosting,2021,Russian Federation,Participare ridicată,2,Participare ridicată,2,7.185479786309176e-06,0.0017899947183484097,0.9982028198018652
+Gradient Boosting,2021,Serbia,Participare medie,1,Participare medie,1,0.4558716555909379,0.5413213598304071,0.002806984578654978
+Gradient Boosting,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.00018681130744923287,0.9535955405840669,0.04621764810848384
+Gradient Boosting,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,2.4321099005014503e-09,6.693062894056902e-05,0.9999330669389495
+Gradient Boosting,2021,Sweden,Participare ridicată,2,Participare ridicată,2,6.022569336840468e-09,1.3382160275963805e-07,0.999999860155828
+Gradient Boosting,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.999958550263554,1.9167280189801958e-05,2.2282456256252686e-05
+Gradient Boosting,2021,Ukraine,Participare medie,1,Participare medie,1,3.696345890371118e-08,0.9999974752700054,2.487766535681769e-06
+Gradient Boosting,2022,Albania,Participare medie,1,Participare scăzută,0,0.996923075703377,0.0030760615078494497,8.627887736526511e-07
+Gradient Boosting,2022,Austria,Participare ridicată,2,Participare ridicată,2,4.174921886264878e-08,9.1858941394992e-06,0.9999907723566416
+Gradient Boosting,2022,Belgium,Participare medie,1,Participare ridicată,2,3.53176298927741e-07,0.00757911173100337,0.9924205350926978
+Gradient Boosting,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,2.1309434592937096e-09,8.657754297960474e-05,0.9999134203260769
+Gradient Boosting,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9999287829614064,7.092878468572113e-05,2.882539078707577e-07
+Gradient Boosting,2022,Belarus,Participare ridicată,2,Participare ridicată,2,4.5266324304887677e-10,5.2473118909690394e-05,0.999947526428427
+Gradient Boosting,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,2.3474017604122562e-05,0.0002330336123448653,0.9997434923700511
+Gradient Boosting,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,1.6833743874237625e-08,5.727646474864387e-06,0.9999942555197813
+Gradient Boosting,2022,Czechia,Participare ridicată,2,Participare ridicată,2,8.052193296687587e-07,0.0001290777782426878,0.9998701170024276
+Gradient Boosting,2022,Germany,Participare ridicată,2,Participare ridicată,2,1.5932960165667055e-09,7.674568747363866e-07,0.9999992309498292
+Gradient Boosting,2022,Denmark,Participare ridicată,2,Participare ridicată,2,7.309449852165341e-10,4.6244356292474013e-07,0.9999995368254921
+Gradient Boosting,2022,Spain,Participare ridicată,2,Participare medie,1,6.82590424953689e-05,0.9922326733978353,0.00769906755966948
+Gradient Boosting,2022,Estonia,Participare ridicată,2,Participare ridicată,2,1.5519350986469153e-09,4.594214660017263e-06,0.9999954042334048
+Gradient Boosting,2022,Finland,Participare ridicată,2,Participare ridicată,2,4.533929399919604e-09,1.5799073190085365e-06,0.9999984155587516
+Gradient Boosting,2022,France,Participare ridicată,2,Participare medie,1,2.211980991549092e-05,0.9986453405158662,0.0013325396742183508
+Gradient Boosting,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,9.254910867824614e-09,1.8966310331146258e-06,0.999998094114056
+Gradient Boosting,2022,Greece,Participare medie,1,Participare scăzută,0,0.8043454004416708,0.020955792716856405,0.17469880684147276
+Gradient Boosting,2022,Croatia,Participare medie,1,Participare ridicată,2,2.2076853879869212e-10,6.026369539169937e-06,0.9999939734096923
+Gradient Boosting,2022,Hungary,Participare ridicată,2,Participare ridicată,2,2.3558736232792234e-05,0.0020540974809346857,0.9979223437828325
+Gradient Boosting,2022,Ireland,Participare ridicată,2,Participare medie,1,0.0065277149170016235,0.8982224163831068,0.09524986869989156
+Gradient Boosting,2022,Iceland,Participare ridicată,2,Participare ridicată,2,1.8476854306485072e-05,3.9674731951873157e-07,0.9999811263983741
+Gradient Boosting,2022,Italy,Participare scăzută,0,Participare scăzută,0,0.673869328809412,0.08317313011373338,0.24295754107685463
+Gradient Boosting,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,1.711461717004381e-07,0.0006502472693446973,0.9993495815844836
+Gradient Boosting,2022,Luxembourg,Participare ridicată,2,Participare medie,1,0.3155920359517227,0.6511865471502951,0.03322141689798232
+Gradient Boosting,2022,Latvia,Participare ridicată,2,Participare ridicată,2,2.8683066429595707e-09,8.829287577676489e-08,0.9999999088388175
+Gradient Boosting,2022,Moldova,Participare ridicată,2,Participare medie,1,2.1330640227763305e-05,0.9996433780557454,0.00033529130402692607
+Gradient Boosting,2022,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.03572033939771908,0.0001701910334027672,0.9641094695688781
+Gradient Boosting,2022,Malta,Participare ridicată,2,Participare ridicată,2,0.00683822706315621,0.005710921733338619,0.9874508512035051
+Gradient Boosting,2022,Montenegro,Participare medie,1,Participare scăzută,0,0.643620759985604,0.00040273333470670014,0.35597650667968933
+Gradient Boosting,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.0490678801951499,9.980604661658558e-07,0.950931121744384
+Gradient Boosting,2022,Norway,Participare ridicată,2,Participare ridicată,2,1.021881119638112e-08,1.2675109363438428e-07,0.9999998630300951
+Gradient Boosting,2022,Poland,Participare medie,1,Participare medie,1,6.851231290479838e-05,0.9996837946616765,0.0002476930254186662
+Gradient Boosting,2022,Portugal,Participare ridicată,2,Participare ridicată,2,3.924038904602893e-06,0.003040669543981486,0.996955406417114
+Gradient Boosting,2022,Romania,Participare scăzută,0,Participare medie,1,0.022421299356157057,0.8136627341817598,0.16391596646208312
+Gradient Boosting,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,9.469919705855842e-07,0.0009527613234949908,0.9990462916845344
+Gradient Boosting,2022,Serbia,Participare medie,1,Participare scăzută,0,0.9839116726794741,0.01603030452744269,5.8022793083287886e-05
+Gradient Boosting,2022,Slovak Republic,Participare ridicată,2,Participare medie,1,1.7851661248770565e-05,0.9928966625460601,0.0070854857926909
+Gradient Boosting,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,5.016409850158904e-08,0.0015503559014025798,0.9984495939344988
+Gradient Boosting,2022,Sweden,Participare ridicată,2,Participare ridicată,2,2.2121868046433145e-09,1.7330374497698786e-08,0.9999999804574385
+Gradient Boosting,2022,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9999578181155686,2.189361743846617e-06,3.999252268750284e-05
+Gradient Boosting,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.9929794413630126,0.007019891865879448,6.667711077176258e-07
+Gradient Boosting,2023,Austria,Participare ridicată,2,Participare ridicată,2,1.0235888369575518e-07,4.433452955859152e-05,0.9999555631115578
+Gradient Boosting,2023,Belgium,Participare medie,1,Participare medie,1,5.676497958629926e-06,0.9458033048087731,0.0541910186932683
+Gradient Boosting,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,8.105682671769763e-09,0.00038104800818594735,0.9996189438861313
+Gradient Boosting,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9933429952838174,0.006653469836815593,3.534879367058139e-06
+Gradient Boosting,2023,Belarus,Participare ridicată,2,Participare ridicată,2,2.161948326416304e-09,0.006275378744861754,0.99372461909319
+Gradient Boosting,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,3.543562228251268e-06,5.208536576387279e-05,0.999944371072008
+Gradient Boosting,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,1.5027327306602423e-07,2.05544149846122e-05,0.9999792953117422
+Gradient Boosting,2023,Czechia,Participare ridicată,2,Participare ridicată,2,3.8837579856792944e-07,0.000346506337255714,0.9996531052869458
+Gradient Boosting,2023,Germany,Participare ridicată,2,Participare ridicată,2,1.5111272973279253e-09,6.021825286395617e-07,0.9999993963063442
+Gradient Boosting,2023,Denmark,Participare ridicată,2,Participare ridicată,2,9.413449101331516e-10,6.15205279052414e-07,0.999999383853376
+Gradient Boosting,2023,Spain,Participare ridicată,2,Participare medie,1,1.6447415314217958e-06,0.9556981650019846,0.044300190256483844
+Gradient Boosting,2023,Estonia,Participare ridicată,2,Participare ridicată,2,1.938484488682156e-06,0.003933317042927838,0.9960647444725835
+Gradient Boosting,2023,Finland,Participare ridicată,2,Participare ridicată,2,1.0453392534968492e-07,8.489764200742901e-05,0.9999149978240672
+Gradient Boosting,2023,France,Participare ridicată,2,Participare medie,1,3.0720084039996564e-05,0.9992056034252416,0.000763676490718482
+Gradient Boosting,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,9.084320622180638e-07,0.0006079590290283131,0.9993911325389094
+Gradient Boosting,2023,Greece,Participare medie,1,Participare scăzută,0,0.6805951463048334,0.19944325154876816,0.11996160214639838
+Gradient Boosting,2023,Croatia,Participare medie,1,Participare ridicată,2,6.301195223647472e-10,9.523720590508687e-06,0.9999904756492899
+Gradient Boosting,2023,Hungary,Participare ridicată,2,Participare ridicată,2,8.821235479363298e-05,0.40350490904020797,0.5964068786049985
+Gradient Boosting,2023,Ireland,Participare ridicată,2,Participare medie,1,0.00252792461353823,0.9974326236816471,3.945170481474223e-05
+Gradient Boosting,2023,Iceland,Participare ridicată,2,Participare ridicată,2,3.868987947727228e-05,8.755525610595908e-07,0.9999604345679616
+Gradient Boosting,2023,Italy,Participare scăzută,0,Participare medie,1,0.08846762194901228,0.8857925797266092,0.025739798324378633
+Gradient Boosting,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,1.1359953457973705e-07,0.053040975006225,0.9469589113942405
+Gradient Boosting,2023,Luxembourg,Participare ridicată,2,Participare medie,1,0.11862353648080248,0.8812214509110404,0.00015501260815699414
+Gradient Boosting,2023,Latvia,Participare ridicată,2,Participare ridicată,2,1.585181273657231e-10,4.5091990682165245e-08,0.9999999547494911
+Gradient Boosting,2023,Moldova,Participare ridicată,2,Participare medie,1,1.2790191481930192e-05,0.9999322055187372,5.500428978080507e-05
+Gradient Boosting,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.0042312755781036245,0.00483023439489038,0.9909384900270061
+Gradient Boosting,2023,Malta,Participare ridicată,2,Participare medie,1,0.03736264544369863,0.5096043380632885,0.4530330164930128
+Gradient Boosting,2023,Montenegro,Participare medie,1,Participare scăzută,0,0.5426309804259682,0.00027270650693257865,0.4570963130670992
+Gradient Boosting,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.09823962866499639,2.6031714205450652e-05,0.9017343396207982
+Gradient Boosting,2023,Norway,Participare ridicată,2,Participare ridicată,2,4.3947098143280826e-09,1.805394424975827e-07,0.9999998150658478
+Gradient Boosting,2023,Poland,Participare ridicată,2,Participare medie,1,2.1342062851596767e-07,0.9999526295307116,4.715704865994674e-05
+Gradient Boosting,2023,Portugal,Participare ridicată,2,Participare ridicată,2,5.427601946704602e-09,4.397154128185102e-06,0.9999955974182698
+Gradient Boosting,2023,Romania,Participare scăzută,0,Participare medie,1,0.027963705491623855,0.9668567987254754,0.005179495782900789
+Gradient Boosting,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,4.5271940297115e-09,2.8243337234742885e-05,0.9999717521355711
+Gradient Boosting,2023,Serbia,Participare medie,1,Participare scăzută,0,0.9807610621636028,0.019091022236563657,0.00014791559983363248
+Gradient Boosting,2023,Slovak Republic,Participare ridicată,2,Participare medie,1,4.5040128521522874e-05,0.5912754457656546,0.408679514105824
+Gradient Boosting,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,1.9399402590015735e-08,0.005644264107661024,0.9943557164929365
+Gradient Boosting,2023,Sweden,Participare ridicată,2,Participare ridicată,2,2.3946279736339975e-09,5.038487529720979e-08,0.9999999472204967
+Gradient Boosting,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9999111358689158,5.519035470528305e-06,8.334509561352382e-05
+XGBoost,2019,Albania,Participare medie,1,Participare scăzută,0,0.8389068841934204,0.11834453791379929,0.04274863004684448
+XGBoost,2019,Austria,Participare ridicată,2,Participare ridicată,2,0.001637638546526432,0.02183116413652897,0.9765312075614929
+XGBoost,2019,Belgium,Participare medie,1,Participare ridicată,2,0.017883552238345146,0.38148847222328186,0.6006279587745667
+XGBoost,2019,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.007570816669613123,0.16064533591270447,0.8317838311195374
+XGBoost,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9803834557533264,0.01272955909371376,0.006886953953653574
+XGBoost,2019,Belarus,Participare ridicată,2,Participare ridicată,2,0.004140717443078756,0.07266730070114136,0.9231919646263123
+XGBoost,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,0.004236309789121151,0.022973602637648582,0.9727900624275208
+XGBoost,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,0.006058645900338888,0.1270432025194168,0.8668981790542603
+XGBoost,2019,Czechia,Participare ridicată,2,Participare ridicată,2,0.024615123867988586,0.21630273759365082,0.7590820789337158
+XGBoost,2019,Germany,Participare ridicată,2,Participare ridicată,2,0.0038490951992571354,0.016255153343081474,0.9798957109451294
+XGBoost,2019,Denmark,Participare ridicată,2,Participare ridicată,2,0.004749801009893417,0.011351891793310642,0.9838983416557312
+XGBoost,2019,Spain,Participare ridicată,2,Participare ridicată,2,0.013507552444934845,0.31462571024894714,0.6718667149543762
+XGBoost,2019,Estonia,Participare ridicată,2,Participare ridicată,2,0.0018867681501433253,0.013139583170413971,0.984973669052124
+XGBoost,2019,Finland,Participare ridicată,2,Participare ridicată,2,0.00166751304641366,0.029849521815776825,0.9684829711914062
+XGBoost,2019,France,Participare medie,1,Participare medie,1,0.010235645808279514,0.7857236266136169,0.20404067635536194
+XGBoost,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.011294867843389511,0.028071779757738113,0.960633397102356
+XGBoost,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.5303323864936829,0.1608116179704666,0.3088560104370117
+XGBoost,2019,Croatia,Participare medie,1,Participare ridicată,2,0.01169530488550663,0.2953239679336548,0.6929807066917419
+XGBoost,2019,Hungary,Participare ridicată,2,Participare medie,1,0.028852274641394615,0.5673683285713196,0.40377938747406006
+XGBoost,2019,Ireland,Participare medie,1,Participare medie,1,0.018345024436712265,0.8764471411705017,0.10520778596401215
+XGBoost,2019,Iceland,Participare ridicată,2,Participare ridicată,2,0.00412912480533123,0.014802880585193634,0.981067955493927
+XGBoost,2019,Italy,Participare scăzută,0,Participare scăzută,0,0.5771743655204773,0.2373889833688736,0.1854366660118103
+XGBoost,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,0.002666030079126358,0.03497428074479103,0.9623596668243408
+XGBoost,2019,Luxembourg,Participare medie,1,Participare medie,1,0.09826654195785522,0.827039897441864,0.07469350844621658
+XGBoost,2019,Latvia,Participare ridicată,2,Participare ridicată,2,0.0018408570904284716,0.013734509237110615,0.9844245910644531
+XGBoost,2019,Moldova,Participare ridicată,2,Participare medie,1,0.1413116455078125,0.4399503469467163,0.4187379777431488
+XGBoost,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.9160875082015991,0.03487003222107887,0.049042463302612305
+XGBoost,2019,Malta,Participare medie,1,Participare medie,1,0.3496752083301544,0.4404616057872772,0.20986321568489075
+XGBoost,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,0.7693527340888977,0.028171811252832413,0.20247548818588257
+XGBoost,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,0.018036484718322754,0.04887731745839119,0.9330861568450928
+XGBoost,2019,Norway,Participare ridicată,2,Participare ridicată,2,0.004128152970224619,0.008414174430072308,0.9874576926231384
+XGBoost,2019,Poland,Participare medie,1,Participare medie,1,0.02717442624270916,0.7802828550338745,0.19254271686077118
+XGBoost,2019,Portugal,Participare ridicată,2,Participare ridicată,2,0.027575282379984856,0.26826170086860657,0.7041630148887634
+XGBoost,2019,Romania,Participare scăzută,0,Participare scăzută,0,0.3817920982837677,0.3606592118740082,0.2575486898422241
+XGBoost,2019,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.006795788649469614,0.08989833295345306,0.9033058881759644
+XGBoost,2019,Serbia,Participare medie,1,Participare medie,1,0.300852507352829,0.5811099410057068,0.11803750693798065
+XGBoost,2019,Slovak Republic,Participare medie,1,Participare medie,1,0.05447776988148689,0.8748155236244202,0.07070671021938324
+XGBoost,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,0.005474564619362354,0.1319090574979782,0.8626164197921753
+XGBoost,2019,Sweden,Participare ridicată,2,Participare ridicată,2,0.005703307688236237,0.011231034994125366,0.9830656051635742
+XGBoost,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9142155647277832,0.029859689995646477,0.055924780666828156
+XGBoost,2019,Ukraine,Participare medie,1,Participare medie,1,0.02892763540148735,0.9027698636054993,0.0683024525642395
+XGBoost,2020,Albania,Participare medie,1,Participare scăzută,0,0.8285002112388611,0.11544077843427658,0.056058965623378754
+XGBoost,2020,Austria,Participare ridicată,2,Participare ridicată,2,0.0017525340663269162,0.022992420941591263,0.975255012512207
+XGBoost,2020,Belgium,Participare medie,1,Participare ridicată,2,0.01716448739171028,0.4256637692451477,0.5571717619895935
+XGBoost,2020,Bulgaria,Participare medie,1,Participare ridicată,2,0.007510960567742586,0.29587432742118835,0.6966147422790527
+XGBoost,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9269843697547913,0.044435806572437286,0.028579825535416603
+XGBoost,2020,Belarus,Participare ridicată,2,Participare ridicată,2,0.004191875923424959,0.07843739539384842,0.9173707365989685
+XGBoost,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0056846290826797485,0.028338942676782608,0.9659764170646667
+XGBoost,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,0.010755106806755066,0.17388375103473663,0.8153611421585083
+XGBoost,2020,Czechia,Participare ridicată,2,Participare ridicată,2,0.019249988719820976,0.395625501871109,0.5851245522499084
+XGBoost,2020,Germany,Participare ridicată,2,Participare ridicată,2,0.0036808750592172146,0.015284844674170017,0.9810342192649841
+XGBoost,2020,Denmark,Participare ridicată,2,Participare ridicată,2,0.005235171876847744,0.01431980263441801,0.9804450273513794
+XGBoost,2020,Spain,Participare medie,1,Participare ridicată,2,0.019318532198667526,0.44319021701812744,0.5374912619590759
+XGBoost,2020,Estonia,Participare ridicată,2,Participare ridicată,2,0.001711635966785252,0.02528267726302147,0.9730057120323181
+XGBoost,2020,Finland,Participare ridicată,2,Participare ridicată,2,0.0017310649855062366,0.02841775119304657,0.9698512554168701
+XGBoost,2020,France,Participare medie,1,Participare medie,1,0.012584817595779896,0.765726625919342,0.22168850898742676
+XGBoost,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.007491596508771181,0.047468401491642,0.9450399875640869
+XGBoost,2020,Greece,Participare scăzută,0,Participare scăzută,0,0.4489419460296631,0.17275556921958923,0.37830251455307007
+XGBoost,2020,Croatia,Participare medie,1,Participare ridicată,2,0.009682676754891872,0.2127084583044052,0.7776088714599609
+XGBoost,2020,Hungary,Participare ridicată,2,Participare medie,1,0.06953255087137222,0.5239481925964355,0.4065192937850952
+XGBoost,2020,Ireland,Participare medie,1,Participare medie,1,0.020637156441807747,0.8701171278953552,0.1092456504702568
+XGBoost,2020,Iceland,Participare ridicată,2,Participare ridicată,2,0.005128496326506138,0.01582922786474228,0.9790423512458801
+XGBoost,2020,Italy,Participare scăzută,0,Participare medie,1,0.13979773223400116,0.4323989450931549,0.4278033375740051
+XGBoost,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0021146393846720457,0.04562349244952202,0.9522618651390076
+XGBoost,2020,Luxembourg,Participare medie,1,Participare medie,1,0.10197728127241135,0.7556115388870239,0.14241115748882294
+XGBoost,2020,Latvia,Participare ridicată,2,Participare ridicată,2,0.0019666419830173254,0.023913530632853508,0.9741199016571045
+XGBoost,2020,Moldova,Participare ridicată,2,Participare medie,1,0.15113429725170135,0.47488757967948914,0.3739781081676483
+XGBoost,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.7777435779571533,0.05305763706564903,0.16919873654842377
+XGBoost,2020,Malta,Participare medie,1,Participare medie,1,0.3432052433490753,0.4242387115955353,0.23255598545074463
+XGBoost,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,0.8694315552711487,0.03492383286356926,0.09564460813999176
+XGBoost,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.018453124910593033,0.05880121886730194,0.9227456450462341
+XGBoost,2020,Norway,Participare ridicată,2,Participare ridicată,2,0.004390891641378403,0.009177912957966328,0.9864311814308167
+XGBoost,2020,Poland,Participare medie,1,Participare medie,1,0.02885357104241848,0.7924782633781433,0.17866817116737366
+XGBoost,2020,Portugal,Participare ridicată,2,Participare ridicată,2,0.01975066028535366,0.16036023199558258,0.8198891282081604
+XGBoost,2020,Romania,Participare scăzută,0,Participare medie,1,0.21233049035072327,0.5674425959587097,0.22022689878940582
+XGBoost,2020,Russian Federation,Participare ridicată,2,Participare medie,1,0.045321960002183914,0.5015753507614136,0.453102707862854
+XGBoost,2020,Serbia,Participare medie,1,Participare medie,1,0.20885829627513885,0.6376036405563354,0.1535380333662033
+XGBoost,2020,Slovak Republic,Participare medie,1,Participare medie,1,0.060741666704416275,0.7414935827255249,0.19776475429534912
+XGBoost,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,0.0064482660964131355,0.2107871174812317,0.7827646136283875
+XGBoost,2020,Sweden,Participare ridicată,2,Participare ridicată,2,0.00939818937331438,0.02164209447801113,0.9689597487449646
+XGBoost,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.9076020121574402,0.03203968703746796,0.060358308255672455
+XGBoost,2020,Ukraine,Participare medie,1,Participare medie,1,0.03517893701791763,0.8313053846359253,0.1335156410932541
+XGBoost,2021,Albania,Participare medie,1,Participare scăzută,0,0.6657628417015076,0.20592708885669708,0.12831008434295654
+XGBoost,2021,Austria,Participare ridicată,2,Participare ridicată,2,0.0025434615090489388,0.037248220294713974,0.9602082967758179
+XGBoost,2021,Belgium,Participare medie,1,Participare ridicată,2,0.022543486207723618,0.3833996057510376,0.5940569043159485
+XGBoost,2021,Bulgaria,Participare medie,1,Participare ridicată,2,0.007654701825231314,0.2004171460866928,0.7919281125068665
+XGBoost,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9427299499511719,0.032159168273210526,0.025110935792326927
+XGBoost,2021,Belarus,Participare ridicată,2,Participare ridicată,2,0.004430667031556368,0.07630293816328049,0.9192663431167603
+XGBoost,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,0.010683493688702583,0.04063572734594345,0.9486807584762573
+XGBoost,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,0.010616669431328773,0.13694989681243896,0.852433443069458
+XGBoost,2021,Czechia,Participare ridicată,2,Participare ridicată,2,0.006487410049885511,0.10495767742395401,0.8885549306869507
+XGBoost,2021,Germany,Participare ridicată,2,Participare ridicată,2,0.003431074321269989,0.010121872648596764,0.9864470958709717
+XGBoost,2021,Denmark,Participare ridicată,2,Participare ridicată,2,0.0041999900713562965,0.007446215953677893,0.9883537292480469
+XGBoost,2021,Spain,Participare ridicată,2,Participare ridicată,2,0.030514026060700417,0.327868789434433,0.6416172385215759
+XGBoost,2021,Estonia,Participare ridicată,2,Participare ridicată,2,0.002448198152706027,0.032236725091934204,0.965315043926239
+XGBoost,2021,Finland,Participare ridicată,2,Participare ridicată,2,0.001821410725824535,0.029464611783623695,0.9687139987945557
+XGBoost,2021,France,Participare ridicată,2,Participare medie,1,0.014122494496405125,0.6525904536247253,0.33328700065612793
+XGBoost,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.00604783883318305,0.02150309644639492,0.9724490642547607
+XGBoost,2021,Greece,Participare scăzută,0,Participare ridicată,2,0.41035196185112,0.17177170515060425,0.41787636280059814
+XGBoost,2021,Croatia,Participare medie,1,Participare ridicată,2,0.011234390549361706,0.12027017027139664,0.8684954047203064
+XGBoost,2021,Hungary,Participare ridicată,2,Participare ridicată,2,0.09031388908624649,0.4052022099494934,0.5044838786125183
+XGBoost,2021,Ireland,Participare ridicată,2,Participare ridicată,2,0.021966364234685898,0.4001953601837158,0.5778382420539856
+XGBoost,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.009155364707112312,0.022484563291072845,0.9683600664138794
+XGBoost,2021,Italy,Participare scăzută,0,Participare ridicată,2,0.06238521635532379,0.31772926449775696,0.6198855042457581
+XGBoost,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,0.0017742444761097431,0.02173294872045517,0.9764927625656128
+XGBoost,2021,Luxembourg,Participare ridicată,2,Participare scăzută,0,0.4437577724456787,0.32203397154808044,0.23420827090740204
+XGBoost,2021,Latvia,Participare ridicată,2,Participare ridicată,2,0.0017089138273149729,0.012072710320353508,0.9862183928489685
+XGBoost,2021,Moldova,Participare ridicată,2,Participare medie,1,0.13994085788726807,0.4871825873851776,0.3728766143321991
+XGBoost,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.614417314529419,0.10972490906715393,0.27585771679878235
+XGBoost,2021,Malta,Participare medie,1,Participare ridicată,2,0.12920750677585602,0.3471275568008423,0.5236648917198181
+XGBoost,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,0.6415985226631165,0.09580429643392563,0.2625972330570221
+XGBoost,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.01761823706328869,0.04394986107945442,0.9384319186210632
+XGBoost,2021,Norway,Participare ridicată,2,Participare ridicată,2,0.004415043164044619,0.008946564979851246,0.9866384267807007
+XGBoost,2021,Poland,Participare medie,1,Participare medie,1,0.037090253084897995,0.7037022113800049,0.25920751690864563
+XGBoost,2021,Portugal,Participare ridicată,2,Participare ridicată,2,0.01393319945782423,0.19345885515213013,0.7926079034805298
+XGBoost,2021,Romania,Participare scăzută,0,Participare medie,1,0.12527836859226227,0.7339276671409607,0.14079400897026062
+XGBoost,2021,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.04163697361946106,0.43397071957588196,0.524392306804657
+XGBoost,2021,Serbia,Participare medie,1,Participare medie,1,0.31596827507019043,0.47160086035728455,0.21243083477020264
+XGBoost,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.08472193032503128,0.6181255578994751,0.2971525192260742
+XGBoost,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,0.007677075453102589,0.18485140800476074,0.8074715733528137
+XGBoost,2021,Sweden,Participare ridicată,2,Participare ridicată,2,0.009929864667356014,0.02143716812133789,0.9686329960823059
+XGBoost,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.7929961085319519,0.0498281791806221,0.15717564523220062
+XGBoost,2021,Ukraine,Participare medie,1,Participare medie,1,0.042964909225702286,0.8638429641723633,0.09319210797548294
+XGBoost,2022,Albania,Participare medie,1,Participare scăzută,0,0.70359206199646,0.16978265345096588,0.12662528455257416
+XGBoost,2022,Austria,Participare ridicată,2,Participare ridicată,2,0.0022201165556907654,0.026429815217852592,0.9713500142097473
+XGBoost,2022,Belgium,Participare medie,1,Participare ridicată,2,0.008737251162528992,0.07878153771162033,0.9124812483787537
+XGBoost,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.003943728748708963,0.08593770116567612,0.9101185202598572
+XGBoost,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9390773773193359,0.033377960324287415,0.027544666081666946
+XGBoost,2022,Belarus,Participare ridicată,2,Participare ridicată,2,0.004877727013081312,0.10964079946279526,0.8854814767837524
+XGBoost,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,0.009886941872537136,0.04961808770895004,0.9404950141906738
+XGBoost,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,0.011821704916656017,0.1400488168001175,0.8481295108795166
+XGBoost,2022,Czechia,Participare ridicată,2,Participare ridicată,2,0.006743729114532471,0.10189250111579895,0.8913637399673462
+XGBoost,2022,Germany,Participare ridicată,2,Participare ridicată,2,0.0021710770670324564,0.016286751255393028,0.98154217004776
+XGBoost,2022,Denmark,Participare ridicată,2,Participare ridicată,2,0.004807884804904461,0.014839009381830692,0.9803531169891357
+XGBoost,2022,Spain,Participare ridicată,2,Participare ridicată,2,0.017819756641983986,0.28168439865112305,0.7004958391189575
+XGBoost,2022,Estonia,Participare ridicată,2,Participare ridicată,2,0.0017919898964464664,0.024480992928147316,0.9737270474433899
+XGBoost,2022,Finland,Participare ridicată,2,Participare ridicată,2,0.0021654379088431597,0.03530381619930267,0.9625306725502014
+XGBoost,2022,France,Participare ridicată,2,Participare ridicată,2,0.008951473981142044,0.4861171841621399,0.5049313902854919
+XGBoost,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.005253367591649294,0.036028314381837845,0.9587182998657227
+XGBoost,2022,Greece,Participare medie,1,Participare ridicată,2,0.3669017553329468,0.19011160731315613,0.4429866075515747
+XGBoost,2022,Croatia,Participare medie,1,Participare ridicată,2,0.00877593457698822,0.12178769707679749,0.8694363832473755
+XGBoost,2022,Hungary,Participare ridicată,2,Participare ridicată,2,0.06516575813293457,0.4312990605831146,0.5035352110862732
+XGBoost,2022,Ireland,Participare ridicată,2,Participare ridicată,2,0.023999838158488274,0.35228851437568665,0.6237116456031799
+XGBoost,2022,Iceland,Participare ridicată,2,Participare ridicată,2,0.016038084402680397,0.024243878200650215,0.9597179889678955
+XGBoost,2022,Italy,Participare scăzută,0,Participare ridicată,2,0.044355347752571106,0.2740732431411743,0.6815714240074158
+XGBoost,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,0.002192507730796933,0.03263610973954201,0.9651714563369751
+XGBoost,2022,Luxembourg,Participare ridicată,2,Participare ridicată,2,0.343651682138443,0.30379247665405273,0.3525558114051819
+XGBoost,2022,Latvia,Participare ridicată,2,Participare ridicată,2,0.0017199894646182656,0.019791118800640106,0.9784889221191406
+XGBoost,2022,Moldova,Participare ridicată,2,Participare medie,1,0.23060502111911774,0.4000391364097595,0.36935582756996155
+XGBoost,2022,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.30049028992652893,0.1738058179616928,0.5257038474082947
+XGBoost,2022,Malta,Participare ridicată,2,Participare ridicată,2,0.04251585528254509,0.1280408799648285,0.8294432759284973
+XGBoost,2022,Montenegro,Participare medie,1,Participare ridicată,2,0.40700674057006836,0.13547828793525696,0.45751500129699707
+XGBoost,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.0406251959502697,0.05901087448000908,0.9003639221191406
+XGBoost,2022,Norway,Participare ridicată,2,Participare ridicată,2,0.026269298046827316,0.037187907844781876,0.9365427494049072
+XGBoost,2022,Poland,Participare medie,1,Participare medie,1,0.043409109115600586,0.679890513420105,0.27670037746429443
+XGBoost,2022,Portugal,Participare ridicată,2,Participare ridicată,2,0.013983317650854588,0.24883687496185303,0.7371798157691956
+XGBoost,2022,Romania,Participare scăzută,0,Participare medie,1,0.11013821512460709,0.7569748163223267,0.13288699090480804
+XGBoost,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.05776948854327202,0.3580842614173889,0.58414626121521
+XGBoost,2022,Serbia,Participare medie,1,Participare scăzută,0,0.5953468680381775,0.23206961154937744,0.17258352041244507
+XGBoost,2022,Slovak Republic,Participare ridicată,2,Participare medie,1,0.0440506786108017,0.7747834324836731,0.181165874004364
+XGBoost,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,0.006085265427827835,0.20533114671707153,0.7885835766792297
+XGBoost,2022,Sweden,Participare ridicată,2,Participare ridicată,2,0.011824509128928185,0.025673629716038704,0.9625018835067749
+XGBoost,2022,Turkiye,Participare scăzută,0,Participare scăzută,0,0.8497121334075928,0.04631561040878296,0.10397230088710785
+XGBoost,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.6737916469573975,0.20242992043495178,0.12377840280532837
+XGBoost,2023,Austria,Participare ridicată,2,Participare ridicată,2,0.002732830587774515,0.04197714850306511,0.9552900195121765
+XGBoost,2023,Belgium,Participare medie,1,Participare ridicată,2,0.015784727409482002,0.3805546760559082,0.6036606431007385
+XGBoost,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.0040199668146669865,0.1065329983830452,0.889447033405304
+XGBoost,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9160212278366089,0.05155956745147705,0.032419249415397644
+XGBoost,2023,Belarus,Participare ridicată,2,Participare ridicată,2,0.007312946952879429,0.1630512923002243,0.829635739326477
+XGBoost,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,0.010368023067712784,0.09508281201124191,0.8945491909980774
+XGBoost,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,0.012379727326333523,0.1565171182155609,0.8311031460762024
+XGBoost,2023,Czechia,Participare ridicată,2,Participare ridicată,2,0.010465401224792004,0.17166920006275177,0.8178653717041016
+XGBoost,2023,Germany,Participare ridicată,2,Participare ridicată,2,0.0022743064910173416,0.01614358276128769,0.9815821647644043
+XGBoost,2023,Denmark,Participare ridicată,2,Participare ridicată,2,0.005018493160605431,0.016590287908911705,0.9783912301063538
+XGBoost,2023,Spain,Participare ridicată,2,Participare ridicată,2,0.01601449027657509,0.22064001858234406,0.76334547996521
+XGBoost,2023,Estonia,Participare ridicată,2,Participare ridicată,2,0.0031157967168837786,0.11186785250902176,0.8850163221359253
+XGBoost,2023,Finland,Participare ridicată,2,Participare ridicată,2,0.002561737783253193,0.03884885832667351,0.9585893750190735
+XGBoost,2023,France,Participare ridicată,2,Participare medie,1,0.00943391490727663,0.5094140768051147,0.4811519682407379
+XGBoost,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.010854230262339115,0.13638348877429962,0.8527622818946838
+XGBoost,2023,Greece,Participare medie,1,Participare ridicată,2,0.3568607270717621,0.2594165802001953,0.3837226629257202
+XGBoost,2023,Croatia,Participare medie,1,Participare ridicată,2,0.009057514369487762,0.11958985030651093,0.8713526725769043
+XGBoost,2023,Hungary,Participare ridicată,2,Participare medie,1,0.05577338486909866,0.5805895328521729,0.36363711953163147
+XGBoost,2023,Ireland,Participare ridicată,2,Participare medie,1,0.021888047456741333,0.8461319208145142,0.13198000192642212
+XGBoost,2023,Iceland,Participare ridicată,2,Participare ridicată,2,0.011479834094643593,0.02169352024793625,0.9668266773223877
+XGBoost,2023,Italy,Participare scăzută,0,Participare ridicată,2,0.046590548008680344,0.3093564808368683,0.6440529823303223
+XGBoost,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,0.002396213123574853,0.0511055514216423,0.9464981555938721
+XGBoost,2023,Luxembourg,Participare ridicată,2,Participare medie,1,0.3068349063396454,0.47891128063201904,0.21425384283065796
+XGBoost,2023,Latvia,Participare ridicată,2,Participare ridicată,2,0.0017852308228611946,0.019866272807121277,0.9783485531806946
+XGBoost,2023,Moldova,Participare ridicată,2,Participare medie,1,0.25453925132751465,0.3817889094352722,0.36367177963256836
+XGBoost,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.1277671605348587,0.312518447637558,0.5597143769264221
+XGBoost,2023,Malta,Participare ridicată,2,Participare ridicată,2,0.04964613914489746,0.14070788025856018,0.8096460103988647
+XGBoost,2023,Montenegro,Participare medie,1,Participare scăzută,0,0.5129953622817993,0.13982495665550232,0.347179651260376
+XGBoost,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.02710806578397751,0.12309424579143524,0.8497977256774902
+XGBoost,2023,Norway,Participare ridicată,2,Participare ridicată,2,0.026520099490880966,0.04969248175621033,0.9237874150276184
+XGBoost,2023,Poland,Participare ridicată,2,Participare medie,1,0.03198515996336937,0.6153267025947571,0.35268816351890564
+XGBoost,2023,Portugal,Participare ridicată,2,Participare ridicată,2,0.006672963500022888,0.10417064279317856,0.8891564011573792
+XGBoost,2023,Romania,Participare scăzută,0,Participare medie,1,0.09286772459745407,0.8025698065757751,0.10456244647502899
+XGBoost,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.0069755082949995995,0.09256045520305634,0.9004640579223633
+XGBoost,2023,Serbia,Participare medie,1,Participare scăzută,0,0.5716363787651062,0.214045912027359,0.2143176794052124
+XGBoost,2023,Slovak Republic,Participare ridicată,2,Participare medie,1,0.0642302855849266,0.5901445150375366,0.34562522172927856
+XGBoost,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,0.006518446374684572,0.18608485162258148,0.8073967099189758
+XGBoost,2023,Sweden,Participare ridicată,2,Participare ridicată,2,0.011959521099925041,0.030093641951680183,0.9579468369483948
+XGBoost,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,0.8473708033561707,0.05732481926679611,0.09530435502529144
+Extra Trees,2019,Albania,Participare medie,1,Participare scăzută,0,0.8849077044494785,0.07178889495210465,0.04330340059841633
+Extra Trees,2019,Austria,Participare ridicată,2,Participare ridicată,2,0.006665734085672266,0.10985224220200154,0.8834820237123262
+Extra Trees,2019,Belgium,Participare medie,1,Participare medie,1,0.006875044802867384,0.5047897416628042,0.4883352135343285
+Extra Trees,2019,Bulgaria,Participare ridicată,2,Participare medie,1,0.02832812305365254,0.5459398005015591,0.4257320764447883
+Extra Trees,2019,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.9581504669397823,0.034209712677855594,0.00763982038236201
+Extra Trees,2019,Belarus,Participare ridicată,2,Participare ridicată,2,0.039833067085549706,0.1547487555532906,0.8054181773611597
+Extra Trees,2019,Switzerland,Participare ridicată,2,Participare ridicată,2,0.003333333333333333,0.03186681120839758,0.9647998554582693
+Extra Trees,2019,Cyprus,Participare ridicată,2,Participare ridicată,2,0.024478789395920672,0.12512566437672074,0.8503955462273585
+Extra Trees,2019,Czechia,Participare ridicată,2,Participare ridicată,2,0.026196004092965172,0.3509806213652959,0.6228233745417382
+Extra Trees,2019,Germany,Participare ridicată,2,Participare ridicată,2,0.00519199517275893,0.028413275262732164,0.966394729564509
+Extra Trees,2019,Denmark,Participare ridicată,2,Participare ridicată,2,0.00017857142857142857,0.004150660169434147,0.9956707684019945
+Extra Trees,2019,Spain,Participare ridicată,2,Participare medie,1,0.019979674522325575,0.5664186832964522,0.41360164218122203
+Extra Trees,2019,Estonia,Participare ridicată,2,Participare ridicată,2,0.007469745300919518,0.06290027985149688,0.9296299748475838
+Extra Trees,2019,Finland,Participare ridicată,2,Participare ridicată,2,0.003002533783783784,0.040453967796229166,0.9565434984199871
+Extra Trees,2019,France,Participare medie,1,Participare medie,1,0.017117077279142863,0.8110337146154943,0.17184920810536317
+Extra Trees,2019,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.011485052947131931,0.06764343141386467,0.9208715156390035
+Extra Trees,2019,Greece,Participare scăzută,0,Participare scăzută,0,0.7246578659030155,0.13931775805812313,0.1360243760388613
+Extra Trees,2019,Croatia,Participare medie,1,Participare medie,1,0.02920831218569581,0.6788311242363624,0.2919605635779417
+Extra Trees,2019,Hungary,Participare ridicată,2,Participare ridicată,2,0.05691939326670527,0.47045737480128375,0.47262323193201083
+Extra Trees,2019,Ireland,Participare medie,1,Participare medie,1,0.05738173962288666,0.7755073977957981,0.16711086258131508
+Extra Trees,2019,Iceland,Participare ridicată,2,Participare ridicată,2,0.00125,0.016813041125541127,0.9819369588744589
+Extra Trees,2019,Italy,Participare scăzută,0,Participare scăzută,0,0.6856952957102148,0.1774456187549756,0.13685908553480977
+Extra Trees,2019,Lithuania,Participare ridicată,2,Participare ridicată,2,0.02242100115674292,0.14225857680538362,0.8353204220378738
+Extra Trees,2019,Luxembourg,Participare medie,1,Participare medie,1,0.049360183747412,0.9243621297181083,0.026277686534480017
+Extra Trees,2019,Latvia,Participare ridicată,2,Participare ridicată,2,0.0035975083691717176,0.08586445374666524,0.9105380378841637
+Extra Trees,2019,Moldova,Participare ridicată,2,Participare medie,1,0.133292701863354,0.5440052838164248,0.3227020143202206
+Extra Trees,2019,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.799467261904762,0.12519940476190475,0.07533333333333332
+Extra Trees,2019,Malta,Participare medie,1,Participare medie,1,0.3503264578516901,0.4909790946574896,0.15869444749082004
+Extra Trees,2019,Montenegro,Participare scăzută,0,Participare scăzută,0,0.7859599608050131,0.08973660410769785,0.12430343508728928
+Extra Trees,2019,Netherlands,Participare ridicată,2,Participare ridicată,2,0.029174266705516715,0.07529693306636907,0.8955288002281141
+Extra Trees,2019,Norway,Participare ridicată,2,Participare ridicată,2,0.0051822916666666675,0.018436147186147188,0.9763815611471862
+Extra Trees,2019,Poland,Participare medie,1,Participare medie,1,0.029038113538816735,0.7514929722862861,0.21946891417489703
+Extra Trees,2019,Portugal,Participare ridicată,2,Participare ridicată,2,0.04305000386708736,0.15946000146238876,0.797489994670524
+Extra Trees,2019,Romania,Participare scăzută,0,Participare scăzută,0,0.636236835560876,0.23749444453549784,0.12626871990362676
+Extra Trees,2019,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.03529008741147645,0.1461067420535241,0.8186031705349994
+Extra Trees,2019,Serbia,Participare medie,1,Participare medie,1,0.4256550582279474,0.4855679710390607,0.08877697073299189
+Extra Trees,2019,Slovak Republic,Participare medie,1,Participare medie,1,0.0446141594035874,0.77446600132273,0.1809198392736826
+Extra Trees,2019,Slovenia,Participare ridicată,2,Participare ridicată,2,0.00742648934351264,0.17970082553748273,0.8128726851190049
+Extra Trees,2019,Sweden,Participare ridicată,2,Participare ridicată,2,3.90625e-05,0.0028069616804231577,0.9971539758195769
+Extra Trees,2019,Turkiye,Participare scăzută,0,Participare scăzută,0,0.8965457875457874,0.06242556662087912,0.04102864583333333
+Extra Trees,2019,Ukraine,Participare medie,1,Participare medie,1,0.1614282664447455,0.7177341590186369,0.12083757453661752
+Extra Trees,2020,Albania,Participare medie,1,Participare scăzută,0,0.8482171391998768,0.10214379103665562,0.04963906976346732
+Extra Trees,2020,Austria,Participare ridicată,2,Participare ridicată,2,0.011385431055369235,0.1350083996410537,0.853606169303577
+Extra Trees,2020,Belgium,Participare medie,1,Participare ridicată,2,0.007634378953194182,0.46014131001304703,0.5322243110337588
+Extra Trees,2020,Bulgaria,Participare medie,1,Participare medie,1,0.021358498340799788,0.5048154808258494,0.4738260208333507
+Extra Trees,2020,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.8562044629585391,0.12293231240377978,0.020863224637681164
+Extra Trees,2020,Belarus,Participare ridicată,2,Participare ridicată,2,0.035035448037930655,0.18314310079138585,0.7818214511706836
+Extra Trees,2020,Switzerland,Participare ridicată,2,Participare ridicată,2,0.0103125,0.045564727875064256,0.9441227721249359
+Extra Trees,2020,Cyprus,Participare ridicată,2,Participare ridicată,2,0.05345517811158336,0.16758793256953244,0.7789568893188842
+Extra Trees,2020,Czechia,Participare ridicată,2,Participare ridicată,2,0.03306804870542175,0.4138267345189128,0.5531052167756648
+Extra Trees,2020,Germany,Participare ridicată,2,Participare ridicată,2,0.007424721596661823,0.030466185177246932,0.9621090932260912
+Extra Trees,2020,Denmark,Participare ridicată,2,Participare ridicată,2,0.0014285714285714286,0.005769188862962841,0.9928022397084659
+Extra Trees,2020,Spain,Participare medie,1,Participare medie,1,0.01623214288729394,0.5417403898306588,0.44202746728204717
+Extra Trees,2020,Estonia,Participare ridicată,2,Participare ridicată,2,0.010665669457987352,0.12253291752221727,0.8668014130197953
+Extra Trees,2020,Finland,Participare ridicată,2,Participare ridicată,2,0.003041596283783784,0.030699543008666254,0.96625886070755
+Extra Trees,2020,France,Participare medie,1,Participare medie,1,0.017825271114028433,0.695775585029165,0.2863991438568067
+Extra Trees,2020,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.014894605960663837,0.1228448037063508,0.8622605903329855
+Extra Trees,2020,Greece,Participare scăzută,0,Participare scăzută,0,0.6005505990885637,0.20115298132245332,0.19829641958898286
+Extra Trees,2020,Croatia,Participare medie,1,Participare ridicată,2,0.06010106197409129,0.4158577048595133,0.5240412331663956
+Extra Trees,2020,Hungary,Participare ridicată,2,Participare medie,1,0.07607808073005119,0.5249865512245264,0.39893536804542234
+Extra Trees,2020,Ireland,Participare medie,1,Participare medie,1,0.09608308263374056,0.6901218939099755,0.2137950234562841
+Extra Trees,2020,Iceland,Participare ridicată,2,Participare ridicată,2,0.0015066964285714284,0.018272601402220968,0.9802207021692075
+Extra Trees,2020,Italy,Participare scăzută,0,Participare scăzută,0,0.4100235213797262,0.31609977733502026,0.2738767012852532
+Extra Trees,2020,Lithuania,Participare ridicată,2,Participare ridicată,2,0.03145868483613601,0.1944687432883269,0.7740725718755377
+Extra Trees,2020,Luxembourg,Participare medie,1,Participare medie,1,0.029240258533736792,0.8656858476668259,0.1050738937994373
+Extra Trees,2020,Latvia,Participare ridicată,2,Participare ridicată,2,0.012335202870118188,0.14682634935922684,0.8408384477706554
+Extra Trees,2020,Moldova,Participare ridicată,2,Participare medie,1,0.1684935947204969,0.5601808790545201,0.27132552622498257
+Extra Trees,2020,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.7194084581413211,0.15445041282642083,0.12614112903225808
+Extra Trees,2020,Malta,Participare medie,1,Participare medie,1,0.37473805706812235,0.45551074204305786,0.16975120088881954
+Extra Trees,2020,Montenegro,Participare scăzută,0,Participare scăzută,0,0.7864695499972378,0.10335001168898054,0.11018043831378158
+Extra Trees,2020,Netherlands,Participare ridicată,2,Participare ridicată,2,0.01796875,0.05631258748039304,0.925718662519607
+Extra Trees,2020,Norway,Participare ridicată,2,Participare ridicată,2,0.0032291666666666666,0.022028598876968446,0.9747422344563649
+Extra Trees,2020,Poland,Participare medie,1,Participare medie,1,0.03226879683971191,0.6933588623058442,0.27437234085444373
+Extra Trees,2020,Portugal,Participare ridicată,2,Participare ridicată,2,0.052738750296723286,0.20751409367779583,0.739747156025481
+Extra Trees,2020,Romania,Participare scăzută,0,Participare scăzută,0,0.4787292298346719,0.3481449738639521,0.1731257963013761
+Extra Trees,2020,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.09737866826563951,0.35340002013067845,0.5492213116036821
+Extra Trees,2020,Serbia,Participare medie,1,Participare medie,1,0.4375122010850903,0.4454518996104892,0.11703589930442047
+Extra Trees,2020,Slovak Republic,Participare medie,1,Participare medie,1,0.0854378216023166,0.5731258244037248,0.3414363539939585
+Extra Trees,2020,Slovenia,Participare ridicată,2,Participare ridicată,2,0.00878666060499969,0.1886943007548908,0.8025190386401095
+Extra Trees,2020,Sweden,Participare ridicată,2,Participare ridicată,2,0.0017057291666666666,0.012967909392841459,0.9853263614404918
+Extra Trees,2020,Turkiye,Participare scăzută,0,Participare scăzută,0,0.8437172619047618,0.08869159226190476,0.06759114583333334
+Extra Trees,2020,Ukraine,Participare medie,1,Participare medie,1,0.17214457746705655,0.6750780146655783,0.15277740786736504
+Extra Trees,2021,Albania,Participare medie,1,Participare scăzută,0,0.7699468230930497,0.16014910757481501,0.06990406933213536
+Extra Trees,2021,Austria,Participare ridicată,2,Participare ridicată,2,0.016332042557760048,0.15831281655747836,0.8253551408847616
+Extra Trees,2021,Belgium,Participare medie,1,Participare ridicată,2,0.008811070261437908,0.43808460061361937,0.5531043291249426
+Extra Trees,2021,Bulgaria,Participare medie,1,Participare medie,1,0.02599814269159102,0.5501132581927723,0.4238885991156362
+Extra Trees,2021,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.8507274844720498,0.12168646480331262,0.027586050724637684
+Extra Trees,2021,Belarus,Participare ridicată,2,Participare ridicată,2,0.036077114704597325,0.19883161745564273,0.76509126783976
+Extra Trees,2021,Switzerland,Participare ridicată,2,Participare ridicată,2,0.015104166666666667,0.06965566513110039,0.9152401682022331
+Extra Trees,2021,Cyprus,Participare ridicată,2,Participare ridicată,2,0.1052659997935589,0.24842084947480803,0.6463131507316332
+Extra Trees,2021,Czechia,Participare ridicată,2,Participare ridicată,2,0.03708432448404539,0.31647310921428384,0.6464425663016702
+Extra Trees,2021,Germany,Participare ridicată,2,Participare ridicată,2,0.007291876750700279,0.028184776206392405,0.9645233470429075
+Extra Trees,2021,Denmark,Participare ridicată,2,Participare ridicată,2,0.003928571428571429,0.007030101561375538,0.9890413270100531
+Extra Trees,2021,Spain,Participare ridicată,2,Participare medie,1,0.03139822446632194,0.5071128740468932,0.46148890148678495
+Extra Trees,2021,Estonia,Participare ridicată,2,Participare ridicată,2,0.017135668284025164,0.10210633994976125,0.8807579917662136
+Extra Trees,2021,Finland,Participare ridicată,2,Participare ridicată,2,6.457270408163264e-05,0.020019725613909828,0.9799157016820087
+Extra Trees,2021,France,Participare ridicată,2,Participare medie,1,0.02581639028955343,0.6261401732648674,0.3480434364455792
+Extra Trees,2021,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.019033349161907034,0.17466066632003746,0.8063059845180556
+Extra Trees,2021,Greece,Participare scăzută,0,Participare scăzută,0,0.5443308788286648,0.2399465890920516,0.21572253207928344
+Extra Trees,2021,Croatia,Participare medie,1,Participare ridicată,2,0.06051825919981518,0.35157407047370026,0.5879076703264846
+Extra Trees,2021,Hungary,Participare ridicată,2,Participare ridicată,2,0.08361160189485847,0.4396921948065293,0.4766962032986121
+Extra Trees,2021,Ireland,Participare ridicată,2,Participare medie,1,0.15288406222178524,0.6079813925174128,0.23913454526080213
+Extra Trees,2021,Iceland,Participare ridicată,2,Participare ridicată,2,0.001358695652173913,0.03730455957086392,0.9613367447769621
+Extra Trees,2021,Italy,Participare scăzută,0,Participare scăzută,0,0.37234581057529675,0.26635471362334256,0.3612994758013606
+Extra Trees,2021,Lithuania,Participare ridicată,2,Participare ridicată,2,0.021497954625540067,0.17546754237885687,0.8030345029956029
+Extra Trees,2021,Luxembourg,Participare ridicată,2,Participare medie,1,0.10726643374741203,0.598626552795031,0.29410701345755697
+Extra Trees,2021,Latvia,Participare ridicată,2,Participare ridicată,2,0.0066635502779952595,0.09531862755228213,0.8980178221697227
+Extra Trees,2021,Moldova,Participare ridicată,2,Participare medie,1,0.29713541666666665,0.4070922619047618,0.2957723214285713
+Extra Trees,2021,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.607237044521584,0.21418146178836964,0.17858149369004633
+Extra Trees,2021,Malta,Participare medie,1,Participare medie,1,0.2550647626886083,0.49800191213215944,0.24693332517923192
+Extra Trees,2021,Montenegro,Participare scăzută,0,Participare scăzută,0,0.6105842263451235,0.20316811347480443,0.18624766018007208
+Extra Trees,2021,Netherlands,Participare ridicată,2,Participare ridicată,2,0.022001488095238095,0.047923405039740005,0.930075106865022
+Extra Trees,2021,Norway,Participare ridicată,2,Participare ridicată,2,0.013541666666666667,0.030652805226174785,0.9558055281071585
+Extra Trees,2021,Poland,Participare medie,1,Participare medie,1,0.054004718508199365,0.5955627063185335,0.3504325751732672
+Extra Trees,2021,Portugal,Participare ridicată,2,Participare ridicată,2,0.04611587928335136,0.2134783053091653,0.7404058154074833
+Extra Trees,2021,Romania,Participare scăzută,0,Participare medie,1,0.37672804535348203,0.4102871835184231,0.21298477112809486
+Extra Trees,2021,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.10589761668919273,0.3482369453792742,0.5458654379315331
+Extra Trees,2021,Serbia,Participare medie,1,Participare scăzută,0,0.43790256691408047,0.4237669771907471,0.13833045589517273
+Extra Trees,2021,Slovak Republic,Participare ridicată,2,Participare medie,1,0.08696706039366799,0.571161073794149,0.34187186581218304
+Extra Trees,2021,Slovenia,Participare ridicată,2,Participare ridicată,2,0.01609516373381532,0.22099079528976584,0.762914040976419
+Extra Trees,2021,Sweden,Participare ridicată,2,Participare ridicată,2,0.008893229166666666,0.03362068717061924,0.9574860836627141
+Extra Trees,2021,Turkiye,Participare scăzută,0,Participare scăzută,0,0.7526339285714286,0.13654575892857143,0.1108203125
+Extra Trees,2021,Ukraine,Participare medie,1,Participare medie,1,0.1936437109422088,0.6355743197781273,0.17078196927966377
+Extra Trees,2022,Albania,Participare medie,1,Participare scăzută,0,0.7348281895839898,0.17149398377393354,0.0936778266420769
+Extra Trees,2022,Austria,Participare ridicată,2,Participare ridicată,2,0.015885898384511037,0.12797882020282275,0.856135281412666
+Extra Trees,2022,Belgium,Participare medie,1,Participare ridicată,2,0.01126593137254902,0.31920420343287853,0.6695298651945722
+Extra Trees,2022,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.030485120240314606,0.416229171913116,0.5532857078465695
+Extra Trees,2022,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.7733020369880917,0.17441864987592326,0.0522793131359852
+Extra Trees,2022,Belarus,Participare ridicată,2,Participare ridicată,2,0.043368781371263994,0.22005542150485435,0.7365757971238817
+Extra Trees,2022,Switzerland,Participare ridicată,2,Participare ridicată,2,0.013694852941176472,0.0973020700129832,0.8890030770458405
+Extra Trees,2022,Cyprus,Participare ridicată,2,Participare ridicată,2,0.1063478526279861,0.24893557250614515,0.644716574865869
+Extra Trees,2022,Czechia,Participare ridicată,2,Participare ridicată,2,0.025664245526734117,0.26394205991130126,0.7103936945619652
+Extra Trees,2022,Germany,Participare ridicată,2,Participare ridicată,2,0.004801797385620915,0.04062350169658849,0.954574700917791
+Extra Trees,2022,Denmark,Participare ridicată,2,Participare ridicată,2,0.0016666666666666666,0.01954732216756673,0.9787860111657668
+Extra Trees,2022,Spain,Participare ridicată,2,Participare medie,1,0.04930373266319046,0.4940099519485666,0.4566863153882428
+Extra Trees,2022,Estonia,Participare ridicată,2,Participare ridicată,2,0.014821285087564761,0.12780879618238136,0.8573699187300541
+Extra Trees,2022,Finland,Participare ridicată,2,Participare ridicată,2,0.007572846283783784,0.05210532351844156,0.9403218301977746
+Extra Trees,2022,France,Participare ridicată,2,Participare medie,1,0.028671308305404115,0.5459515442660099,0.42537714742858607
+Extra Trees,2022,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.01453701216557004,0.20858281413714072,0.7768801736972892
+Extra Trees,2022,Greece,Participare medie,1,Participare scăzută,0,0.4851875962574924,0.255847069882293,0.25896533386021436
+Extra Trees,2022,Croatia,Participare medie,1,Participare ridicată,2,0.055375566500138994,0.30681239543185,0.6378120380680111
+Extra Trees,2022,Hungary,Participare ridicată,2,Participare medie,1,0.08239637223566562,0.4712726006552426,0.44633102710909184
+Extra Trees,2022,Ireland,Participare ridicată,2,Participare medie,1,0.18113719537159692,0.490637275097831,0.32822552953057205
+Extra Trees,2022,Iceland,Participare ridicată,2,Participare ridicată,2,0.018046875,0.18048865023865024,0.8014644747613499
+Extra Trees,2022,Italy,Participare scăzută,0,Participare ridicată,2,0.2177833189324806,0.2786337327077109,0.5035829483598085
+Extra Trees,2022,Lithuania,Participare ridicată,2,Participare ridicată,2,0.026998553596298727,0.1998132857629466,0.7731881606407545
+Extra Trees,2022,Luxembourg,Participare ridicată,2,Participare medie,1,0.14143310041407867,0.5830848861283644,0.2754820134575569
+Extra Trees,2022,Latvia,Participare ridicată,2,Participare ridicată,2,0.008537539163708637,0.1079744003810078,0.8834880604552837
+Extra Trees,2022,Moldova,Participare ridicată,2,Participare medie,1,0.3200520833333333,0.3910416666666666,0.2889062499999999
+Extra Trees,2022,North Macedonia,Participare scăzută,0,Participare scăzută,0,0.4442573849876481,0.258032314061097,0.2977103009512549
+Extra Trees,2022,Malta,Participare ridicată,2,Participare ridicată,2,0.10595105286738353,0.33887474371263815,0.5551742034199786
+Extra Trees,2022,Montenegro,Participare medie,1,Participare scăzută,0,0.45548004420754884,0.2647296258129847,0.2797903299794665
+Extra Trees,2022,Netherlands,Participare ridicată,2,Participare ridicată,2,0.0310719696969697,0.09740427519083074,0.8715237551121996
+Extra Trees,2022,Norway,Participare ridicată,2,Participare ridicată,2,0.0203125,0.06890972222222223,0.9107777777777778
+Extra Trees,2022,Poland,Participare medie,1,Participare medie,1,0.05753678321189236,0.49864436936795953,0.4438188474201481
+Extra Trees,2022,Portugal,Participare ridicată,2,Participare ridicată,2,0.03801649733360175,0.2096066370904663,0.752376865575932
+Extra Trees,2022,Romania,Participare scăzută,0,Participare medie,1,0.30900719450458936,0.43579407317173535,0.2551987323236751
+Extra Trees,2022,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.11992043630558444,0.3518844598384716,0.528195103855944
+Extra Trees,2022,Serbia,Participare medie,1,Participare scăzută,0,0.4543902950623688,0.3464265704710304,0.1991831344666013
+Extra Trees,2022,Slovak Republic,Participare ridicată,2,Participare medie,1,0.07981543566164573,0.5787002219229769,0.34148434241537773
+Extra Trees,2022,Slovenia,Participare ridicată,2,Participare ridicată,2,0.00973088649711092,0.2504663348717297,0.7398027786311596
+Extra Trees,2022,Sweden,Participare ridicată,2,Participare ridicată,2,0.005247395833333332,0.02776787331780538,0.9669847308488615
+Extra Trees,2022,Turkiye,Participare scăzută,0,Participare scăzută,0,0.6828913690476192,0.18520200892857142,0.13190662202380948
+Extra Trees,2023,Albania,Participare ridicată,2,Participare scăzută,0,0.71482818958399,0.195139817107267,0.09003199330874356
+Extra Trees,2023,Austria,Participare ridicată,2,Participare ridicată,2,0.019550428299040953,0.16692299159207422,0.8135265801088849
+Extra Trees,2023,Belgium,Participare medie,1,Participare ridicată,2,0.008243055555555556,0.39761331005777023,0.5941436343866743
+Extra Trees,2023,Bulgaria,Participare ridicată,2,Participare ridicată,2,0.027424247703790615,0.418584280093516,0.5539914722026935
+Extra Trees,2023,Bosnia and Herzegovina,Participare scăzută,0,Participare scăzută,0,0.7174979504496305,0.22147273641438475,0.061029313135985204
+Extra Trees,2023,Belarus,Participare ridicată,2,Participare ridicată,2,0.058144035478754935,0.24779103162272073,0.6940649328985243
+Extra Trees,2023,Switzerland,Participare ridicată,2,Participare ridicată,2,0.013769257703081232,0.12831862845454162,0.8579121138423773
+Extra Trees,2023,Cyprus,Participare ridicată,2,Participare ridicată,2,0.11589039118491085,0.2503347241603839,0.6337748846547054
+Extra Trees,2023,Czechia,Participare ridicată,2,Participare ridicată,2,0.03853391857070854,0.3417170189472401,0.6197490624820512
+Extra Trees,2023,Germany,Participare ridicată,2,Participare ridicată,2,0.010087826797385619,0.07783976419008018,0.9120724090125343
+Extra Trees,2023,Denmark,Participare ridicată,2,Participare ridicată,2,0.003541666666666667,0.02517232216756673,0.9712860111657667
+Extra Trees,2023,Spain,Participare ridicată,2,Participare ridicată,2,0.04424778983151231,0.4770160836844778,0.47873612648400987
+Extra Trees,2023,Estonia,Participare ridicată,2,Participare ridicată,2,0.022424267172635726,0.1619156389741919,0.8156600938531726
+Extra Trees,2023,Finland,Participare ridicată,2,Participare ridicată,2,0.006947846283783784,0.07517824018510823,0.9178739135311079
+Extra Trees,2023,France,Participare ridicată,2,Participare medie,1,0.028260159121548837,0.5753350745716116,0.3964047663068398
+Extra Trees,2023,United Kingdom,Participare ridicată,2,Participare ridicată,2,0.015849080980079432,0.31887913702691495,0.665271781993006
+Extra Trees,2023,Greece,Participare medie,1,Participare scăzută,0,0.47103881744022064,0.2685506017489022,0.26041058081087726
+Extra Trees,2023,Croatia,Participare medie,1,Participare ridicată,2,0.048162318701019356,0.29317402016307903,0.6586636611359016
+Extra Trees,2023,Hungary,Participare ridicată,2,Participare medie,1,0.0846626993013062,0.5071946383252706,0.4081426623734235
+Extra Trees,2023,Ireland,Participare ridicată,2,Participare medie,1,0.21008817307627528,0.48200788367419617,0.3079039432495285
+Extra Trees,2023,Iceland,Participare ridicată,2,Participare ridicată,2,0.015286458333333332,0.1358631396177352,0.8488504020489315
+Extra Trees,2023,Italy,Participare scăzută,0,Participare ridicată,2,0.19664561276093978,0.30220538144662223,0.5011490057924379
+Extra Trees,2023,Lithuania,Participare ridicată,2,Participare ridicată,2,0.027811015276946592,0.2062699987663659,0.7659189859566873
+Extra Trees,2023,Luxembourg,Participare ridicată,2,Participare medie,1,0.126016433747412,0.6356057194616977,0.23837784679089022
+Extra Trees,2023,Latvia,Participare ridicată,2,Participare ridicată,2,0.016550000146752328,0.14395713461761295,0.8394928652356347
+Extra Trees,2023,Moldova,Participare ridicată,2,Participare medie,1,0.3551921695402299,0.3723911637931034,0.2724166666666666
+Extra Trees,2023,North Macedonia,Participare scăzută,0,Participare ridicată,2,0.322039915564961,0.33893486059187694,0.3390252238431621
+Extra Trees,2023,Malta,Participare ridicată,2,Participare ridicată,2,0.11549545940170944,0.33513119038392375,0.5493733502143672
+Extra Trees,2023,Montenegro,Participare medie,1,Participare scăzută,0,0.485407289054393,0.25064733395195354,0.26394537699365356
+Extra Trees,2023,Netherlands,Participare ridicată,2,Participare ridicată,2,0.027187500000000003,0.09846117498141956,0.8743513250185805
+Extra Trees,2023,Norway,Participare ridicată,2,Participare ridicată,2,0.020625,0.06422222222222222,0.9151527777777778
+Extra Trees,2023,Poland,Participare ridicată,2,Participare ridicată,2,0.03660497262829607,0.4329211362398495,0.5304738911318546
+Extra Trees,2023,Portugal,Participare ridicată,2,Participare ridicată,2,0.02917539253267907,0.1977173514640426,0.7731072560032786
+Extra Trees,2023,Romania,Participare scăzută,0,Participare medie,1,0.305801067801267,0.45909186215482506,0.2351070700439077
+Extra Trees,2023,Russian Federation,Participare ridicată,2,Participare ridicată,2,0.05195290784855802,0.19505400082243285,0.7529930913290093
+Extra Trees,2023,Serbia,Participare medie,1,Participare scăzută,0,0.4324007117290354,0.3462807371376971,0.22131855113326787
+Extra Trees,2023,Slovak Republic,Participare ridicată,2,Participare medie,1,0.08960573982457218,0.5540048234269305,0.3563894367484973
+Extra Trees,2023,Slovenia,Participare ridicată,2,Participare ridicată,2,0.01239939445174265,0.27956503941422844,0.7080355661340288
+Extra Trees,2023,Sweden,Participare ridicată,2,Participare ridicată,2,0.007747395833333333,0.04913719149962357,0.9431154126670431
+Extra Trees,2023,Turkiye,Participare scăzută,0,Participare scăzută,0,0.6400104166666667,0.20841927083333325,0.1515703125

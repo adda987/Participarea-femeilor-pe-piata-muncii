@@ -1,0 +1,6 @@
+"Model","Predictori","N","Țări","R² relevant","AIC","BIC"
+"Model A – Macroeconomic","Log PIB/locuitor PPP, Creștere PIB, Inflație, Șomaj feminin",931,41,0.476475140034139,,
+"Model B – Demografie și capital uman","Log PIB/locuitor PPP, Fertilitate, Urbanizare, Dependența copiilor, Educație terțiară",871,41,0.524983354996589,,
+"Model C – Structura pieței muncii și digitalizare","Log PIB/locuitor PPP, Femei în servicii, Ocupare vulnerabilă, Internet",932,41,0.55482350328769,,
+"Model D – Instituții","Log PIB/locuitor PPP, Femei în parlament, Controlul corupției",887,41,0.551497844173678,,
+"Model E – Model complet candidat","Log PIB/locuitor PPP, Creștere PIB, Inflație, Șomaj feminin, Fertilitate, Urbanizare, Femei în servicii, Dependența copiilor, Ocupare vulnerabilă, Internet, Femei în parlament, Educație terțiară, Controlul corupției",820,41,0.619643707761215,,

@@ -1,0 +1,100 @@
+{
+  "train_start": 2001,
+  "train_end": 2018,
+  "test_start": 2019,
+  "test_end": 2023,
+  "train_n": 738,
+  "test_n": 203,
+  "number_features": 13,
+  "number_countries": 41,
+  "q33_class_threshold": 60.506,
+  "q67_class_threshold": 68.71566666666666,
+  "classification_distribution_train": [
+    {
+      "Eșantion": "Train",
+      "Clasă": "Participare scăzută",
+      "Observații": 246,
+      "Procent": 33.33333333333333
+    },
+    {
+      "Eșantion": "Train",
+      "Clasă": "Participare medie",
+      "Observații": 246,
+      "Procent": 33.33333333333333
+    },
+    {
+      "Eșantion": "Train",
+      "Clasă": "Participare ridicată",
+      "Observații": 246,
+      "Procent": 33.33333333333333
+    }
+  ],
+  "classification_distribution_test": [
+    {
+      "Eșantion": "Test",
+      "Clasă": "Participare scăzută",
+      "Observații": 31,
+      "Procent": 15.270935960591133
+    },
+    {
+      "Eșantion": "Test",
+      "Clasă": "Participare medie",
+      "Observații": 44,
+      "Procent": 21.67487684729064
+    },
+    {
+      "Eșantion": "Test",
+      "Clasă": "Participare ridicată",
+      "Observații": 128,
+      "Procent": 63.05418719211823
+    }
+  ],
+  "best_regression_model": "XGBoost",
+  "best_classification_model": "SVC",
+  "best_regression_rmse": 4.192999152952071,
+  "best_classification_f1_macro": 0.7532467532467533,
+  "temporal_cv_folds": [
+    {
+      "Fold": 1,
+      "Train": "ani <= 2012",
+      "Validation": "2013–2014",
+      "N train": 492,
+      "N validation": 82
+    },
+    {
+      "Fold": 2,
+      "Train": "ani <= 2014",
+      "Validation": "2015–2016",
+      "N train": 574,
+      "N validation": 82
+    },
+    {
+      "Fold": 3,
+      "Train": "ani <= 2016",
+      "Validation": "2017–2018",
+      "N train": 656,
+      "N validation": 82
+    }
+  ],
+  "group_cv_folds": 5,
+  "best_tree_regression_for_shap": "Extra Trees",
+  "best_tree_classification_for_shap": "Extra Trees",
+  "partial_dependence_files": [
+    "partial_dependence_internet.json",
+    "partial_dependence_control_corruption.json",
+    "partial_dependence_female_vulnerable.json"
+  ],
+  "warnings": [
+    "SHAP regresie indisponibil pentru XGBoost: could not convert string to float: '[6.349307E1]'"
+  ],
+  "final_conclusions": {
+    "regression": "XGBoost a obținut cea mai redusă eroare RMSE pe perioada de test (4.193). Rezultatul este evaluat împreună cu MAE, R², diferența train-test și validarea temporală.",
+    "regression_stability": "SVR are cea mai favorabilă combinație descriptivă între validarea temporală și validarea pe țări. Această informație completează, dar nu înlocuiește evaluarea pe holdout temporal.",
+    "features": "Predictorii care apar frecvent importanți sunt: Ocupare vulnerabilă, Controlul corupției, Urbanizare, Șomaj feminin, Femei în parlament. Importanța este predictivă, nu cauzală.",
+    "periods": "Pentru modelul favorizat, cea mai mare eroare anuală agregată din test apare în 2023.",
+    "classification": "SVC a obținut cea mai ridicată valoare F1 Macro pe setul de test (0.753), indicând cel mai bun echilibru predictiv între clase în această evaluare.",
+    "classification_confusions": "Confuziile cele mai frecvente sunt: Participare ridicată → Participare scăzută (137); Participare ridicată → Participare medie (114); Participare medie → Participare scăzută (94)",
+    "general": "Rezultatele predictive completează analiza econometrică, dar nu înlocuiesc interpretarea structurală și economică a coeficienților."
+  },
+  "timestamp": "2026-08-15 17:35:21"
+}

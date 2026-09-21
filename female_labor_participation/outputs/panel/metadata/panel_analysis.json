@@ -1,0 +1,26 @@
+{
+  "start_year": 2001,
+  "end_year": 2023,
+  "number_countries": 46,
+  "number_observations": 1058,
+  "balanced": true,
+  "Tmin": 23,
+  "Tmax": 23,
+  "selected_model": "Two-Way Fixed Effects",
+  "selected_model_note": "Specificația favorizată de testele panel este Two-Way Fixed Effects. Specificația este favorizată de testele aplicate și va fi supusă diagnosticului reziduurilor și verificărilor de robustețe.",
+  "time_effects_required": true,
+  "heteroskedasticity_detected": true,
+  "serial_correlation_detected": true,
+  "cross_sectional_dependence_detected": false,
+  "robust_method_used": "Driscoll–Kraay",
+  "timestamp": "2026-08-15 17:06:57 EEST",
+  "conclusion": "Panelul este echilibrat, cu 46 economii și 1058 observații country-year. Testele de selecție favorizează specificația Two-Way Fixed Effects. Efectele temporale comune sunt susținute de testele aplicate. Diagnosticul indică heteroscedasticitate. Există dovezi privind autocorelarea serială. Nu apar dovezi clare privind dependența transversală. Inferența robustă utilizată pentru interpretarea finală este: Driscoll–Kraay. Rezultatele descriu asocieri statistice în date panel și nu demonstrează automat relații cauzale.",
+  "notes": {
+    "panel_method": "Spre deosebire de analiza transversală, modelele panel utilizează atât dimensiunea spațială, cât și dimensiunea temporală a datelor.",
+    "fe": "Modelul FE utilizează variația în interiorul fiecărei economii și controlează caracteristicile constante în timp care diferă între țări.",
+    "re": "Modelul RE presupune că efectul specific fiecărei țări nu este corelat cu predictorii incluși.",
+    "robust": "Erorile standard robuste modifică inferența statistică – erorile standard, statisticile și valorile p – nu coeficienții estimați ai modelului.",
+    "normality": "În panelurile cu un număr mare de observații, inferența modelelor FE/RE se bazează mai mult pe specificarea corectă și pe erori standard robuste decât pe normalitatea strictă a reziduurilor.",
+    "fixed_effects": "Efectele fixe surprind caracteristici neobservate ale economiilor care sunt relativ constante în timp și nu trebuie interpretate drept performanță sau clasament."
+  }
+}

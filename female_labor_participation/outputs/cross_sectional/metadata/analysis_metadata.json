@@ -1,0 +1,33 @@
+{
+  "anul_analizat": 2023,
+  "n_total": 46,
+  "n_simple": 40,
+  "n_multiple": 39,
+  "train_n": 31,
+  "test_n": 8,
+  "data_analizata": "/Users/sfetcuandreeadaniela/Desktop/ECONOMETRICproject/female_labor_participation/data/P_Data_Extract_From_World_Development_Indicators.xlsx",
+  "timestamp_rulare": "2026-08-15 17:06:52 EEST",
+  "predictor_simplu": "inflation",
+  "predictor_simplu_label": "Inflație",
+  "prag_digitalizare": 91.5125,
+  "lambda_ridge": {
+    "lambda_min": 30.6181,
+    "lambda_1se": 6151.8808
+  },
+  "lambda_lasso": {
+    "lambda_min": 0.872,
+    "lambda_1se": 2.9226
+  },
+  "concluzii": {
+    "model_simplu": "Inflația prezintă o asociere negativă și semnificativă statistic cu rata participării femeilor în secțiunea transversală analizată. Regresia transversală identifică asocieri statistice și nu demonstrează automat efecte cauzale.",
+    "ridge_lasso": "În această partiționare train/test, modelul Ridge a obținut cea mai redusă valoare RMSE. Rezultatul reflectă performanța predictivă pe setul de test și nu implică automat o superioritate cauzală sau structurală față de modelele econometrice."
+  },
+  "note": {
+    "transversal": "Analiza transversală utilizează observațiile disponibile pentru economiile europene într-un singur moment temporal – anul 2023. Rezultatele descriu diferențele dintre țări și nu trebuie confundate cu efectele estimate din modelele panel.",
+    "cauzalitate": "Asocierile identificate prin regresie transversală nu demonstrează automat relații cauzale.",
+    "autocorelare": "Testele Durbin-Watson și Breusch-Godfrey sunt prezentate pentru consistență cu cadrul analitic de referință, însă interpretarea autocorelării seriale este mai relevantă pentru date ordonate temporal.",
+    "robust_hc3": "Coeficienții cu erori standard robuste HC3 sunt prezentați ca verificare suplimentară atunci când heteroscedasticitatea poate afecta erorile standard convenționale.",
+    "influenta": "Observațiile influente sunt investigate, nu eliminate automat.",
+    "ridge_lasso": "Ridge și LASSO sunt utilizate ca instrumente predictive și de regularizare, nu ca substitut automat pentru interpretarea econometrică."
+  }
+}

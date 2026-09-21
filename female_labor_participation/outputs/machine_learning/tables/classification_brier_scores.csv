@@ -1,0 +1,22 @@
+Model,Clasă,Brier Score
+Dummy Classifier,Participare scăzută,0.8472906403940886
+Dummy Classifier,Participare medie,0.21674876847290642
+Dummy Classifier,Participare ridicată,0.6305418719211823
+Logistic Regression,Participare scăzută,0.09831044454300412
+Logistic Regression,Participare medie,0.17565188473549723
+Logistic Regression,Participare ridicată,0.17490240819033145
+SVC,Participare scăzută,0.0659272047992817
+SVC,Participare medie,0.1349927793645212
+SVC,Participare ridicată,0.12153592412409629
+Random Forest,Participare scăzută,0.07607709212974151
+Random Forest,Participare medie,0.14196955883177023
+Random Forest,Participare ridicată,0.12196456306691905
+Gradient Boosting,Participare scăzută,0.08192757311698551
+Gradient Boosting,Participare medie,0.20033520550092088
+Gradient Boosting,Participare ridicată,0.1656141514845092
+XGBoost,Participare scăzută,0.07383049406123231
+XGBoost,Participare medie,0.13555805475644261
+XGBoost,Participare ridicată,0.1172984321152079
+Extra Trees,Participare scăzută,0.06044644215321549
+Extra Trees,Participare medie,0.12898858722493356
+Extra Trees,Participare ridicată,0.11478905226374286

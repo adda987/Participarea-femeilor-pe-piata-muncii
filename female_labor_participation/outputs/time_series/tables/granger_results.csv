@@ -1,0 +1,3 @@
+"Direcție","Lag VAR","Statistică","p-value","Concluzie"
+"Inflație → FLFP",1,0.903055571680688,0.348300290753511,"Nu respingem H0: nu apar dovezi suficiente de valoare predictivă incrementală."
+"FLFP → Inflație",1,0.370360363891839,0.546628961391518,"Nu respingem H0: nu apar dovezi suficiente de valoare predictivă incrementală."

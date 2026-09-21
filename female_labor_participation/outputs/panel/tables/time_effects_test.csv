@@ -1,0 +1,2 @@
+"Categorie","Test","Ipoteza nulă","Statistică","df","p-value","Decizie","Interpretare"
+"Selecția modelului","Test efecte temporale: FE one-way vs two-way","Efectele temporale comune nu aduc informație suplimentară.",4.34673771780416,"df1 21; df2 745",4.900674166413e-10,"Respingem H0","Respingem ipoteza nulă la pragul de 5%. Efectele temporale comune aduc informație suplimentară pentru specificația panel."

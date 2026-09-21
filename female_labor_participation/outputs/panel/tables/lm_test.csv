@@ -1,0 +1,2 @@
+"Categorie","Test","Ipoteza nulă","Statistică","df","p-value","Decizie","Interpretare"
+"Selecția modelului","Breusch-Pagan LM: RE vs Pooled","Varianța efectului individual este zero; pooled OLS este suficient.",3747.85243083257,"df 1",0,"Respingem H0","Respingem ipoteza nulă la pragul de 5%. Există heterogenitate panel semnificativă, ceea ce favorizează RE față de pooled OLS."
