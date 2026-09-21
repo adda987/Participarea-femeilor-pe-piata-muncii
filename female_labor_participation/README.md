@@ -1,79 +1,127 @@
 # Determinanții participării femeilor pe piața muncii în economiile europene, 2001–2023
 
-Aplicație multipagină Streamlit pentru un proiect academic și de știința datelor dedicat analizei factorilor asociați cu participarea femeilor pe piața muncii în economiile europene, în perioada 2001–2023.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adda987/Participarea-femeilor-pe-piata-muncii/main/female_labor_participation/assets/logo_ads.png" alt="Project logo" width="140" />
+</p>
 
-Proiect dezvoltat de **Andreea-Daniela Sfetcu**.
+<p align="center">
+  <a href="https://participarea-femeilor-pe-piata-muncii-hntenjayuttsjzggt7hewa.streamlit.app/">
+    <img alt="Live app" src="https://img.shields.io/badge/Live%20App-Open-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-4.x-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-## Întrebarea de cercetare
+Aplicație multipagină Streamlit dedicată analizei determinantelor participării femeilor pe piața muncii în economiile europene, în perioada 2001–2023.
 
-Care sunt principalii factori macroeconomici, demografici, educaționali, structurali, digitali, instituționali și de politică familială asociați cu participarea femeilor pe piața muncii în economiile europene în perioada 2001–2023?
+## Despre proiect
 
-## Obiective
+Proiectul combină cercetarea academică cu o prezentare interactivă, explorând modul în care factori macroeconomici, demografici, educaționali, structurali, digitali și instituționali se asociază cu rata participării femeilor la forța de muncă.
 
-- Organizarea literaturii de specialitate într-o matrice documentată.
-- Construirea și validarea unei baze de date panel pentru economiile europene.
-- Documentarea variabilelor într-un dicționar interactiv al datelor.
-- Analiza statistică descriptivă, transversală, panel și temporală.
-- Pregătirea unui cadru de Machine Learning cu validare atentă și prevenirea scurgerii de informație între antrenare și testare.
-- Interpretarea economică a rezultatelor și formularea implicațiilor de politică publică.
-- Documentarea parcursului personal al cercetării.
+Dashboard-ul include:
+
+- revizuirea literaturii de specialitate
+- dicționar interactiv de variabile
+- analiză descriptivă și comparativă între țări
+- econometrie panel și serii de timp
+- modele de Machine Learning
+- concluzii și implicații de politică publică
+
+## Aplicația live
+
+Accesați aplicația aici:
+
+- https://participarea-femeilor-pe-piata-muncii-hntenjayuttsjzggt7hewa.streamlit.app/
 
 ## Structura proiectului
 
 ```text
 female_labor_participation/
 ├── app.py
-├── pages/
-│   ├── 01_Literature_Review.py
-│   ├── 02_Data_and_Variables.py
-│   ├── 03_Descriptive_Analysis.py
-│   ├── 04_Cross_Sectional_Analysis.py
-│   ├── 05_Panel_Econometrics.py
-│   ├── 06_Time_Dynamics.py
-│   ├── 07_Machine_Learning.py
-│   └── 08_Results_and_Conclusions.py
+├── README.md
+├── requirements.txt
+├── assets/
+│   ├── styles.css
+│   └── logo_ads.png
 ├── components/
 │   ├── sidebar.py
+│   ├── html.py
 │   ├── metric_cards.py
 │   ├── charts.py
 │   ├── tables.py
 │   ├── article_cards.py
 │   ├── empty_states.py
 │   └── footer.py
+├── config/
+│   └── europe_countries.csv
 ├── data/
-│   ├── raw/
-│   ├── intermediate/
-│   └── processed/
+│   ├── P_Data_Extract_From_World_Development_Indicators.xlsx
+│   ├── geo/
+│   └── ...
+├── pages/
+│   ├── 01_Literature_Review.py
+│   ├── 02_Data_and_Variables.py
+│   ├── 03_Descriptive_Analysis.py
+│   ├── 04_Cross_Sectional_Analysis.py
+│   ├── 06_Time_Dynamics.py
+│   ├── 07_Machine_Learning.py
+│   └── 08_Results_and_Conclusions.py
+├── R/
+│   ├── analiza_transversala.R
+│   ├── analiza_panel.R
+│   └── analiza_serii_timp.R
 ├── src/
 │   ├── data_loader.py
 │   ├── data_validation.py
 │   ├── data_cleaning.py
-│   ├── missing_values.py
 │   ├── descriptive_statistics.py
 │   ├── cross_sectional_models.py
 │   ├── panel_models.py
 │   ├── time_series.py
 │   ├── machine_learning.py
 │   └── utils.py
-├── assets/
-│   ├── styles.css
-│   └── logo_ads.png
 ├── outputs/
-│   ├── figures/
-│   ├── tables/
-│   ├── models/
-│   └── reports/
+│   ├── cross_sectional/
+│   ├── machine_learning/
+│   └── ...
 ├── literature/
 │   ├── literature_matrix.xlsx
 │   └── article_notes/
-├── requirements.txt
-├── README.md
 └── .gitignore
 ```
 
-## Instalare
+## Întrebarea de cercetare
 
-Din folderul care conține proiectul:
+Care sunt principalii factori macroeconomici, demografici, educaționali, structurali, digitali, instituționali și de politică familială asociați cu participarea femeilor pe piața muncii în economiile europene?
+
+## Metodologie
+
+Aplicația este structurată pe mai multe etape:
+
+1. literatură și definiție conceptuală
+2. colectare și validare a datelor
+3. analize descriptive și comparări transversale
+4. modele econometrice panel
+5. dinamică temporală și șocuri economice
+6. evaluare Machine Learning
+7. interpretare și concluzii
+
+## Tehnologii
+
+- Python 3.10+
+- Streamlit
+- Pandas, NumPy, SciPy
+- Plotly
+- scikit-learn
+- GeoPandas
+- OpenPyXL
+- XGBoost, SHAP
+- R pentru analiza econometrică
+
+## Pornire locală
+
+Din directorul proiectului:
 
 ```bash
 cd female_labor_participation
@@ -81,19 +129,12 @@ python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-```
-
-## Pornirea aplicației
-
-```bash
 streamlit run app.py
 ```
 
-Aplicația citește automat fișierul Excel existent în folderul `data`.
+## Analiză în R
 
-## Dependențe R pentru analiza transversală
-
-Pagina „Analiza transversală” rulează calculele statistice prin `Rscript`, folosind scriptul `R/analiza_transversala.R`. Pachetele R necesare trebuie instalate manual o singură dată:
+Unele scene ale aplicației rulează calcule econometrice în R. Pachetele necesare pot fi instalate o singură dată:
 
 ```r
 install.packages(c(
@@ -105,54 +146,35 @@ install.packages(c(
 ))
 ```
 
-Aplicația nu execută automat `install.packages()`. Analiza poate fi rulată direct din terminal:
+Pentru a executa scripturile direct:
 
 ```bash
 Rscript R/analiza_transversala.R
-```
-
-Pentru pagina „Analiză econometrică panel”, analiza poate fi rulată direct prin:
-
-```bash
 Rscript R/analiza_panel.R
-```
-
-Pentru pagina „Serii de timp și dinamică temporală”, analiza poate fi rulată direct prin:
-
-```bash
 Rscript R/analiza_serii_timp.R
 ```
 
-## Fișiere de date
+## Date și surse
 
-- `data/P_Data_Extract_From_World_Development_Indicators.xlsx`: baza WDI utilizată în aplicație.
-- `data/raw/`: fișiere brute descărcate din sursele originale, dacă vor fi păstrate separat.
-- `data/intermediate/`: fișiere transformate intermediar.
-- `data/dataset_path.txt`: cale relativă opțională către fișierul principal de date.
-- `literature/literature_matrix.xlsx`: structură auxiliară; pagina de literatură folosește introducere manuală în aplicație.
+Datele sunt centrate pe indicatori din World Development Indicators și pe variabile de tip macroeconomic, structural și instituțional. În aplicație apar, printre altele:
 
-## Surse de date planificate
+- PIB pe locuitor
+- inflație
+- șomaj feminin
+- fertilitate
+- urbanizare
+- educație terțiară
+- utilizarea internetului
+- controlul corupției
 
-- Eurostat: piața muncii, demografie, educație, digitalizare.
-- Banca Mondială / WDI: indicatori macroeconomici și structurali.
-- OCDE: politici familiale, fiscalitate, indicatori instituționali.
-- OIM: indicatori comparabili ai ocupării și participării.
-- Indicatorii de guvernanță mondială: guvernanță și controlul corupției.
+## Autor
 
-Sursele, codurile indicatorilor, definițiile, unitățile de măsură și transformările vor fi documentate în dicționarul datelor după selectarea finală a variabilelor.
+Andreea-Daniela Sfetcu
 
-## Parcurs de dezvoltare
+## Observații
 
-- Versiunea 0.1: schelet multipagină, identitate vizuală și componente reutilizabile, fără rezultate fictive.
-- Versiunea 0.2: introducerea manuală și documentarea articolelor.
-- Versiunea 0.3: integrarea setului de date și raport complet de calitate a datelor.
-- Versiunea 0.4: analiză descriptivă și grafice exploratorii.
-- Versiunea 0.5: analiză transversală și diagnostice.
-- Versiunea 0.6: modele panel și robustețe.
-- Versiunea 0.7: dinamică temporală și șocuri.
-- Versiunea 0.8: Machine Learning și interpretabilitate.
-- Versiunea 1.0: rezultate finale, concluzii, exporturi și raport.
+Acest proiect este un instrument de cercetare academică și de explorare bazată pe date. El are rolul de a sintetiza, explica și vizualiza modele economice relevante, fără a substitui analiza critică și interpretarea contextuală.
 
-## Stadiu actual
+---
 
-Aplicație funcțională cu pagini academice interactive și analiză transversală estimată în R pentru anul 2023.
+Pentru un profil GitHub mai scurt și orientat către prezentarea generală a proiectului, vezi și fișierul principal din rădăcina repo-ului: `README.md`.
